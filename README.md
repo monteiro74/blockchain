@@ -20,9 +20,15 @@
 
 ## 1.1. O problema de double spending
 
+[Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
+
 ## 1.2. Critografia de chave pública
 
+[Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
+
 ## 1.3. Certificado digital
+
+[Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
 ## 1.4. Tecnologias de livro razao
 
@@ -59,6 +65,7 @@ B) blockchain. Blockchain e DAG são sub tipos de DLTs.
 
 As principais subdivisões e alguns exemplos são:
 
+[Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
 ### 1.4.1. Gráfos acíclicos dirigidos
 
@@ -113,7 +120,7 @@ Dependendo qual o valor da chave hash
 o arquivo pode ser armazenado na tabela (no topo, por exemplo), para recuperar o arquivo é
 necessário percorrer a tabela, (PSARAS; SOARES; DIAS, 2022).
 
-
+[Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
 ### 1.4.2. Blockchain
 
@@ -145,17 +152,24 @@ Assim, blockchain pode conter dados e código executável (MAESA; MORI, 2020), o
 
 Artigo que iniciou com a ideia: [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf).
 
+
+[Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
+
 --- 
 # 2 Aplicabilidade 
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec orci dui. Pellentesque ultricies auctor faucibus. Se
 
+[Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
+
 ---
 # 3 Tendências
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec orci dui. Pellentesque ultricies auctor faucibus. Sed tempor sem id diam molestie tempus. Duis id aliquam dolor. 
+
+[Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
 ---
 # 4 Artigos interessantes
@@ -165,14 +179,23 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec orci dui. Pel
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec orci dui. Pellentesque ultricies auctor faucibus. Sed tempor sem id diam molestie tempus. Duis id aliquam dolor. 
 
+[Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
+
 ---
 # 5 Fontes
 
 
 Duis id aliquam dolor. Sed posuere ut nulla non dictum. Fusce dignissim, nisl sit amet mattis venenatis, urna justo consequat ex, sit amet semper sapien turpis id leo. Phasellus mollis dignissim tincidunt. 
 
+[Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
+
 ---
 # 6 Videos
 
+
+[Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
+
 ---
 # 7 Reportagens
+
+[Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
