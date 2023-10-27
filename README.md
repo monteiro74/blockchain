@@ -52,13 +52,13 @@ Artigo que iniciou com a ideia: [Bitcoin: A Peer-to-Peer Electronic Cash System]
 # 2 Aplicabilidade 
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec orci dui. Pellentesque ultricies auctor faucibus. Sed tempor sem id diam molestie tempus. Duis id aliquam dolor. Sed posuere ut nulla non dictum. Fusce dignissim, nisl sit amet mattis venenatis, urna justo consequat ex, sit amet semper sapien turpis id leo. Phasellus mollis dignissim tincidunt. Integer posuere elit nec lectus consequat consequat. In in aliquam orci. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Cras vitae ex interdum, suscipit ante at, finibus mi. Fusce aliquam in nunc quis iaculis. Nam quis neque diam. Nulla nisl ex, ultricies ut magna nec, dignissim condimentum nisi. Sed vehicula sem massa, a molestie ex pharetra eu.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec orci dui. Pellentesque ultricies auctor faucibus. Se
 
 ---
 # 3 Tendências
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec orci dui. Pellentesque ultricies auctor faucibus. Sed tempor sem id diam molestie tempus. Duis id aliquam dolor. Sed posuere ut nulla non dictum. Fusce dignissim, nisl sit amet mattis venenatis, urna justo consequat ex, sit amet semper sapien turpis id leo. Phasellus mollis dignissim tincidunt. Integer posuere elit nec lectus consequat consequat. In in aliquam orci. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Cras vitae ex interdum, suscipit ante at, finibus mi. Fusce aliquam in nunc quis iaculis. Nam quis neque diam. Nulla nisl ex, ultricies ut magna nec, dignissim condimentum nisi. Sed vehicula sem massa, a molestie ex pharetra eu.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec orci dui. Pellentesque ultricies auctor faucibus. Sed tempor sem id diam molestie tempus. Duis id aliquam dolor. 
 
 ---
 # 4 Artigos interessantes
@@ -66,10 +66,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec orci dui. Pel
 1. [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec orci dui. Pellentesque ultricies auctor faucibus. Sed tempor sem id diam molestie tempus. Duis id aliquam dolor. Sed posuere ut nulla non dictum. Fusce dignissim, nisl sit amet mattis venenatis, urna justo consequat ex, sit amet semper sapien turpis id leo. Phasellus mollis dignissim tincidunt. Integer posuere elit nec lectus consequat consequat. In in aliquam orci. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Cras vitae ex interdum, suscipit ante at, finibus mi. Fusce aliquam in nunc quis iaculis. Nam quis neque diam. Nulla nisl ex, ultricies ut magna nec, dignissim condimentum nisi. Sed vehicula sem massa, a molestie ex pharetra eu.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec orci dui. Pellentesque ultricies auctor faucibus. Sed tempor sem id diam molestie tempus. Duis id aliquam dolor. 
 
 ---
 # 5 Fontes
 
 
-Duis id aliquam dolor. Sed posuere ut nulla non dictum. Fusce dignissim, nisl sit amet mattis venenatis, urna justo consequat ex, sit amet semper sapien turpis id leo. Phasellus mollis dignissim tincidunt. Integer posuere elit nec lectus consequat consequat. In in aliquam orci. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Cras vitae ex interdum, suscipit ante at, finibus mi. Fusce aliquam in nunc quis iaculis. Nam quis neque diam. Nulla nisl ex, ultricies ut magna nec, dignissim condimentum nisi. Sed vehicula sem massa, a molestie ex pharetra eu.
+Duis id aliquam dolor. Sed posuere ut nulla non dictum. Fusce dignissim, nisl sit amet mattis venenatis, urna justo consequat ex, sit amet semper sapien turpis id leo. Phasellus mollis dignissim tincidunt. 
+
+---
+# 6 Videos
+
+---
+# 7 Reportagens
