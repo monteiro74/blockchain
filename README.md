@@ -3,39 +3,20 @@
 
 
 [1 Conceitos](#1-Conceitos) <br>
-[1.1 Tipos](##1.1-Tipos)<br>
+[1.1. O problema de double spending](#11-o-problema-de-double-spending)<br>
+[1.2. Criptografia de chave pública](#12-critografia-de-chave-pública)<br>
+[1.3. Certificado digital](#13-certificado-digital)<br>
+[1.4. Tecnologias de livro razao](#14-tecnologias-de-livro-razao)<br>
 [2 Aplicabilidade](#2-Aplicabilidade)<br>
 [3 Tendências](#3-Tendências)<br>
 [4 Artigos interessantes](#4-Artigos-interessantes)<br>
 [5 Fontes](#4-Fontes)<br>
 
 
-<!---
-     comentario 0
-
-     ![Nova lei de licitação](https://raw.githubusercontent.com/monteiro74/lab_inova_serv_pub/main/imagens/nova_lei_licitacao.jpeg)
-
-
-
-
-```
-exemplo de caixa de texto
-```
-
-
-
-|	          | CPSI          | Contrato de fornecimento|
-| ------------ | ------------- | ----------------------- |
-| Tempo        | 12 meses + 12 | 24 meses + 24           |
-| Valor        | 1,6 milhão    | 8 milhões               |
-
-
-
-
--->
 
 ---
 # 1 Conceitos
+
 
 ## 1.1. O problema de double spending
 
@@ -43,8 +24,7 @@ exemplo de caixa de texto
 
 ## 1.3. Certificado digital
 
-
-## 1.4. Tecnologias de livre razao
+## 1.4. Tecnologias de livro razao
 
 Tecnologias de livro razão distribuídas (ou "Distributed Ledger Technology (DLT)"do inglês) podem ser usadas para resolver problemas provocados pelo uso de uma terceira parte para autenticar transações, evitar cobranças de serviços, diminuir tempo de processamento, não se submeter a uma autoridade central e evitar um ponto de falha. 
 
