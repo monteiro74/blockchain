@@ -7,10 +7,12 @@
 [1.2. Criptografia de chave pública](#12-critografia-de-chave-pública)<br>
 [1.3. Certificado digital](#13-certificado-digital)<br>
 [1.4. Tecnologias de livro razao](#14-tecnologias-de-livro-razao)<br>
-[2 Aplicabilidade](#2-Aplicabilidade)<br>
-[3 Tendências](#3-Tendências)<br>
-[4 Artigos interessantes](#4-Artigos-interessantes)<br>
-[5 Fontes](#4-Fontes)<br>
+[2. Aplicabilidade](#2-Aplicabilidade)<br>
+[3. Tendências](#3-Tendências)<br>
+[4. Artigos interessantes](#4-Artigos-interessantes)<br>
+[5. Fontes](#5-fontes)<br>
+[6. Videos](#6-videos)<br>
+[7. Reportagens](#7-reportagens)<br>
 
 
 
