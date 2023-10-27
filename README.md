@@ -1,4 +1,4 @@
-# blockchain
+# Sobre Blockchain e livros razão
 
 
 
@@ -75,12 +75,15 @@ DLT podem ser divididas em duas classes:
 
 A) grafos acíclicos dirigidos (ou directed acyclic graph (DAG) do inglês) e, 
 
-B) blockchain. Blockchain e DAG são sub tipos de DLTs
+B) blockchain. Blockchain e DAG são sub tipos de DLTs.
 
 As principais subdivisões e alguns exemplos são:
 
 
+### 1.4.1. Gráfos acíclicos dirigidos
 
+
+### 1.4.2. Blockchain
 
 
 Artigo que iniciou com a ideia: [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf).
