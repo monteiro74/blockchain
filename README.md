@@ -150,35 +150,108 @@ necessário percorrer a tabela, (PSARAS; SOARES; DIAS, 2022).
 ### 1.4.2. Blockchain
 
 
-Blockchain é uma cadeia de blocos, na qual cada nó tem blocos de dados, um carimbo de
-data/hora e um hash de código que se refere ao nó anterior, reforçando a cadeia de dados de
-forma imutável (SULTAN; RUHI; LAKHANI, 2018a). 
+Blockchain é uma cadeia de blocos, na qual cada nó tem blocos de dados, um carimbo de data/hora e um hash de código que se refere ao nó anterior, reforçando a cadeia de dados de forma imutável. 
 
-A tecnologia blockchain foi inicialmente projetada para oferecer suporte a moedas criptográficas (MAESA; MORI, 2020), mas
-hoje, pode-se usá-la para outros fins, incluindo rastreamento da cadeia logística e contratos
-entre pessoas que não se conhecem. 
+A tecnologia blockchain foi inicialmente projetada para oferecer suporte a moedas criptográficas, mas hoje, pode-se usá-la para outros fins, incluindo rastreamento da cadeia logística e contratos entre pessoas que não se conhecem. 
 
-Assim, a blockchain funciona salvando as transações de
-interesse para as quais foi projetada, onde cada uma pode implementar uma série de regras e
-também servir para transmitir dados. 
+Assim, a blockchain funciona salvando as transações de interesse para as quais foi projetada, onde cada uma pode implementar uma série de regras e também servir para transmitir dados. 
 
-Em particular, as regras para a execução de transações
-ou operações são realizadas por meio de contratos inteligentes (SALAH et al., 2019; SULTAN;
-RUHI; LAKHANI, 2018a). 
+Em particular, as regras para a execução de transações ou operações são realizadas por meio de contratos inteligentes. 
 
-Do ponto de vista do programador, elas podem ser vistas como
-um script (ou, simplificando, um programa que deve ser executado automaticamente quando
-uma transação é realizada). 
+Do ponto de vista do programador, elas podem ser vistas como um script (ou, simplificando, um programa que deve ser executado automaticamente quando uma transação é realizada). 
 
-Assim, blockchain pode conter dados e código executável (MAESA; MORI, 2020), onde o último é visto como a lógica de programação para atualizar dados e disparar ações externas ao blockchain, Figura 7.
+Assim, blockchain pode conter dados e código executável (MAESA; MORI, 2020), onde o último é visto como a lógica de programação para atualizar dados e disparar ações externas ao blockchain.
 
 
+* "Bloco" são os dados armazenados de forma sequencial.<br>
+
+* "Cadeia" é o termo usado porque um dos campos do bloco é um apontador para o seu bloco pai. Desta forma os bloco são serializados e unidos sequencialmente. 
 
 
 Artigo que iniciou com a ideia: [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf).
 
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
+
+### 1.5. Ethereum 
+
+Ethereum é uma rede de computadores em todo o mundo que segue um conjunto de regras do chamado protocolo Ethereum.
+
+### 1.6. EVM
+
+A Máquina Virtual Ethereum é o computador virtual global cujo estado todos os participantes (nós) da rede Ethereum armazenam (seu estado) e concordam. Qualquer participante pode solicitar a execução de código arbitrário na EVM; a execução do código (via smart contract) altera o estado do EVM. 
+
+
+### 1.7. Smart contracts
+
+Contratos inteligentes são programas de computador que estão e rodam na blockchain Ethereum. Transações acionam smart contracts. São acionados por aplicativos de usuários. Nick Szabo cunhou o termo "smart contract“, em 1994. Szabo idealizou um mercado virtual onde negócios automáticos e criptografados permitissem que transações ocorressem sem intermediários confiáveis.
+
+Fonte: https://ethereum.org/en/smart-contracts/
+
+### 1.8. ETH
+
+ETH é uma criptomoeda (similar ao Bitcoin). Enviar ETH para outra pessoa você pagará uma taxa em ETH. Esse valor pago em ETH é a motivação para os validadores de bloco processar e verificar o que os usuários desejam fazer. Validadores são selecionados aleatóriamente para tratar um bloco de transações e posteriormente são recompensados com ETH.
+
+Fonte: https://ethereum.org/en/eth/
+
+### 1.9. Wallets
+
+Uma carteira é uma forma de se controlar uma conta. Ela contém a identidade do usuário e seus ativos, além de informar saldos e enviar transações. A carteira é uma forma de interação com a rede Ethereum.
+
+#### 1.9.1. Carteiras, Contas, Chaves e Endereços
+
+* Uma conta Ethereum é um par de chaves. Uma chave (pública) é usada para criar o endereço que pode ser compartilhado livremente e a outra chave (privada) é mantida em segredo porque é usada para assinar transações. Juntas, essas chaves permitem manter ativos e fazer transações.
+* Uma conta Ethereum possui um endereço, assim como um email possui uma caixa de entrada. Isso é usado para identificar ativos digitais.
+* Uma carteira é uma ferramenta (de software ou hardware) que permite interagir com uma conta, usando uma par de chaves. Ele permite que se visualize o saldo de uma conta, envie transações etc.
+* A maioria dos produtos de carteira permite gerar uma conta Ethereum.
+
+Fonte: https://ethereum.org/en/wallets
+
+### 1.10. Gas fee
+
+Cada transação realizada no Ethereum consome "gas".
+Enviar uma transação ou executar um smart contract gasta "gas".
+
+Fonte: https://ethereum.org/en/wallets/
+
+### 1.11. Mining (mineração)
+
+A “mineração” de blockchain é uma metáfora para o trabalho computacional que os nós da rede realizam para validar as informações contidas nos blocos. Assim, na realidade, os mineiros estão essencialmente a ser pagos pelo seu trabalho como auditores.
+
+Fonte: https://www.investopedia.com/tech/how-does-bitcoin-mining-work/#:~:text=Blockchain%20%22mining%22%20is%20a%20metaphor,for%20their%20work%20as%20auditors.
+
+
+A mineração de Bitcoin é o processo de validação das informações em um bloco blockchain, gerando uma solução criptográfica que atende a critérios específicos. Quando uma solução correta é alcançada, uma recompensa na forma de bitcoin e taxas pelo trabalho realizado é dada ao(s) minerador(es) que alcançaram a solução primeiro.
+
+Fonte: https://www.investopedia.com/terms/b/bitcoin-mining.asp
+
+
+```
+Como funciona a mineração de Bitcoin?
+Aqui está um exemplo simplificado para explicar o processo. 
+Digamos que você peça a amigos para adivinharem um número entre 1 e 100. 
+Seus amigos não precisam adivinhar o número exato; eles só precisam ser 
+os primeiros a adivinhar um número menor ou igual ao seu número. 
+Se você pensar no número 19 e um amigo aparecer com 21, outro 55 e ainda outro 83, 
+eles perdem porque todos adivinharam mais de 19. Mas se sobrarem três amigos
+e o próximo acertar 16, eles ganham , e os outros não têm chance de adivinhar. 
+Quem acertou 16 foi o primeiro a adivinhar um número menor ou igual a 19.
+Fonte: https://www.investopedia.com/terms/b/bitcoin-mining.asp
+
+```
+
+### Consenso
+
+É um sistema que valida uma transação e a marca como autêntica. Este mecanismo lista todas as transações válidas de uma moeda em uma blockchain para construir confiança na moeda entre os comerciantes. Diversas moedas, como Bitcoin, Ethereum etc., utilizam este sistema.
+
+PoW (Proof of Work): ‘Prova’ refere-se à solução de um problema altamente complexo, e ‘trabalho’ refere-se ao processo de resolução do mesmo. Os mineradores de moedas criptográficas competem para resolver o problema e ganhar o direito de processar a transação. O solucionador mais rápido recebe uma taxa de mineração dos comerciantes dessas moedas.
+
+Fonte https://cleartax.in/s/consensus-in-blockchain
+
+
+
+
+
 
 --- 
 # 2 Aplicabilidade 
