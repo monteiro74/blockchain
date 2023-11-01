@@ -457,14 +457,134 @@ MONTEIRO, E. S.; ROSA RIGHI, R. da; BARBOSA, J. L. V.; ALBERTI, A. M. APTM: a
 model for pervasive traceability of agrochemicals. Applied Sciences, [S.l.], v. 11, n. 17, 2021.
 
 
+NIE, Y.; HE, X.-W.; CAI, W.-L.; LIU, Z.-H. Improve the security of Hyperledger Fabric by
+dynamically selecting endorsing peers. In: INTERNATIONAL SYMPOSIUM ON
+COMPUTER AND INFORMATION PROCESSING TECHNOLOGY (ISCIPT), 2021., 2021.
+Anais. . . [S.l.: s.n.], 2021. p. 659–663.
 
 
 
+OCDE. recommendation of the council on blockchain and other distributed ledger
+technologies. 2 Rue André Pascal, 75016 Paris, France: OCDE, 2022. Council at Ministerial.
+
+OGUNDARE, I. Cardano to scale to 1,000,000 tps with Hydra for micropayments on
+ADA blockchain. [S.l.]: Crypto News Flash, 2022.
+
+PARK, S.; KIM, H. DAGmap: multi-drone slam via a dag-based distributed ledger. Drones,
+[S.l.], v. 6, n. 2, 2022.
 
 
+PENG, Y.; DU, M.; LI, F.; CHENG, R.; SONG, D. FalconDB: blockchain-based collaborative
+database. In: ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF
+DATA, 2020., 2020, New York, NY, USA. Proceedings. . . Association for Computing
+Machinery, 2020. p. 637–652. (SIGMOD ’20).
 
 
+PEREZ, A. O.; DOMINGO-PALAOAG, T. Blockchain-based Model for Health Information
+Exchange: a case for simulated patient referrals using an electronic medical record. IOP
+Conference Series: Materials Science and Engineering, [S.l.], v. 1077, n. 1, p. 012059,
+feb 2021.
+
+
+PRASHAR, D.; JHA, N.; JHA, S.; LEE, Y.; JOSHI, G. P. Blockchain-Based Traceability and
+Visibility for Agricultural Products: a decentralized way of ensuring food safety in india.
+Sustainability, [S.l.], v. 12, n. 8, 2020.
+
+PSARAS, Y.; SOARES, J. M.; DIAS, D. To the InterPlanetary File System–and Beyond!:
+peer-to-peer file sharing would make the internet far more efficient. IEEE Spectrum, [S.l.],
+v. 59, n. 11, p. 34–39, 2022.
+
+PURBO, O.; SRIYANTO, S.; SUHENDRO, S.; RZ, A.; HERWANTO, R. Benchmark and
+comparison between hyperledger and MySQL. TELKOMNIKA (Telecommunication
+Computing Electronics and Control), [S.l.], v. 18, p. 705, 04 2020.
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
+
+RAUCHS, M.; GLIDDEN, A.; GORDON, B.; PIETERS, G.; RECANATINI, M.; ROSTAND,
+F.; VAGNEUR, K.; ZHANG, B. Distributed Ledger Technology Systems: a conceptual
+framework. SSRN Electronic Journal, [S.l.], 01 2018.
+
+SA, R.; MOREIRA, L.; MACHADO, J. A modular approach to Hybrid Blockchain-based and
+Relational Database Architectures. In: ESTENDIDOS DO XXXVII SIMPóSIO
+BRASILEIRO DE BANCOS DE DADOS, 2022, Porto Alegre, RS, Brasil. Anais. . . SBC,
+2022. p. 154–160.
+
+SADEQ, M. J.; RAYHAN KABIR, S.; AKTER, M.; FORHAT, R.; HAQUE, R.;
+AKHTARUZZAMAN, M. Integration of Blockchain and Remote Database Access
+Protocol-Based Database. In: FIFTH INTERNATIONAL CONGRESS ON INFORMATION
+AND COMMUNICATION TECHNOLOGY, 2021, Singapore. Proceedings. . . Springer
+Singapore, 2021. p. 533–539.
+
+
+SALAH, K.; REHMAN, M. H. U.; NIZAMUDDIN, N.; AL-FUQAHA, A. Blockchain for AI:
+review and open research challenges. IEEE Access, [S.l.], v. 7, p. 10127–10149, 2019.
+
+SILVA, J. O. D. da; SANTOS, D. R. dos. Study of Blockchain Application in the Logistics
+Industry. Theoretical Economics Letters, [S.l.], v. 12, n. 2, p. 321–342, 4 2022.
+
+SINGH, A.; GUTUB, A.; NAYYAR, A.; KHAN, M. K. Redefining food safety traceability
+system through blockchain: findings, challenges and open issues. Multimedia Tools and
+Applications, [S.l.], Oct 2022.
+
+
+SINGH, N.; VARDHAN, M. Computing Optimal Block Size for Blockchain based
+Applications with Contradictory Objectives. Procedia Computer Science, [S.l.], v. 171,
+p. 1389–1398, 2020. Third International Conference on Computing and Network
+Communications (CoCoNet’19).
+
+SOLVEJ, K.; NATARAJAN, K.; HARISH, G.; LUSKIN, H. Distributed Ledger Technology
+(DLT) and blockchain. Washington, D.C., 2017.
+
+SULTAN, K.; RUHI, U.; LAKHANI, R. Conceptualizing Blockchains: characteristics &
+applications. CoRR, [S.l.], v. abs/1806.03693, 2018.
+
+
+SYLIM, P. G.; LIU, F.; MARCELO, A. B.; FONTELO, P. A. Blockchain Technology for
+Detecting Falsified and Substandard Drugs in Distribution: pharmaceutical supply chain
+intervention. JMIR Research Protocols, [S.l.], v. 7, 2018.
+
+SYSRFID: GENERATION OF SYNTHETIC DATA IN SUPPLY CHAINS, 2011, Rome,
+Italy. Anais. . . itAIS, 2011. p. 6.
+
+TAN, E.; MAHULA, S.; CROMPVOETS, J. Blockchain governance in the public sector: a
+conceptual framework for public management. Government Information Quarterly, [S.l.],
+v. 39, p. 101625, 09 2021.
+
+TCU. TCU e BNDES lançam Rede Blockchain Brasil e definem próximos passos. 2022.
+
+VIRIYASITAVAT, W.; HOONSOPON, D. Blockchain characteristics and consensus in
+modern business processes. Journal of Industrial Information Integration, [S.l.], v. 13,
+p. 32–39, 2019.
+
+WANG, Z.; WANG, T.; HU, H.; GONG, J.; REN, X.; XIAO, Q. Blockchain-based framework
+for improving supply chain traceability and information sharing in precast construction.
+Automation in Construction, [S.l.], v. 111, p. 103063, 2020.
+
+WORLDBANK. Blockchain & Distributed Ledger Technology (DLT). 2018. 1 p.
+
+XU, S.; ZHAO, X.; LIU, Z. The impact of blockchain technology on the cost of food
+traceability supply chain. IOP Conference Series: Earth and Environmental Science, [S.l.],
+v. 615, n. 1, p. 012003, dec 2020.
+
+XU, X.; LU, Q.; LIU, Y.; ZHU, L.; YAO, H.; VASILAKOS, A. V. Designing
+blockchain-based applications a case study for imported product traceability. Future
+Generation Computer Systems, [S.l.], v. 92, p. 399–406, 2019.
+
+YADAV, J.; SHEVKAR, R. Performance-Based Analysis of Blockchain Scalability Metric.
+Tehnicki glasnik ˇ , [S.l.], v. 15, p. 133–142, 03 2021.
+
+YUE, K.-B.; CHANDRASEKAR, K.; AND, H. G. Storing and Querying Bitcoin Blockchain
+Using SQL Databases. Information Systems Education Journal (ISEDJ), Texas, USA, v. 8,
+8 2019.
+
+ZAKARI, N.; AL-RAZGAN, M.; ALSAADI, A.; ALSHAREEF, H.; SAIGH, H. A.;
+ALASHAIKH, L.; ALHARBI, M.; ALOMAR, R.; ALOTAIBI, S. Blockchain technology in
+the pharmaceutical industry: a systematic review. PeerJ Comput. Sci., [S.l.], p. 26, 3 2022.
+
+ZHAO, F.; GUO, X.; CHAN, W. K. V. Individual Green Certificates on Blockchain: a
+simulation approach. Sustainability, [S.l.], v. 12, n. 9, 2020.
+
+ZHAO, W.; LV, J.; YAO, X.; ZHAO, J.; JIN, Z.; QIANG, Y.; CHE, Z.; WEI, C. Consortium
+Blockchain-Based Microgrid Market Transaction Research. Energies, [S.l.], v. 12, n. 20, 2019.
 
 ---
 # 6 Videos
