@@ -240,7 +240,7 @@ Fonte: https://www.investopedia.com/terms/b/bitcoin-mining.asp
 
 ```
 
-### Consenso
+### 1.12. Consenso
 
 É um sistema que valida uma transação e a marca como autêntica. Este mecanismo lista todas as transações válidas de uma moeda em uma blockchain para construir confiança na moeda entre os comerciantes. Diversas moedas, como Bitcoin, Ethereum etc., utilizam este sistema.
 
@@ -248,8 +248,11 @@ PoW (Proof of Work): ‘Prova’ refere-se à solução de um problema altamente
 
 Fonte https://cleartax.in/s/consensus-in-blockchain
 
+### 1.13. IDE para programar com Ethereum
 
+Remis Ethereum https://remix.ethereum.org/
 
+Simulador local de Ethereum para desenvolvimento: Ganache
 
 
 
@@ -257,7 +260,7 @@ Fonte https://cleartax.in/s/consensus-in-blockchain
 # 2 Aplicabilidade 
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec orci dui. Pellentesque ultricies auctor faucibus. Se
+Em desenvolvimento.
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
@@ -265,7 +268,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec orci dui. Pel
 # 3 Tendências
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec orci dui. Pellentesque ultricies auctor faucibus. Sed tempor sem id diam molestie tempus. Duis id aliquam dolor. 
+Em desenvolvimento.
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
@@ -275,7 +278,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec orci dui. Pel
 1. [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec orci dui. Pellentesque ultricies auctor faucibus. Sed tempor sem id diam molestie tempus. Duis id aliquam dolor. 
+Em desenvolvimento. 
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
@@ -283,7 +286,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec orci dui. Pel
 # 5 Fontes
 
 
-Duis id aliquam dolor. Sed posuere ut nulla non dictum. Fusce dignissim, nisl sit amet mattis venenatis, urna justo consequat ex, sit amet semper sapien turpis id leo. Phasellus mollis dignissim tincidunt. 
+Em desenvolvimento.
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
