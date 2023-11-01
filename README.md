@@ -397,6 +397,71 @@ ESCUDERO SUBIRANA, J. Consortium Blockchain Smart Contracts for Musical Rights
 Governance in a Collective Management Organizations (CMOs) Use Case. Future Internet,
 [S.l.], v. 12, n. 8, 2020.
 
+KERESZTES, R.; KOVáCS, I.; HORVáTH, A.; ZIMáNYI, K. Exploratory Analysis of
+Blockchain Platforms in Supply Chain Management. Economies, [S.l.], v. 10, n. 9, 2022.
+
+KHAN, D.; JUNG, L. T.; HASHMANI, M. A. Systematic Literature Review of Challenges in
+Blockchain Scalability. Applied Sciences, [S.l.], v. 11, n. 20, 2021.
+
+KHAN, S.; SHAEL, M.; MAJDALAWIEH, M.; NIZAMUDDIN, N.; NICHO, M. Blockchain
+for Governments: the case of the dubai government. Sustainability, [S.l.], v. 14, n. 11, 2022.
+
+KLEMENS, S. How long does a bitcoin transaction take? bitcoin unconfirmed
+transactions. [S.l.]: Exodus Crypto News amp; Insights, 2021.
+
+KOHLI, V.; CHAKRAVARTY, S.; CHAMOLA, V.; SANGWAN, K. S.; ZEADALLY, S. An
+analysis of energy consumption and carbon footprints of cryptocurrencies and possible
+solutions. Digital Communications and Networks, [S.l.], 2022.
+
+KOMOLAFE, O. Solana faster than Algorand and TRON – The fastest blockchains in
+crypto space. [S.l.]: Crypto News Flash, 2022.
+
+KOUSSEMA, R. A.; HAGA, H. Design and Implementation of Highly Secure Residents
+Management System Using Blockchain. Journal of Computer and Communications, [S.l.],
+v. 08No.09, p. 14, 2020.
+
+KUO, T.-T.; ZAVALETA ROJAS, H.; OHNO, L. Comparison of blockchain platforms: a
+systematic review and healthcare examples. Journal of the American Medical Informatics
+Association, [S.l.], v. 26, n. 5, p. 462–478, 03 2019.
+
+LASMOLES, O.; T. DIALLO, M. Impacts of Blockchains on International Maritime Trade.
+Journal of Innovation Economics & Management, Louvain-la-Neuve, v. 37, n. 1,
+p. 91–116, 2022.
+
+LENGE, J.; MUSUMBU, K.; WANUKU, G.; SUNGU, P. Blockchain Technology as A
+Guarantee of Transparency in The Supply Chain of Commercial Enterprises. In: ASIA
+SERVICE SCIENCES AND SOFTWARE ENGINEERING CONFERENCE, 2022., 2022,
+New York, NY, USA. Anais. . . Association for Computing Machinery, 2022. p. 1–7. (ASSE’
+22).
+
+LI, N.; GUO, Y.; CHEN, Y.; CHAI, J. A Partitioned DAG Distributed Ledger with Local
+Consistency for Vehicular Reputation Management. Wireless Communications and Mobile
+Computing, [S.l.], v. 2022, p. 6833535, Mar 2022.
+
+MAESA, D. D. F.; MORI, P. Blockchain 3.0 applications survey. Journal of Parallel and
+Distributed Computing, [S.l.], v. 138, p. 99 – 114, 2020.
+
+MANEVICH, Y.; BARGER, A.; TOCK, Y. Endorsement in Hyperledger Fabric via service
+discovery. IBM Journal of Research and Development, [S.l.], v. 63, n. 2/3, p. 2:1–2:9, 2019.
+
+MASOOD, F.; FARIDI, A. An Overview of Distributed Ledger Technology and its
+Applications. International Journal of Computer Sciences and Engineering, [S.l.], v. 6,
+p. 422–427, 10 2018.
+
+MONTEIRO, E. S.; MIGNONI, M. E.; RIGHI, R. d. R.; KUNST, R. Blockchain e inteligência
+artificial associada no controle de packs agrotóxicos. RICA Revista Ibero-Americana de
+Ciências Ambientais, [S.l.], v. 12, n. 12, 2021.
+
+
+MONTEIRO, E. S.; ROSA RIGHI, R. da; BARBOSA, J. L. V.; ALBERTI, A. M. APTM: a
+model for pervasive traceability of agrochemicals. Applied Sciences, [S.l.], v. 11, n. 17, 2021.
+
+
+
+
+
+
+
 
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
