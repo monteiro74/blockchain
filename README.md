@@ -260,15 +260,22 @@ Simulador local de Ethereum para desenvolvimento: Ganache
 # 2 Aplicabilidade 
 
 
-Em desenvolvimento.
+Desenvolvimento de criptomoedas
+
+Comércio de ativos (NFT, tokens não fungíveis)
+
+Rastreabilidade de transações
+
+Registro imutável de informações
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
 ---
 # 3 Tendências
 
+Google trends usado para mostrar tendências:
 
-Em desenvolvimento.
+https://trends.google.com.br/trends/explore?date=today%205-y&q=blockchain,%2Fg%2F11g0g4sbp3,Ethereum&hl=pt-BR
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
@@ -286,7 +293,111 @@ Em desenvolvimento.
 # 5 Fontes
 
 
-Em desenvolvimento.
+Diversas fontes de pesquisa sobre blockchain:
+
+ACCENTURE. Supply chain traceability in agrochemicals. Belgium: Croplife, 2019.
+
+AGI, M. A.; JHA, A. K. Blockchain technology in the supply chain: an integrated theoretical perspective of organizational adoption. International Journal of Production Economics, [S.l.], v. 247, p. 108458, 2022.
+
+AHMED, S.; KALSOOM, T.; RAMZAN, N.; PERVEZ, Z.; AZMAT, M.; ZEB, B.; UR REHMAN, M. Towards Supply Chain Visibility Using Internet of Things: a dyadic analysis review. Sensors, [S.l.], v. 21, n. 12, 2021. AL-SAID AHMAD, A.; ANDRAS, P. Scalability analysis comparisons of cloud-based software services. Journal of Cloud Computing, [S.l.], v. 8, n. 1, p. 10 Jul 2019.
+
+ANTONOPOULOS, P.; KAUSHIK, R.; KODAVALLA, H.; ROSALES ACEVES, S.; WONG,
+R.; ANDERSON, J.; SZYMASZEK, J. SQL Ledger: cryptographically verifiable data in azure sql database. In: INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, 2021., 2021, New York, NY, USA. Proceedings. . . Association for Computing Machinery, 2021. p. 2437–2449. (SIGMOD ’21).
+
+BASSILIOS, J. OECD adopts recommendations on blockchain and other DLT. Accessed:
+2022-10-20.
+
+BERAWI, M. A.; REYES, G.; SARI, M.; SAROJI, G. Developing Public-Private Partnership
+Model with Blockchain-Based Crowdfunding Concept for Port City Project. In:
+ASSOCIATION FOR COMPUTING MACHINERY, 2021, New York, NY, USA. Anais. . .
+Association for Computing Machinery, 2021. (SPBPU IDE ’20).
+
+BROOKBANKS, M. M.; PARRY, G. The impact of a blockchain platform on trust in
+established relationships: a case study of wine supply chains. Supply Chain Management,
+[S.l.], 2022.
+
+BUSH, K. Blockchain: novel provenance applications. Washington, DC: Congressional
+Research Service, 2022. (R47064).
+
+BUSTAMANTE, P.; CAI, M.; GOMEZ, M.; HARRIS, C.; KRISHNAMURTHY, P.; LAW, W.;
+MADISON, M. J.; MURTAZASHVILI, I.; MURTAZASHVILI, J. B.; MYLOVANOV, T.;
+SHAPOVAL, N.; VEE, A.; WEISS, M. Government by Code? Blockchain Applications to
+Public Sector Governance. Frontiers in Blockchain, [S.l.], v. 5, 2022.
+
+CAGIGAS, D.; CLIFTON, J.; DIAZ-FUENTES, D.; FERNáNDEZ-GUTIéRREZ, M.
+Blockchain for Public Services: a systematic literature review. IEEE Access, [S.l.], v. 9,
+p. 13904–13921, 2021.
+CAI, Z.; YANG, G.; XU, S.; ZANG, C.; CHEN, J.; HANG, P.; YANG, B. RBaaS: a robust
+blockchain as a service paradigm in cloud-edge collaborative environment. IEEE Access,
+[S.l.], v. 10, p. 35437–35444, 2022.
+
+CHARLON, F. Overview of Openchain. 2015.
+
+CHARLON, F. Openchain modules Storage engines. 2015.
+
+CHEN, S.; ZHANG, J.; SHI, R.; YAN, J.; KE, Q. A Comparative Testing on Performance of
+Blockchain and Relational Database: foundation for applying smart technology into current
+business systems. In: _____. . [S.l.: s.n.], 2018. p. 21–34.
+
+DAS, S.; SARAF, C.; KHAIRNAR, D. P. A Hyperledger Fabric Based Organizational
+Decentralized Access Control Solution. In: IEEE 7TH INTERNATIONAL CONFERENCE
+ON ENGINEERING TECHNOLOGIES AND APPLIED SCIENCES (ICETAS), 2020., 2020.
+Anais. . . [S.l.: s.n.], 2020. p. 1–6.
+
+DIB, O.; BROUSMICHE, K.-L.; DURAND, A.; THEA, E.; BEN HAMIDA, E. Consortium
+blockchains: overview, applications and challenges. International Journal On Advances in
+Telecommunications, France, 2018.
+
+EMBRAPA. Uso de blockchain para registro de dados de Cadeia de Suprimentos Verde
+da indústria sucroenergética. 2020.
+
+ESMAEILIAN, B.; SARKIS, J.; LEWIS, K.; BEHDAD, S. Blockchain for the future of
+sustainable supply chain management in Industry 4.0. Resources, Conservation and
+Recycling, [S.l.], v. 163, p. 105064, 2020.
+
+GAO, U. S. G. A. O. Blockchain Emerging Technology Offers Benefits for Some
+Applications but Faces Challenges. Washington, DC0: Government Accountability Office,
+2022. GAO-22-104625.
+
+GERAKOUDI-VENTOURI, K. Review of studies of blockchain technology effects on the
+shipping industry. Journal of Shipping and Trade, [S.l.], v. 7, n. 1, p. 2, Jan 2022.
+
+GUERPINAR, T.; GUADIANA, G.; ASTERIOS IOANNIDIS, P.; STRAUB, N.; HENKE, M.
+The Current State of Blockchain Applications in Supply Chain Management. In: THE 3RD
+INTERNATIONAL CONFERENCE ON BLOCKCHAIN TECHNOLOGY, 2021., 2021, New
+York, NY, USA. Anais. . . Association for Computing Machinery, 2021. p. 168–175. (ICBCT
+’21).
+
+HASAN, H.; ALHADHRAMI, E.; ALDHAHERI, A.; SALAH, K.; JAYARAMAN, R. Smart
+contract-based approach for efficient shipment management. Computers Industrial
+Engineering, [S.l.], v. 136, p. 149–159, 2019.
+
+HRGA, A.; CAPUDER, T.; ZARKO, I. Demystifying Distributed Ledger Technologies:
+limits, challenges and potentials in the energy sector. IEEE Access, [S.l.], v. PP, p. 1–1,
+07 2020.
+
+IMERI, A.; AGOULMINE, N.; KHADRAOUI, D. Blockchain and IoT integrated approach
+for a trusted and secured process to manage the transportation of dangerous goods. Revista de
+sistemas e computação, Salvador, Brasil, v. 10, n. 1, p. 26–41, 2020.
+
+IPFS. How IPFS works. 2022.
+
+ITI. ITI apoia BNDES em projeto de Blockchain. 2022.
+
+ITU-T. Technical Specification FG DLT D3.1 Distributed ledger technology reference
+architecture. Geneva, Switzerland: ITU-T, 2019. (FG DLT D3.1).
+
+JABBAR, A.; DANI, S. Investigating the link between transaction and computational costs in
+a blockchain environment. International Journal of Production Research, [S.l.], v. 58,
+n. 11, p. 3423–3436, 2020.
+
+KAPSOULIS, N.; PSYCHAS, A.; PALAIOKRASSAS, G.; MARINAKIS, A.; LITKE, A.;
+VARVARIGOU, T.; BOUCHLIS, C.; RAOUZAIOU, A.; CALVO, G.;
+ESCUDERO SUBIRANA, J. Consortium Blockchain Smart Contracts for Musical Rights
+Governance in a Collective Management Organizations (CMOs) Use Case. Future Internet,
+[S.l.], v. 12, n. 8, 2020.
+
+
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
