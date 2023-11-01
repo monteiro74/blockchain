@@ -246,6 +246,9 @@ Fonte: https://www.investopedia.com/terms/b/bitcoin-mining.asp
 
 PoW (Proof of Work): ‘Prova’ refere-se à solução de um problema altamente complexo, e ‘trabalho’ refere-se ao processo de resolução do mesmo. Os mineradores de moedas criptográficas competem para resolver o problema e ganhar o direito de processar a transação. O solucionador mais rápido recebe uma taxa de mineração dos comerciantes dessas moedas.
 
+PoS (Proof of Stake): Este mecanismo escolhe aleatoriamente um proprietário máximo de moedas para validar uma transação. Também permite ao proprietário criar um bloco para a mesma moeda. Este mecanismo requer comparativamente menos energia, tempo de transação e uma taxa mais baixa. Moedas como Etherium 2.0
+
+
 Fonte https://cleartax.in/s/consensus-in-blockchain
 
 ### 1.13. IDE para programar com Ethereum
