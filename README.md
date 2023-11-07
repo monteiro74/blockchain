@@ -6,8 +6,7 @@ Alguns conceitos sobre blockchain para serem discutidos em sala de aula. Exemplo
 ---
 Observações:
 ```
-1. Este material pode ser usado como suporte às disciplinas de: banco 
-de dados e projeto de sistemas.
+1. Este material pode ser usado como suporte às disciplinas de: banco de dados e projeto de sistemas.
 2. Este material foi ou poderá ser usado em sala de aula/laboratório/EAD.
 3. É um prerequisito conhecimentos básicos de, segurança da 
 informação, programação e banco de dados.
