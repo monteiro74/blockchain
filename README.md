@@ -1,6 +1,21 @@
 # Sobre Blockchain e livros razão
 
+Objetivos: 
+Alguns conceitos sobre blockchain para serem discutidos em sala de aula. Exemplos que podem ser citados e comentados nas disciplinas que necessitam do apoio de uma banco de dados e projeto de sistemas. Este material é extremamente resumido e supõe que o leitor tem conhecimento básico de programação ou banco de dados. Este não é um guia definitivo, mas um pequeno tutorial compilado para auxiliar alunos e devs. Este material esta em construção.
 
+---
+Observações:
+```
+1. Este material pode ser usado como suporte às disciplinas de: banco 
+de dados e projeto de sistemas.
+2. Este material foi ou poderá ser usado em sala de aula/laboratório/EAD.
+3. É um prerequisito conhecimentos básicos de, segurança da 
+informação, programação e banco de dados.
+4. Esta página poderá passar por atualizações sem aviso prévio.
+```
+
+
+---
 
 [1 Conceitos](#1-Conceitos) <br>
 [1.1. O problema de double spending](#11-o-problema-de-double-spending)<br>
@@ -592,10 +607,13 @@ Blockchain-Based Microgrid Market Transaction Research. Energies, [S.l.], v. 12,
 ---
 # 6 Videos
 
+Em desenvolvimento.
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
 ---
 # 7 Reportagens
+
+Em desenvolvimento.
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
