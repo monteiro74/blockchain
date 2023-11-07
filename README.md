@@ -33,7 +33,7 @@ informação, programação e banco de dados.
 [1.12. Consenso](#112-consenso)<br>
 [1.13. IDE para programar com Ethereum](#113-ide-para-programar-com-ethereum)<br>
 [2. Aplicabilidade](#2-Aplicabilidade)<br>
-[3. Tendências](#3-Tendências)<br>
+[3. Tendências](#3-tendências)<br>
 [4. Artigos interessantes](#4-Artigos-interessantes)<br>
 [5. Fontes](#5-fontes)<br>
 [6. Videos](#6-videos)<br>
@@ -270,8 +270,6 @@ Em desenvolvimento.
 
 
 Diversas fontes de pesquisa sobre blockchain:
-
-ACCENTURE. Supply chain traceability in agrochemicals. Belgium: Croplife, 2019.
 
 AGI, M. A.; JHA, A. K. Blockchain technology in the supply chain: an integrated theoretical perspective of organizational adoption. International Journal of Production Economics, [S.l.], v. 247, p. 108458, 2022.
 
