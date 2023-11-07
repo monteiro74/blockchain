@@ -21,6 +21,17 @@ informação, programação e banco de dados.
 [1.2. Criptografia de chave pública](#12-critografia-de-chave-pública)<br>
 [1.3. Certificado digital](#13-certificado-digital)<br>
 [1.4. Tecnologias de livro razao](#14-tecnologias-de-livro-razao)<br>
+[1.4.1. Gráfos acíclicos dirigidos](#141-gráfos-acíclicos-dirigidos)<br>
+[1.4.2. Blockchain](#142-blockchain)<br>
+[1.5. Ethereum](#15-ethereum)<br>
+[1.6. EVM](#16-evm)<br>
+[1.7. Smart Contract](#17-smart-contracts)<br>
+[1.8. ETH](#18-eth)<br>
+[1.9. Wallets](#19-wallets)<br>
+[1.10. Gas fee](#110-gas-fee)<br>
+[1.11. Mining](#111-mining-mineração)<br>
+[1.12. Consenso](#112-consenso)<br>
+[1.13. IDE para programar com Ethereum](#113-ide-para-programar-com-ethereum)<br>
 [2. Aplicabilidade](#2-Aplicabilidade)<br>
 [3. Tendências](#3-Tendências)<br>
 [4. Artigos interessantes](#4-Artigos-interessantes)<br>
