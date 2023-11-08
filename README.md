@@ -159,7 +159,7 @@ Artigo que iniciou com a ideia: [Bitcoin: A Peer-to-Peer Electronic Cash System]
 
 Projetos de blockchain a partir do ano de criação até 2022: Hyperledger Fabric9, Multichain blockchain10, SAP blockchain11, Hyperledger Besu12, Oracle blockchain13, Hathor blockchain14, VMware VMBC15, Azure Confidential Ledger16, XO-DEX17, Nano18, Dragonchain19, Openchain20, GoQuorum21. Estes projetos de blockchain apresentam características de custo zero de transação (ou taxa zero), as quais podem ser explorada por blockchain privadas.
 
-![Alguns projetos de blockchain até 2022](https://raw.githubusercontent.com/monteiro74/blockchain/main/figuras/fig3.png)
+![Alguns projetos de blockchain até 2022](https://raw.githubusercontent.com/monteiro74/blockchain/main/figuras/fig4.png)
 
 ### 1.5. Ethereum 
 
