@@ -454,6 +454,7 @@ KUO, T.-T.; ZAVALETA ROJAS, H.; OHNO, L. Comparison of blockchain platforms: a s
 https://pubmed.ncbi.nlm.nih.gov/30907419/
 
 LASMOLES, O.; T. DIALLO, M. Impacts of Blockchains on International Maritime Trade. Journal of Innovation Economics & Management, Louvain-la-Neuve, v. 37, n. 1, p. 91–116, 2022.
+https://www.cairn.info/revue-journal-of-innovation-economics-2022-1-page-91.htm
 
 LENGE, J.; MUSUMBU, K.; WANUKU, G.; SUNGU, P. Blockchain Technology as A Guarantee of Transparency in The Supply Chain of Commercial Enterprises. In: ASIA  SERVICE SCIENCES AND SOFTWARE ENGINEERING CONFERENCE, 2022., 2022, New York, NY, USA. Anais. Association for Computing Machinery, 2022. p. 1–7. (ASSE’22).
 https://dl.acm.org/doi/fullHtml/10.1145/3523181.3523182
@@ -471,7 +472,6 @@ MASOOD, F.; FARIDI, A. An Overview of Distributed Ledger Technology and its Appl
 https://www.researchgate.net/publication/330139945_An_Overview_of_Distributed_Ledger_Technology_and_its_Applications
 
 MONTEIRO, E. S.; MIGNONI, M. E.; RIGHI, R. d. R.; KUNST, R. Blockchain e inteligência artificial associada no controle de packs agrotóxicos. RICA Revista Ibero-Americana de Ciências Ambientais, [S.l.], v. 12, n. 12, 2021.
-
 
 MONTEIRO, E. S.; ROSA RIGHI, R. da; BARBOSA, J. L. V.; ALBERTI, A. M. APTM: a model for pervasive traceability of agrochemicals. Applied Sciences, [S.l.], v. 11, n. 17, 2021.
 https://www.mdpi.com/2076-3417/11/17/8149
