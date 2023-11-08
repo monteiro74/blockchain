@@ -316,19 +316,21 @@ Em desenvolvimento.
 Diversas fontes de pesquisa sobre blockchain:
 
 AGI, M. A.; JHA, A. K. Blockchain technology in the supply chain: an integrated theoretical perspective of organizational adoption. International Journal of Production Economics, [S.l.], v. 247, p. 108458, 2022.
+https://www.sciencedirect.com/science/article/pii/S0925527322000512
 
-AHMED, S.; KALSOOM, T.; RAMZAN, N.; PERVEZ, Z.; AZMAT, M.; ZEB, B.; UR REHMAN, M. Towards Supply Chain Visibility Using Internet of Things: a dyadic analysis review. Sensors, [S.l.], v. 21, n. 12, 2021. AL-SAID AHMAD, A.; ANDRAS, P. Scalability analysis comparisons of cloud-based software services. Journal of Cloud Computing, [S.l.], v. 8, n. 1, p. 10 Jul 2019.
+
 
 ANTONOPOULOS, P.; KAUSHIK, R.; KODAVALLA, H.; ROSALES ACEVES, S.; WONG,
 R.; ANDERSON, J.; SZYMASZEK, J. SQL Ledger: cryptographically verifiable data in azure sql database. In: INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, 2021., 2021, New York, NY, USA. Proceedings. . . Association for Computing Machinery, 2021. p. 2437–2449. (SIGMOD ’21).
+https://dl.acm.org/doi/abs/10.1145/3448016.3457558
 
 BASSILIOS, J. OECD adopts recommendations on blockchain and other DLT. Accessed:
 2022-10-20.
+https://www.oecd.org/daf/blockchain/oecd-recommendation-on-blockchain-and-other-dlt.htm
 
-BERAWI, M. A.; REYES, G.; SARI, M.; SAROJI, G. Developing Public-Private Partnership
-Model with Blockchain-Based Crowdfunding Concept for Port City Project. In:
-ASSOCIATION FOR COMPUTING MACHINERY, 2021, New York, NY, USA. Anais. . .
-Association for Computing Machinery, 2021. (SPBPU IDE ’20).
+
+BERAWI, M. A.; REYES, G.; SARI, M.; SAROJI, G. Developing Public-Private Partnership Model with Blockchain-Based Crowdfunding Concept for Port City Project. In: ASSOCIATION FOR COMPUTING MACHINERY, 2021, New York, NY, USA. Anais. Association for Computing Machinery, 2021. (SPBPU IDE ’20).
+https://dl.acm.org/doi/abs/10.1145/3444465.3444476
 
 BROOKBANKS, M. M.; PARRY, G. The impact of a blockchain platform on trust in
 established relationships: a case study of wine supply chains. Supply Chain Management,
