@@ -501,11 +501,13 @@ PSARAS, Y.; SOARES, J. M.; DIAS, D. To the InterPlanetary File System–and Beyo
 https://ieeexplore.ieee.org/document/9941036
 
 PURBO, O.; SRIYANTO, S.; SUHENDRO, S.; RZ, A.; HERWANTO, R. Benchmark and comparison between hyperledger and MySQL. TELKOMNIKA (Telecommunication Computing Electronics and Control), [S.l.], v. 18, p. 705, 04 2020.
-
+https://pdfs.semanticscholar.org/fcd6/2761cfd48eb7974ae89b7953246d332f09a2.pdf
 
 RAUCHS, M.; GLIDDEN, A.; GORDON, B.; PIETERS, G.; RECANATINI, M.; ROSTAND, F.; VAGNEUR, K.; ZHANG, B. Distributed Ledger Technology Systems: a conceptual framework. SSRN Electronic Journal, [S.l.], 01 2018.
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3230013
 
 SA, R.; MOREIRA, L.; MACHADO, J. A modular approach to Hybrid Blockchain-based and Relational Database Architectures. In: ESTENDIDOS DO XXXVII SIMPóSIO BRASILEIRO DE BANCOS DE DADOS, 2022, Porto Alegre, RS, Brasil. Anais. . . SBC, 2022. p. 154–160.
+https://sol.sbc.org.br/index.php/sbbd_estendido/article/view/21858
 
 SADEQ, M. J.; RAYHAN KABIR, S.; AKTER, M.; FORHAT, R.; HAQUE, R.; AKHTARUZZAMAN, M. Integration of Blockchain and Remote Database Access Protocol-Based Database. In: FIFTH INTERNATIONAL CONGRESS ON INFORMATION AND COMMUNICATION TECHNOLOGY, 2021, Singapore. Proceedings. . . Springer Singapore, 2021. p. 533–539.
 
