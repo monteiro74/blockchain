@@ -412,14 +412,19 @@ HRGA, A.; CAPUDER, T.; ZARKO, I. Demystifying Distributed Ledger Technologies: l
 https://ieeexplore.ieee.org/document/9136665
 
 IMERI, A.; AGOULMINE, N.; KHADRAOUI, D. Blockchain and IoT integrated approach for a trusted and secured process to manage the transportation of dangerous goods. Revista de sistemas e computação, Salvador, Brasil, v. 10, n. 1, p. 26–41, 2020.
+https://revistas.unifacs.br/index.php/rsc/article/download/6444/4031
 
 IPFS. How IPFS works. 2022.
+https://docs.ipfs.tech/concepts/how-ipfs-works/
 
 ITI. ITI apoia BNDES em projeto de Blockchain. 2022.
+https://www.gov.br/iti/pt-br/assuntos/noticias/indice-de-noticias/iti-apoia-bndes-em-projeto-de-blockchain
 
 ITU-T. Technical Specification FG DLT D3.1 Distributed ledger technology reference architecture. Geneva, Switzerland: ITU-T, 2019. (FG DLT D3.1).
+https://www.itu.int/en/ITU-T/focusgroups/dlt/Documents/d31.pdf
 
 JABBAR, A.; DANI, S. Investigating the link between transaction and computational costs in a blockchain environment. International Journal of Production Research, [S.l.], v. 58, n. 11, p. 3423–3436, 2020.
+https://www.tandfonline.com/doi/full/10.1080/00207543.2020.1754487
 
 KAPSOULIS, N.; PSYCHAS, A.; PALAIOKRASSAS, G.; MARINAKIS, A.; LITKE, A.; VARVARIGOU, T.; BOUCHLIS, C.; RAOUZAIOU, A.; CALVO, G.; ESCUDERO SUBIRANA, J. Consortium Blockchain Smart Contracts for Musical Rights Governance in a Collective Management Organizations (CMOs) Use Case. Future Internet, [S.l.], v. 12, n. 8, 2020.
 
