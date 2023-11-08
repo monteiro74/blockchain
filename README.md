@@ -184,6 +184,38 @@ A Máquina Virtual Ethereum é o computador virtual global cujo estado todos os 
 
 Contratos inteligentes são programas de computador que estão e rodam na blockchain Ethereum. Transações acionam smart contracts. São acionados por aplicativos de usuários. Nick Szabo cunhou o termo "smart contract“, em 1994. Szabo idealizou um mercado virtual onde negócios automáticos e criptografados permitissem que transações ocorressem sem intermediários confiáveis.
 
+```solidity
+// SPDX-License-Identifier: GPL-3.0
+
+pragma solidity >=0.8.2 <0.9.0;
+
+/**
+ * @title Storage
+ * @dev Store & retrieve value in a variable
+ * @custom:dev-run-script ./scripts/deploy_with_ethers.ts
+ */
+contract Storage {
+
+    uint256 number;
+
+    /**
+     * @dev Store value in variable
+     * @param num value to store
+     */
+    function store(uint256 num) public {
+        number = num;
+    }
+
+    /**
+     * @dev Return value 
+     * @return value of 'number'
+     */
+    function retrieve() public view returns (uint256){
+        return number;
+    }
+}
+```
+
 Fonte: https://ethereum.org/en/smart-contracts/
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
@@ -280,7 +312,7 @@ Remix IDE:
 
 Exemplo da saída do log do Remix, no caso foi rodado o programa ilustrado na digura acima:
 
-```sol
+```solidity
 [vm]from: 0x5B3...eddC4to: Storage.store(uint256) 0x7EF...8CB47value: 0 weidata: 0x605...0007blogs: 0hash: 0xbe4...3131b
 status	true Transaction mined and execution succeed
 transaction hash	0xbe4083338633379fd0ff81f2d81355da1c03cf74fc172e76133a78f939a3131b
@@ -306,10 +338,17 @@ Simulador local de Ethereum para desenvolvimento [Ganache](https://trufflesuite.
 
 
 
-## 1.14. Multhichain
+## 1.14. Multhichain blockchain
+
+Em desenvolvimento.
+
+[Voltar ao início](#sobre-blockchain-e-livros-razão)
 
 ## 1.15. Hiperledger
 
+Em desenvolvimento.
+
+[Voltar ao início](#sobre-blockchain-e-livros-razão)
 
 --- 
 # 2 Aplicabilidade 
