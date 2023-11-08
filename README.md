@@ -403,10 +403,13 @@ https://jshippingandtrade.springeropen.com/articles/10.1186/s41072-021-00105-2
 
 
 GUERPINAR, T.; GUADIANA, G.; ASTERIOS IOANNIDIS, P.; STRAUB, N.; HENKE, M. The Current State of Blockchain Applications in Supply Chain Management. In: THE 3RD INTERNATIONAL CONFERENCE ON BLOCKCHAIN TECHNOLOGY, 2021., 2021, New York, NY, USA. Anais. . . Association for Computing Machinery, 2021. p. 168–175. (ICBCT ’21).
+https://dl.acm.org/doi/fullHtml/10.1145/3460537.3460568
 
 HASAN, H.; ALHADHRAMI, E.; ALDHAHERI, A.; SALAH, K.; JAYARAMAN, R. Smart contract-based approach for efficient shipment management. Computers Industrial Engineering, [S.l.], v. 136, p. 149–159, 2019.
+https://www.sciencedirect.com/science/article/abs/pii/S0360835219304140
 
 HRGA, A.; CAPUDER, T.; ZARKO, I. Demystifying Distributed Ledger Technologies: limits, challenges and potentials in the energy sector. IEEE Access, [S.l.], v. PP, p. 1–1, 07 2020.
+https://ieeexplore.ieee.org/document/9136665
 
 IMERI, A.; AGOULMINE, N.; KHADRAOUI, D. Blockchain and IoT integrated approach for a trusted and secured process to manage the transportation of dangerous goods. Revista de sistemas e computação, Salvador, Brasil, v. 10, n. 1, p. 26–41, 2020.
 
