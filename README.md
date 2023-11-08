@@ -372,6 +372,7 @@ BUSTAMANTE, P.; CAI, M.; GOMEZ, M.; HARRIS, C.; KRISHNAMURTHY, P.; LAW, W.; MADI
 https://www.frontiersin.org/articles/10.3389/fbloc.2022.869665/full
 
 CAGIGAS, D.; CLIFTON, J.; DIAZ-FUENTES, D.; FERNáNDEZ-GUTIéRREZ, M. Blockchain for Public Services: a systematic literature review. IEEE Access, [S.l.], v. 9, p. 13904–13921, 2021. CAI, Z.; YANG, G.; XU, S.; ZANG, C.; CHEN, J.; HANG, P.; YANG, B. RBaaS: a robust blockchain as a service paradigm in cloud-edge collaborative environment. IEEE Access, [S.l.], v. 10, p. 35437–35444, 2022.
+https://ieeexplore.ieee.org/document/9326290
 
 CHARLON, F. Overview of Openchain. 2015.
 
