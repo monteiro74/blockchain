@@ -100,6 +100,13 @@ DLT podem ser divididas em duas classes:
 
 * B) blockchain. Blockchain e DAG são sub tipos de DLTs.
 
+
+![Exemplos de DLT](https://raw.githubusercontent.com/monteiro74/blockchain/main/figuras/fig1.png "Exemplos de DLT")
+
+
+
+
+
 As principais subdivisões e alguns exemplos são:
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
