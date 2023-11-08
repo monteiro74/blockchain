@@ -51,9 +51,7 @@ informação, programação e banco de dados.
 Fonte: https://corporatefinanceinstitute.com/resources/cryptocurrency/double-spending/
 
 
-A tecnologia Blockchain evita gastos duplos através da tecnologia de compartilhamento de arquivos peer-to-peer combinada com criptografia de chave pública.
-
-Blockchain resolve o problema do gasto duplo usando um livro-razão descentralizado, que todos podem acessar. Como todos os membros da rede podem examinar o histórico completo das transações, estes podem ter certeza de que nem suas cripto moedas nem quaisquer outras cripto moedas foram gastas mais de uma vez.
+A tecnologia Blockchain evita gastos duplos através da tecnologia de compartilhamento de arquivos peer-to-peer combinada com criptografia de chave pública. Blockchain resolve o problema do gasto duplo usando um livro-razão descentralizado, que todos podem acessar. Como todos os membros da rede podem examinar o histórico completo das transações, estes podem ter certeza de que nem suas cripto moedas nem quaisquer outras cripto moedas foram gastas mais de uma vez.
 
 
 
@@ -61,11 +59,7 @@ Blockchain resolve o problema do gasto duplo usando um livro-razão descentraliz
 
 ## 1.2. Critografia de chave pública
 
-Este tipo de criptografia envolve dois tipos de chaves, uma pública e uma privada. A chave pública pode ser compartilhada com terceiros. A chave privada deve ficar oculta. Dados são criptografos com a chave pública do destinatário,e pode ser decriptografa com a chave privada do destinatário. As chaves RSA pode ter vários tamanhos desde 1024 a 2048 bits. 
-
-
-
-Criptografia de chave pública também é chamada de criptografia assimétrica. Neste sistema qualquer um com uma chave pública pode gerar mensagens criptografadas, mas somente aqueles que detem as chaves privadas correspondentes pode decifrá-las e obter a mensagem original.
+Este tipo de criptografia envolve dois tipos de chaves, uma pública e uma privada. A chave pública pode ser compartilhada com terceiros. A chave privada deve ficar oculta. Dados são criptografos com a chave pública do destinatário,e pode ser decriptografa com a chave privada do destinatário. As chaves RSA pode ter vários tamanhos desde 1024 a 2048 bits. Criptografia de chave pública também é chamada de criptografia assimétrica. Neste sistema qualquer um com uma chave pública pode gerar mensagens criptografadas, mas somente aqueles que detem as chaves privadas correspondentes pode decifrá-las e obter a mensagem original.
 
 Atualmente uma das implementações de critografia de chave pública mais utilizadas é baseada no algoritmos apresentados por Rivest-Shamir-Adelman (RSA) da Data Security. Outros algoritmos que implementam criptografia de chave pública: DSS, Elliptic curve, Paillier cryptosystem, Cramer-shoup, YAK, etc. Este tipo de criptografia também é muito utilizada no HTTPS com o TLS/SSL.
 
@@ -98,9 +92,7 @@ Um sistema de DLT deve:
 
 * E) conter o livro razão (ou ledger) que é o resultado do processo de registro de transações (o qual relata a história das transações. 
 
-O registro em uma DLT pode ser realizado sob dois aspectos permissionless (na qual cada participantes pode escrever um registro na ledger) ou permissioned (na qual somente alguns participantes podem submeter envios). 
-
-Quanto ao processamento e execução de tarefas ou programas na DLT, estas podem ser on-chain (execução interna), off-chain (execução externa) e side-chain (execução parcialmente interna com auxílio computacional externo). 
+O registro em uma DLT pode ser realizado sob dois aspectos permissionless (na qual cada participantes pode escrever um registro na ledger) ou permissioned (na qual somente alguns participantes podem submeter envios). Quanto ao processamento e execução de tarefas ou programas na DLT, estas podem ser on-chain (execução interna), off-chain (execução externa) e side-chain (execução parcialmente interna com auxílio computacional externo). 
 
 DLT podem ser divididas em duas classes: 
 
@@ -118,8 +110,7 @@ As principais subdivisões e alguns exemplos são:
 Uma forma de DLT é um grafo acíclico dirigido (DAG), o qual utiliza uma estrutura parecida com vértices e arestas; as arestas são posicionados em uma direção e o grafo é acíclico pois
 os vértices não se referenciam nem formam um loop para si mesmos.  Nos sistemas DAG não é necessário um minerador, pois cada usuário pode controlar sua própria sequência de blocos de forma assíncrona.  Sempre que uma transação é realizada, os participantes devem verificar duas outras transações de outros nós (PARK; KIM, 2022). 
 
-Cada transação no DAG é um vértice, cada vértice tem uma ou mais arestas em direção a outros vértices, desta forma um vértice referencia outro vértice. Uma transação é registrada após a outra formando uma linearidade, porém o DAG não usa mineração ou custos de transação; pois um nó realiza validação simultânea de
-transações. Cada transação é registrada em vértices e não existe a necessidade de serem gravadas em bloco, formando uma cadeia de transações verificadas (LI et al., 2022). Com o DAG os participantes são mineradores e validadores de transações.
+Cada transação no DAG é um vértice, cada vértice tem uma ou mais arestas em direção a outros vértices, desta forma um vértice referencia outro vértice. Uma transação é registrada após a outra formando uma linearidade, porém o DAG não usa mineração ou custos de transação; pois um nó realiza validação simultânea de transações. Cada transação é registrada em vértices e não existe a necessidade de serem gravadas em bloco, formando uma cadeia de transações verificadas (LI et al., 2022). Com o DAG os participantes são mineradores e validadores de transações.
  
 
 São alguns exemplos de projetos que utilizam DAG: IOTA4(é um DAG voltada para armazenar dados de IoT), NANO5(é uma criptomoeda e uma plataforma para transação de valores ponto-a-ponto), Obyte6(é uma DAG e criptomoeda), Hedera7(é uma rede pública baseada em DAG e uma criptomoeda) e IPFS8(é um sistema de arquivos distribuído, utilizado em uma rede ponto-a-ponto.). DAG é usada pelo IPFS onde cada identifcador tem um hash do conteúdo para um conteúdo, é usado para representar arquivos e diretórios, o IPFS quebra um arquivo em pedaços chamados de blocos, (IPFS, 2022).
