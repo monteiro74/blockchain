@@ -510,14 +510,16 @@ SA, R.; MOREIRA, L.; MACHADO, J. A modular approach to Hybrid Blockchain-based a
 https://sol.sbc.org.br/index.php/sbbd_estendido/article/view/21858
 
 SADEQ, M. J.; RAYHAN KABIR, S.; AKTER, M.; FORHAT, R.; HAQUE, R.; AKHTARUZZAMAN, M. Integration of Blockchain and Remote Database Access Protocol-Based Database. In: FIFTH INTERNATIONAL CONGRESS ON INFORMATION AND COMMUNICATION TECHNOLOGY, 2021, Singapore. Proceedings. . . Springer Singapore, 2021. p. 533–539.
-
+https://www.researchgate.net/publication/344194318_Integration_of_Blockchain_and_Remote_Database_Access_Protocol-based_Database
 
 SALAH, K.; REHMAN, M. H. U.; NIZAMUDDIN, N.; AL-FUQAHA, A. Blockchain for AI: review and open research challenges. IEEE Access, [S.l.], v. 7, p. 10127–10149, 2019.
+https://ieeexplore.ieee.org/document/8598784
 
 SILVA, J. O. D. da; SANTOS, D. R. dos. Study of Blockchain Application in the Logistics Industry. Theoretical Economics Letters, [S.l.], v. 12, n. 2, p. 321–342, 4 2022.
+https://www.scirp.org/journal/paperinformation.aspx?paperid=115674
 
 SINGH, A.; GUTUB, A.; NAYYAR, A.; KHAN, M. K. Redefining food safety traceability system through blockchain: findings, challenges and open issues. Multimedia Tools and Applications, [S.l.], Oct 2022.
-
+https://link.springer.com/article/10.1007/s11042-022-14006-4
 
 SINGH, N.; VARDHAN, M. Computing Optimal Block Size for Blockchain based Applications with Contradictory Objectives. Procedia Computer Science, [S.l.], v. 171, p. 1389–1398, 2020. Third International Conference on Computing and Network Communications (CoCoNet’19).
 
