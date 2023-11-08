@@ -427,14 +427,19 @@ JABBAR, A.; DANI, S. Investigating the link between transaction and computationa
 https://www.tandfonline.com/doi/full/10.1080/00207543.2020.1754487
 
 KAPSOULIS, N.; PSYCHAS, A.; PALAIOKRASSAS, G.; MARINAKIS, A.; LITKE, A.; VARVARIGOU, T.; BOUCHLIS, C.; RAOUZAIOU, A.; CALVO, G.; ESCUDERO SUBIRANA, J. Consortium Blockchain Smart Contracts for Musical Rights Governance in a Collective Management Organizations (CMOs) Use Case. Future Internet, [S.l.], v. 12, n. 8, 2020.
+https://www.mdpi.com/1999-5903/12/8/134
 
 KERESZTES, R.; KOVáCS, I.; HORVáTH, A.; ZIMáNYI, K. Exploratory Analysis of Blockchain Platforms in Supply Chain Management. Economies, [S.l.], v. 10, n. 9, 2022.
+https://www.mdpi.com/2227-7099/10/9/206
 
 KHAN, D.; JUNG, L. T.; HASHMANI, M. A. Systematic Literature Review of Challenges in Blockchain Scalability. Applied Sciences, [S.l.], v. 11, n. 20, 2021.
+https://www.mdpi.com/2076-3417/11/20/9372
 
 KHAN, S.; SHAEL, M.; MAJDALAWIEH, M.; NIZAMUDDIN, N.; NICHO, M. Blockchain for Governments: the case of the dubai government. Sustainability, [S.l.], v. 14, n. 11, 2022.
+https://www.mdpi.com/2071-1050/14/11/6576
 
 KLEMENS, S. How long does a bitcoin transaction take? bitcoin unconfirmed transactions. [S.l.]: Exodus Crypto News amp; Insights, 2021.
+https://coinmarketcap.com/academy/article/how-long-does-a-bitcoin-transaction-take
 
 KOHLI, V.; CHAKRAVARTY, S.; CHAMOLA, V.; SANGWAN, K. S.; ZEADALLY, S. An analysis of energy consumption and carbon footprints of cryptocurrencies and possible solutions. Digital Communications and Networks, [S.l.], 2022.
 
