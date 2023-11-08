@@ -442,12 +442,16 @@ KLEMENS, S. How long does a bitcoin transaction take? bitcoin unconfirmed transa
 https://coinmarketcap.com/academy/article/how-long-does-a-bitcoin-transaction-take
 
 KOHLI, V.; CHAKRAVARTY, S.; CHAMOLA, V.; SANGWAN, K. S.; ZEADALLY, S. An analysis of energy consumption and carbon footprints of cryptocurrencies and possible solutions. Digital Communications and Networks, [S.l.], 2022.
+https://www.sciencedirect.com/science/article/pii/S2352864822001390
 
 KOMOLAFE, O. Solana faster than Algorand and TRON – The fastest blockchains in crypto space. [S.l.]: Crypto News Flash, 2022.
+https://www.crypto-news-flash.com/solana-faster-than-algorand-and-tron-the-fastest-blockchains-in-crypto-space/
 
 KOUSSEMA, R. A.; HAGA, H. Design and Implementation of Highly Secure Residents Management System Using Blockchain. Journal of Computer and Communications, [S.l.], v. 08No.09, p. 14, 2020.
+https://www.scirp.org/journal/paperinformation.aspx?paperid=102949
 
 KUO, T.-T.; ZAVALETA ROJAS, H.; OHNO, L. Comparison of blockchain platforms: a systematic review and healthcare examples. Journal of the American Medical Informatics Association, [S.l.], v. 26, n. 5, p. 462–478, 03 2019.
+https://pubmed.ncbi.nlm.nih.gov/30907419/
 
 LASMOLES, O.; T. DIALLO, M. Impacts of Blockchains on International Maritime Trade. Journal of Innovation Economics & Management, Louvain-la-Neuve, v. 37, n. 1, p. 91–116, 2022.
 
