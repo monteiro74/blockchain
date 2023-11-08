@@ -455,13 +455,17 @@ https://pubmed.ncbi.nlm.nih.gov/30907419/
 
 LASMOLES, O.; T. DIALLO, M. Impacts of Blockchains on International Maritime Trade. Journal of Innovation Economics & Management, Louvain-la-Neuve, v. 37, n. 1, p. 91–116, 2022.
 
-LENGE, J.; MUSUMBU, K.; WANUKU, G.; SUNGU, P. Blockchain Technology as A Guarantee of Transparency in The Supply Chain of Commercial Enterprises. In: ASIA  SERVICE SCIENCES AND SOFTWARE ENGINEERING CONFERENCE, 2022., 2022, New York, NY, USA. Anais. . . Association for Computing Machinery, 2022. p. 1–7. (ASSE’22).
+LENGE, J.; MUSUMBU, K.; WANUKU, G.; SUNGU, P. Blockchain Technology as A Guarantee of Transparency in The Supply Chain of Commercial Enterprises. In: ASIA  SERVICE SCIENCES AND SOFTWARE ENGINEERING CONFERENCE, 2022., 2022, New York, NY, USA. Anais. Association for Computing Machinery, 2022. p. 1–7. (ASSE’22).
+https://dl.acm.org/doi/fullHtml/10.1145/3523181.3523182
 
 LI, N.; GUO, Y.; CHEN, Y.; CHAI, J. A Partitioned DAG Distributed Ledger with Local Consistency for Vehicular Reputation Management. Wireless Communications and Mobile Computing, [S.l.], v. 2022, p. 6833535, Mar 2022.
+https://www.hindawi.com/journals/wcmc/2022/6833535/
 
 MAESA, D. D. F.; MORI, P. Blockchain 3.0 applications survey. Journal of Parallel and Distributed Computing, [S.l.], v. 138, p. 99 – 114, 2020.
+https://www.sciencedirect.com/science/article/abs/pii/S0743731519308664
 
 MANEVICH, Y.; BARGER, A.; TOCK, Y. Endorsement in Hyperledger Fabric via service discovery. IBM Journal of Research and Development, [S.l.], v. 63, n. 2/3, p. 2:1–2:9, 2019.
+https://dl.acm.org/doi/10.1147/JRD.2019.2900647
 
 MASOOD, F.; FARIDI, A. An Overview of Distributed Ledger Technology and its Applications. International Journal of Computer Sciences and Engineering, [S.l.], v. 6, p. 422–427, 10 2018.
 
