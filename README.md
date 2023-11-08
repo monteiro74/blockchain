@@ -260,7 +260,9 @@ Desenvolvimento de criptomoedas
 
 Comércio de ativos (NFT, tokens não fungíveis)
 
-Rastreabilidade de transações
+Rastreabilidade de transações, por exemplo em uma cadeia logística cada etapa (a cada saldo entre os players) pode ser feito um registro em uma blockchain, possibilitando a rastreabilidade dos ativos que estão em movimento:
+
+![Cadeia logística](https://raw.githubusercontent.com/monteiro74/blockchain/main/figuras/fig6.png)
 
 Registro imutável de informações
 
