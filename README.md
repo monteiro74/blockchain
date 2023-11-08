@@ -387,6 +387,7 @@ DAS, S.; SARAF, C.; KHAIRNAR, D. P. A Hyperledger Fabric Based Organizational De
 https://ieeexplore.ieee.org/document/9484187
 
 DIB, O.; BROUSMICHE, K.-L.; DURAND, A.; THEA, E.; BEN HAMIDA, E. Consortium blockchains: overview, applications and challenges. International Journal On Advances in Telecommunications, France, 2018.
+https://hal.science/hal-02271063
 
 EMBRAPA. Uso de blockchain para registro de dados de Cadeia de Suprimentos Verde da indústria sucroenergética. 2020.
 
