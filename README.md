@@ -336,19 +336,36 @@ Simulador local de Ethereum para desenvolvimento [Ganache](https://trufflesuite.
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
-
-
-## 1.14. Multhichain blockchain
+## 1.14. DeFi
 
 Em desenvolvimento.
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
-## 1.15. Hiperledger
+## 1.15. Oracle
 
 Em desenvolvimento.
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
+
+## 1.16. Multhichain blockchain
+
+Em desenvolvimento.
+
+[Voltar ao início](#sobre-blockchain-e-livros-razão)
+
+## 1.17. Hiperledger
+
+Em desenvolvimento.
+
+[Voltar ao início](#sobre-blockchain-e-livros-razão)
+
+## 1.18. SQL e Blockchain
+
+Em desenvolvimento.
+
+[Voltar ao início](#sobre-blockchain-e-livros-razão)
+
 
 --- 
 # 2 Aplicabilidade 
