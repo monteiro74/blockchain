@@ -65,6 +65,8 @@ Este tipo de criptografia envolve dois tipos de chaves, uma pública e uma priva
 
 Atualmente uma das implementações de critografia de chave pública mais utilizadas é baseada no algoritmos apresentados por Rivest-Shamir-Adelman (RSA) da Data Security. Outros algoritmos que implementam criptografia de chave pública: DSS, Elliptic curve, Paillier cryptosystem, Cramer-shoup, YAK, etc. Este tipo de criptografia também é muito utilizada no HTTPS com o TLS/SSL.
 
+<img src="https://en.wikipedia.org/wiki/Public-key_cryptography#/media/File:Public_key_shared_secret.svg">
+
 Programa que implementa criptografia e assinatura de mensagem: https://www.openpgp.org/.
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
