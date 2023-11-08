@@ -249,6 +249,28 @@ Remix IDE:
 
 [Remix Ethereum](https://remix.ethereum.org/).
 
+Exemplo da saída do log do Remix, no caso foi rodado o programa ilustrado na digura acima:
+
+```sol
+[vm]from: 0x5B3...eddC4to: Storage.store(uint256) 0x7EF...8CB47value: 0 weidata: 0x605...0007blogs: 0hash: 0xbe4...3131b
+status	true Transaction mined and execution succeed
+transaction hash	0xbe4083338633379fd0ff81f2d81355da1c03cf74fc172e76133a78f939a3131b
+block hash	0xbad12410685c870d6c931969de576a68ed22fa7fd6220a23b8a8a2166e2ee8ce
+block number	8
+from	0x5B38Da6a701c568545dCfcB03FcB875f56beddC4
+to	Storage.store(uint256) 0x7EF2e0048f5bAeDe046f6BF797943daF4ED8CB47
+gas	50283 gas
+transaction cost	43724 gas 
+execution cost	22520 gas 
+input	0x605...0007b
+decoded input	{
+	"uint256 num": "123"
+}
+decoded output	{}
+logs	[]
+val	0 wei
+```
+
 Simulador local de Ethereum para desenvolvimento [Ganache](https://trufflesuite.com/ganache/).
 
 
