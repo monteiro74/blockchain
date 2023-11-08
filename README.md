@@ -243,6 +243,10 @@ Fonte https://cleartax.in/s/consensus-in-blockchain
 
 ### 1.13. IDE para programar com Ethereum
 
+Remix IDE:
+
+![Remix IDE](https://raw.githubusercontent.com/monteiro74/blockchain/main/figuras/fig5.png)
+
 [Remix Ethereum](https://remix.ethereum.org/).
 
 Simulador local de Ethereum para desenvolvimento [Ganache](https://trufflesuite.com/ganache/).
