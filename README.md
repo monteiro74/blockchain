@@ -23,6 +23,8 @@ informação, programação e banco de dados.
 [1.4. Tecnologias de livro razao](#14-tecnologias-de-livro-razao)<br>
 [1.4.1. Gráfos acíclicos dirigidos](#141-gráfos-acíclicos-dirigidos)<br>
 [1.4.2. Blockchain](#142-blockchain)<br>
+[1.4.3. Diferentes tipos de DLT](#143-diferentes-tipos-de-dlt)<br>
+[1.4.4. Alguns projetos desde o surgimento até 2022](#144-alguns-projetos-de-blockchain-desde-o-surgimento-até-2022)<br>
 [1.5. Ethereum](#15-ethereum)<br>
 [1.6. EVM](#16-evm)<br>
 [1.7. Smart Contract](#17-smart-contracts)<br>
