@@ -144,6 +144,17 @@ Artigo que iniciou com a ideia: [Bitcoin: A Peer-to-Peer Electronic Cash System]
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
+
+### 1.4.3. Diferentes tipos de DLT
+
+
+| Propriedade   | Públicas   | Consórcios   | Privadas  |
+|---|---|---|---|
+| Acesso a leitura de dados  | Sem restrição  | Com ou sem restrição  | Com ou sem restrição  |  
+| Acesso a escrita de dados  | Sem restrição  | Sem restrição ou somente com entidades pré-selecionadas  | Uma entidade única  | 
+| Participa no processo de validação  | Sem restrição  | Somente com entidades pré-selecionadas  | Sem validação de dados  |
+| Complexidade de validação| Consenso complexo de validação, envolve falha bizantina | Consenso de validação facilitado| Consenso não é necessário | 
+
 ### 1.5. Ethereum 
 
 Ethereum é uma rede de computadores em todo o mundo que segue um conjunto de regras do chamado protocolo Ethereum.
