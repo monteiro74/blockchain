@@ -525,37 +525,52 @@ SINGH, N.; VARDHAN, M. Computing Optimal Block Size for Blockchain based Applica
 https://www.sciencedirect.com/science/article/pii/S1877050920311285
 
 SOLVEJ, K.; NATARAJAN, K.; HARISH, G.; LUSKIN, H. Distributed Ledger Technology (DLT) and blockchain. Washington, D.C., 2017.
+https://openknowledge.worldbank.org/entities/publication/563eb421-4449-5319-953b-2ace8da058c0
 
 SULTAN, K.; RUHI, U.; LAKHANI, R. Conceptualizing Blockchains: characteristics & applications. CoRR, [S.l.], v. abs/1806.03693, 2018.
-
+https://arxiv.org/abs/1806.03693
 
 SYLIM, P. G.; LIU, F.; MARCELO, A. B.; FONTELO, P. A. Blockchain Technology for Detecting Falsified and Substandard Drugs in Distribution: pharmaceutical supply chain intervention. JMIR Research Protocols, [S.l.], v. 7, 2018.
+https://pubmed.ncbi.nlm.nih.gov/30213780/
 
 SYSRFID: GENERATION OF SYNTHETIC DATA IN SUPPLY CHAINS, 2011, Rome, Italy. Anais. . . itAIS, 2011. p. 6.
+http://www.itais.org/proceedings/itais2011/pdf/25.pdf
 
 TAN, E.; MAHULA, S.; CROMPVOETS, J. Blockchain governance in the public sector: a conceptual framework for public management. Government Information Quarterly, [S.l.], v. 39, p. 101625, 09 2021.
+https://www.sciencedirect.com/science/article/pii/S0740624X21000617
 
 TCU. TCU e BNDES lançam Rede Blockchain Brasil e definem próximos passos. 2022.
+https://portal.tcu.gov.br/imprensa/noticias/tcu-e-bndes-lancam-rede-blockchain-brasil-e-definem-proximos-passos.htm#:~:text=O%20Tribunal%20de%20Contas%20da,aplica%C3%A7%C3%A3o%20descentralizada%20ocorra%20em%202023.
 
 VIRIYASITAVAT, W.; HOONSOPON, D. Blockchain characteristics and consensus in modern business processes. Journal of Industrial Information Integration, [S.l.], v. 13, p. 32–39, 2019.
+https://www.semanticscholar.org/paper/Blockchain-characteristics-and-consensus-in-modern-Viriyasitavat-Hoonsopon/cf58f0c53a2bd2c0a1ee7bec77920c3f80036ac2
 
 WANG, Z.; WANG, T.; HU, H.; GONG, J.; REN, X.; XIAO, Q. Blockchain-based framework for improving supply chain traceability and information sharing in precast construction. Automation in Construction, [S.l.], v. 111, p. 103063, 2020.
+https://www.sciencedirect.com/science/article/abs/pii/S0926580519305059
 
 WORLDBANK. Blockchain & Distributed Ledger Technology (DLT). 2018. 1 p.
+https://openknowledge.worldbank.org/server/api/core/bitstreams/5166f335-35db-57d7-9c7e-110f7d018f79/content
 
 XU, S.; ZHAO, X.; LIU, Z. The impact of blockchain technology on the cost of food traceability supply chain. IOP Conference Series: Earth and Environmental Science, [S.l.], v. 615, n. 1, p. 012003, dec 2020.
+https://iopscience.iop.org/article/10.1088/1755-1315/615/1/012003/pdf
 
 XU, X.; LU, Q.; LIU, Y.; ZHU, L.; YAO, H.; VASILAKOS, A. V. Designing blockchain-based applications a case study for imported product traceability. Future Generation Computer Systems, [S.l.], v. 92, p. 399–406, 2019.
+https://www.sciencedirect.com/science/article/abs/pii/S0167739X18314298
 
-YADAV, J.; SHEVKAR, R. Performance-Based Analysis of Blockchain Scalability Metric. Tehnicki glasnik ˇ , [S.l.], v. 15, p. 133–142, 03 2021.
+YADAV, J.; SHEVKAR, R. Performance-Based Analysis of Blockchain Scalability Metric. Tehnicki glasnik, [S.l.], v. 15, p. 133–142, 03 2021.
+https://hrcak.srce.hr/file/367642
 
 YUE, K.-B.; CHANDRASEKAR, K.; AND, H. G. Storing and Querying Bitcoin Blockchain Using SQL Databases. Information Systems Education Journal (ISEDJ), Texas, USA, v. 8, 8 2019.
+https://files.eric.ed.gov/fulltext/EJ1219543.pdf
 
 ZAKARI, N.; AL-RAZGAN, M.; ALSAADI, A.; ALSHAREEF, H.; SAIGH, H. A.; ALASHAIKH, L.; ALHARBI, M.; ALOMAR, R.; ALOTAIBI, S. Blockchain technology in the pharmaceutical industry: a systematic review. PeerJ Comput. Sci., [S.l.], p. 26, 3 2022.
+https://peerj.com/articles/cs-840/
 
 ZHAO, F.; GUO, X.; CHAN, W. K. V. Individual Green Certificates on Blockchain: a simulation approach. Sustainability, [S.l.], v. 12, n. 9, 2020.
+https://www.mdpi.com/2071-1050/12/9/3942
 
 ZHAO, W.; LV, J.; YAO, X.; ZHAO, J.; JIN, Z.; QIANG, Y.; CHE, Z.; WEI, C. Consortium Blockchain-Based Microgrid Market Transaction Research. Energies, [S.l.], v. 12, n. 20, 2019.
+https://www.mdpi.com/1996-1073/12/20/3812
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
