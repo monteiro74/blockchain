@@ -483,15 +483,16 @@ OCDE. Recommendation of the council on blockchain and other distributed ledger t
 https://www.oecd.org/mcm/Recommendation-on-Blockchain-and-other-Distributed-Ledger-Technologies.pdf
 
 OGUNDARE, I. Cardano to scale to 1,000,000 tps with Hydra for micropayments on ADA blockchain. [S.l.]: Crypto News Flash, 2022.
+https://cardanofeed.com/cardano-to-scale-to-1000000-tps-with-hydra-for-micropayments-on-ada-blockchain-139538
 
 PARK, S.; KIM, H. DAGmap: multi-drone slam via a dag-based distributed ledger. Drones, [S.l.], v. 6, n. 2, 2022.
-
+https://www.researchgate.net/publication/358001662_DAGmap_Multi-Drone_SLAM_via_a_DAG-Based_Distributed_Ledger
 
 PENG, Y.; DU, M.; LI, F.; CHENG, R.; SONG, D. FalconDB: blockchain-based collaborative database. In: ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, 2020., 2020, New York, NY, USA. Proceedings. . . Association for Computing Machinery, 2020. p. 637–652. (SIGMOD ’20).
-
+https://dl.acm.org/doi/10.1145/3318464.3380594
 
 PEREZ, A. O.; DOMINGO-PALAOAG, T. Blockchain-based Model for Health Information Exchange: a case for simulated patient referrals using an electronic medical record. IOP Conference Series: Materials Science and Engineering, [S.l.], v. 1077, n. 1, p. 012059, feb 2021.
-
+https://iopscience.iop.org/article/10.1088/1757-899X/1077/1/012059
 
 PRASHAR, D.; JHA, N.; JHA, S.; LEE, Y.; JOSHI, G. P. Blockchain-Based Traceability and Visibility for Agricultural Products: a decentralized way of ensuring food safety in india. Sustainability, [S.l.], v. 12, n. 8, 2020.
 
