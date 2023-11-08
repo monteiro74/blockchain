@@ -125,6 +125,8 @@ São alguns exemplos de projetos que utilizam DAG: IOTA4(é um DAG voltada para 
 
 Os blocos podem estar em vários lugares. Um arquivo é composto de vários blocos, cada bloco tem um identificador. Para localizar este arquivo composto por vários blocos o IPFS usa o que é chamado de tabela hash para localizar arquivos. Com esta tabela, um grupo de nós pode conter partes diferentes de um arquivo.  Nesta tabela, existem duas colunas uma com um hash inicia e final e a outra coluna com o conteúdo do arquivo. Dependendo qual o valor da chave hash o arquivo pode ser armazenado na tabela (no topo, por exemplo), para recuperar o arquivo é necessário percorrer a tabela, (PSARAS; SOARES; DIAS, 2022).
 
+Um exemplo de implementação de DAG é o sistema de arquivos interplanetário, [IPFS](https://ipfs.tech/).
+
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
 ### 1.4.2. Blockchain
