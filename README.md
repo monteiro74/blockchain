@@ -390,12 +390,17 @@ DIB, O.; BROUSMICHE, K.-L.; DURAND, A.; THEA, E.; BEN HAMIDA, E. Consortium bloc
 https://hal.science/hal-02271063
 
 EMBRAPA. Uso de blockchain para registro de dados de Cadeia de Suprimentos Verde da indústria sucroenergética. 2020.
+https://www.alice.cnptia.embrapa.br/handle/doc/1126142
 
 ESMAEILIAN, B.; SARKIS, J.; LEWIS, K.; BEHDAD, S. Blockchain for the future of sustainable supply chain management in Industry 4.0. Resources, Conservation and Recycling, [S.l.], v. 163, p. 105064, 2020.
+https://www.sciencedirect.com/science/article/abs/pii/S0921344920303815
 
 GAO, U. S. G. A. O. Blockchain Emerging Technology Offers Benefits for Some Applications but Faces Challenges. Washington, DC0: Government Accountability Office, 2022. GAO-22-104625.
+https://www.gao.gov/products/gao-22-104625
 
 GERAKOUDI-VENTOURI, K. Review of studies of blockchain technology effects on the shipping industry. Journal of Shipping and Trade, [S.l.], v. 7, n. 1, p. 2, Jan 2022.
+https://jshippingandtrade.springeropen.com/articles/10.1186/s41072-021-00105-2
+
 
 GUERPINAR, T.; GUADIANA, G.; ASTERIOS IOANNIDIS, P.; STRAUB, N.; HENKE, M. The Current State of Blockchain Applications in Supply Chain Management. In: THE 3RD INTERNATIONAL CONFERENCE ON BLOCKCHAIN TECHNOLOGY, 2021., 2021, New York, NY, USA. Anais. . . Association for Computing Machinery, 2021. p. 168–175. (ICBCT ’21).
 
