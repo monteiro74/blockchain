@@ -374,13 +374,17 @@ https://www.frontiersin.org/articles/10.3389/fbloc.2022.869665/full
 CAGIGAS, D.; CLIFTON, J.; DIAZ-FUENTES, D.; FERNáNDEZ-GUTIéRREZ, M. Blockchain for Public Services: a systematic literature review. IEEE Access, [S.l.], v. 9, p. 13904–13921, 2021. CAI, Z.; YANG, G.; XU, S.; ZANG, C.; CHEN, J.; HANG, P.; YANG, B. RBaaS: a robust blockchain as a service paradigm in cloud-edge collaborative environment. IEEE Access, [S.l.], v. 10, p. 35437–35444, 2022.
 https://ieeexplore.ieee.org/document/9326290
 
-CHARLON, F. Overview of Openchain. 2015.
+CHARLON, F. Overview of Openchain. 2017.
+https://docs.openchain.org/_/downloads/en/latest/pdf/ e https://docs.openchain.org/en/latest/general/overview.html
 
 CHARLON, F. Openchain modules Storage engines. 2015.
+https://docs.openchain.org/en/latest/general/modules.html#storage-engines
 
 CHEN, S.; ZHANG, J.; SHI, R.; YAN, J.; KE, Q. A Comparative Testing on Performance of Blockchain and Relational Database: foundation for applying smart technology into current business systems. In: _____. . [S.l.: s.n.], 2018. p. 21–34.
+https://link.springer.com/chapter/10.1007/978-3-319-91125-0_2
 
 DAS, S.; SARAF, C.; KHAIRNAR, D. P. A Hyperledger Fabric Based Organizational Decentralized Access Control Solution. In: IEEE 7TH INTERNATIONAL CONFERENCE ON ENGINEERING TECHNOLOGIES AND APPLIED SCIENCES (ICETAS), 2020., 2020. Anais. . . [S.l.: s.n.], 2020. p. 1–6.
+https://ieeexplore.ieee.org/document/9484187
 
 DIB, O.; BROUSMICHE, K.-L.; DURAND, A.; THEA, E.; BEN HAMIDA, E. Consortium blockchains: overview, applications and challenges. International Journal On Advances in Telecommunications, France, 2018.
 
