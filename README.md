@@ -166,21 +166,21 @@ Projetos de blockchain a partir do ano de criação até 2022: Hyperledger Fabri
 
 ![Alguns projetos de blockchain até 2022](https://raw.githubusercontent.com/monteiro74/blockchain/main/figuras/fig4.png)
 
-### 1.5. Ethereum 
+## 1.5. Ethereum 
 
 Ethereum é uma rede de computadores em todo o mundo que segue um conjunto de regras do chamado protocolo Ethereum.
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
 
-### 1.6. EVM
+## 1.6. EVM
 
 A Máquina Virtual Ethereum é o computador virtual global cujo estado todos os participantes (nós) da rede Ethereum armazenam (seu estado) e concordam. Qualquer participante pode solicitar a execução de código arbitrário na EVM; a execução do código (via smart contract) altera o estado do EVM. 
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
 
-### 1.7. Smart contracts
+## 1.7. Smart contracts
 
 Contratos inteligentes são programas de computador que estão e rodam na blockchain Ethereum. Transações acionam smart contracts. São acionados por aplicativos de usuários. Nick Szabo cunhou o termo "smart contract“, em 1994. Szabo idealizou um mercado virtual onde negócios automáticos e criptografados permitissem que transações ocorressem sem intermediários confiáveis.
 
@@ -189,7 +189,7 @@ Fonte: https://ethereum.org/en/smart-contracts/
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
 
-### 1.8. ETH
+## 1.8. ETH
 
 ETH é uma criptomoeda (similar ao Bitcoin). Enviar ETH para outra pessoa você pagará uma taxa em ETH. Esse valor pago em ETH é a motivação para os validadores de bloco processar e verificar o que os usuários desejam fazer. Validadores são selecionados aleatóriamente para tratar um bloco de transações e posteriormente são recompensados com ETH.
 
@@ -198,14 +198,14 @@ Fonte: https://ethereum.org/en/eth/
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
 
-### 1.9. Wallets
+## 1.9. Wallets
 
 Uma carteira é uma forma de se controlar uma conta. Ela contém a identidade do usuário e seus ativos, além de informar saldos e enviar transações. A carteira é uma forma de interação com a rede Ethereum.
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
 
-#### 1.9.1. Carteiras, Contas, Chaves e Endereços
+### 1.9.1. Carteiras, Contas, Chaves e Endereços
 
 * Uma conta Ethereum é um par de chaves. Uma chave (pública) é usada para criar o endereço que pode ser compartilhado livremente e a outra chave (privada) é mantida em segredo porque é usada para assinar transações. Juntas, essas chaves permitem manter ativos e fazer transações.
 * Uma conta Ethereum possui um endereço, assim como um email possui uma caixa de entrada. Isso é usado para identificar ativos digitais.
@@ -217,7 +217,7 @@ Fonte: https://ethereum.org/en/wallets
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
 
-### 1.10. Gas fee
+## 1.10. Gas fee
 
 Cada transação realizada no Ethereum consome "gas".
 Enviar uma transação ou executar um smart contract gasta "gas".
@@ -227,7 +227,7 @@ Fonte: https://ethereum.org/en/wallets/
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
 
-### 1.11. Mining (mineração)
+## 1.11. Mining (mineração)
 
 A “mineração” de blockchain é uma metáfora para o trabalho computacional que os nós da rede realizam para validar as informações contidas nos blocos. Assim, na realidade, os mineiros estão essencialmente a ser pagos pelo seu trabalho como auditores.
 
@@ -256,7 +256,7 @@ Fonte: https://www.investopedia.com/terms/b/bitcoin-mining.asp
 
 
 
-### 1.12. Consenso
+## 1.12. Consenso
 
 É um sistema que valida uma transação e a marca como autêntica. Este mecanismo lista todas as transações válidas de uma moeda em uma blockchain para construir confiança na moeda entre os comerciantes. Diversas moedas, como Bitcoin, Ethereum etc., utilizam este sistema.
 
@@ -270,7 +270,7 @@ Fonte https://cleartax.in/s/consensus-in-blockchain
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
 
-### 1.13. IDE para programar com Ethereum
+## 1.13. IDE para programar com Ethereum
 
 Remix IDE:
 
@@ -303,6 +303,12 @@ val	0 wei
 Simulador local de Ethereum para desenvolvimento [Ganache](https://trufflesuite.com/ganache/).
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
+
+
+
+## 1.14. Multhichain
+
+## 1.15. Hiperledger
 
 
 --- 
