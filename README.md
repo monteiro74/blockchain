@@ -522,6 +522,7 @@ SINGH, A.; GUTUB, A.; NAYYAR, A.; KHAN, M. K. Redefining food safety traceabilit
 https://link.springer.com/article/10.1007/s11042-022-14006-4
 
 SINGH, N.; VARDHAN, M. Computing Optimal Block Size for Blockchain based Applications with Contradictory Objectives. Procedia Computer Science, [S.l.], v. 171, p. 1389–1398, 2020. Third International Conference on Computing and Network Communications (CoCoNet’19).
+https://www.sciencedirect.com/science/article/pii/S1877050920311285
 
 SOLVEJ, K.; NATARAJAN, K.; HARISH, G.; LUSKIN, H. Distributed Ledger Technology (DLT) and blockchain. Washington, D.C., 2017.
 
