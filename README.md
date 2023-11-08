@@ -495,8 +495,10 @@ PEREZ, A. O.; DOMINGO-PALAOAG, T. Blockchain-based Model for Health Information 
 https://iopscience.iop.org/article/10.1088/1757-899X/1077/1/012059
 
 PRASHAR, D.; JHA, N.; JHA, S.; LEE, Y.; JOSHI, G. P. Blockchain-Based Traceability and Visibility for Agricultural Products: a decentralized way of ensuring food safety in india. Sustainability, [S.l.], v. 12, n. 8, 2020.
+https://www.mdpi.com/2071-1050/12/8/3497
 
 PSARAS, Y.; SOARES, J. M.; DIAS, D. To the InterPlanetary File System–and Beyond!: peer-to-peer file sharing would make the internet far more efficient. IEEE Spectrum, [S.l.], v. 59, n. 11, p. 34–39, 2022.
+https://ieeexplore.ieee.org/document/9941036
 
 PURBO, O.; SRIYANTO, S.; SUHENDRO, S.; RZ, A.; HERWANTO, R. Benchmark and comparison between hyperledger and MySQL. TELKOMNIKA (Telecommunication Computing Electronics and Control), [S.l.], v. 18, p. 705, 04 2020.
 
