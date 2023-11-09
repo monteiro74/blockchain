@@ -349,13 +349,19 @@ Simulador local de Ethereum para desenvolvimento [Ganache](https://trufflesuite.
 
 ## 1.14. DeFi
 
-Significa Decentralized Finance (DeFi). É um conceito que visa trazer os serviços financeiros tradicionais para o universo das criptomoedas usando blockchains e "ledgers" distribuídas. Um atrativo para o uso de DeFi seria a não existência de taxas bancárias entre as transações.  O usuários destes serviços poderiam manter dinheiro digital em uma carteira (wallets) de forma segura (pelo uso de criptografia) e realizar transferências de fundos (cripto ativos) entre outros usuários deste ecossistema via Internet se unidades centrais de controle ou bancos tradicionais para intervir neste processo. 
+Significa Decentralized Finance (DeFi). É um conceito que visa trazer os serviços financeiros tradicionais para o universo das criptomoedas usando blockchains e "ledgers" distribuídas. Um atrativo para o uso de DeFi seria a não existência de taxas bancárias entre as transações.  O usuários destes serviços poderiam manter dinheiro digital em uma carteira (wallets) de forma segura (pelo uso de criptografia) e realizar transferências de fundos (cripto ativos) entre outros usuários deste ecossistema via Internet se unidades centrais de controle ou bancos tradicionais para intervir neste processo.
+
+Redes ponto a ponto financeiras seriam os locais onde os serviços DeFi existiriam, os usuários destes serviços se conectariam via wallets, vendedores e compradores realizaram as transações dentro desta rede distribuída. Esta rede financeira estaria presente em qualquer lugar (desde que haja internet). É importante observar que DeFi não tem como objetivo fornecer serviço de anonimização, pelo contrário, espera-se que instituições financeiras tradicionais(CeFi - Centralizes Finance), comercios reais e pessoas físicas e jurídicas possam fazer uso dessa tecnologia da mesma forma como se usa os meios financeiros tradicionais centralizados. Inclusive as transações financeiras que se estabelecerão nas redes DeFi esperá-se que sejam todas rastreáveis.
+
+A proposta DeFi pode ter surgido como uma ideia nas quais pessoas poderiam fazer transações entre si sem pagar taxas, mas é necessário uma infraestrutura para a computação e operação de redes de comptuadores custosa, instituições financeiras podem participar cobrando taxas bancárias muito baixas, mais atrativas que no sistema tradicional. 
+
+
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
-## 1.15. Oracle
+## 1.15. Blockchain Oracle
 
-Em desenvolvimento.
+São sistemas que conectam blockchains a sistemas externos, permitindo que os smart contracts possam de acordo com parâmetros externos. Desta forma sistema pré-existentes (ou legados) possam se conectar (via WEB3) com as blockchains. Os oracles podem receber dados do mundo externo (qualquer tipo de dados, por exemplo: dados de sensor de temperatura) e envia estes dados para a blockchain. Permite que ecossistemas decentralizados possam ter acessoa fontes de dados externas. 
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
