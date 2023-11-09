@@ -426,8 +426,8 @@ Resumo sobre Multichain blockchain:
 * Filtram o que pode ser enviado para a blockchain.
 * São funções em javascript
 * Tipos:
- Smart filters para transações  (usando o parâmetro txfilter) 
- Smart filters para objetos (usando o parâmetro streamfilter)
+a) Smart filters para transações  (usando o parâmetro txfilter) 
+b)  Smart filters para objetos (usando o parâmetro streamfilter)
 * Cada função obtém informações sobre uma transação ou objeto mediante callbacks.
 * Callbaks: 
 * Se recebe um retorno vazio, a transação é rejeitada
