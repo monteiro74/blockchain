@@ -445,9 +445,20 @@ Site da [Multichain blockchain](https://www.multichain.com/).
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
-## 1.17. Hiperledger
+## 1.17. Hyperledger
 
-Em desenvolvimento.
+Estrutura de uma rede Hyperledger Fabric:
+
+
+
+* As organizações R0, R1 e R2 montaram uma rede e chegaram em um consenso sobre a infraestrutura e políticas de administração da rede. 
+* As 3 organizações (R0, R1 e R2) são as proprietárias da rede, que utiliza como configuração CC1.
+* No canal C1 estão os peers P1 e P2 das organizações R1 e R2.
+* R0 é proprietária do peer O (que possui um serviço de ordenamento).
+* Todos os nós contém uma cópia da blockchain (L1) (ou ledger).
+* R1 e R2 também interagem com o canal usando as aplicações A1 e A2.
+* Todas as 3 organizações possuem autoridades certificadoras CA0, CA1 e CA2.
+* S5 é um chaincode (é um smart contract) instalado nos peers P1 e P2.
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
