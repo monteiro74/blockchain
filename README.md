@@ -447,6 +447,8 @@ Site da [Multichain blockchain](https://www.multichain.com/).
 
 ## 1.17. Hyperledger Fabric
 
+Hyperledger é um projeto open source de blockchain mantido pela Linux Foundation (seu principal patrocinador é a IBM). É uma blockchain permissionada. 
+
 Estrutura de uma rede Hyperledger Fabric:
 
 <img src="https://raw.githubusercontent.com/monteiro74/blockchain/main/figuras/fig7.png" alt="drawing" width="500"/>
