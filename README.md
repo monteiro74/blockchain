@@ -441,6 +441,8 @@ b) Se recebe um valor diferente de vazio, a transação ou objeto é aceito.
 c) Somente com permissões é possível criar smart filters
 d) Streams podem ser ativadas ou desativadas.
 
+Site da [Multichain blcokchain](https://www.multichain.com/).
+
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
 ## 1.17. Hiperledger
