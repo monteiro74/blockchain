@@ -476,7 +476,7 @@ Exemplo de NFT são os Bored Ape Yacht Club Galeria dos [BAYC](https://boredapey
 
 ## 1.19. Stable Coin
 
-Em desenvolvimento.
+São um tipo de criptomoeda que possui um valor atrelado a um ativo de referência que pode ser uma commodities, bens materiais, ouro ou outra moeda física. A ideia é ter uma relação 1:1, no qual a criptomeda stable coin tem seu valor indexado por uma outra moeda. Desta forma seu valor tende a não ter tanda volatilidade. Esta opção é mais atrativa pois permite a conversibilidade da moeda em outros bens.
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
