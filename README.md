@@ -449,7 +449,7 @@ Site da [Multichain blockchain](https://www.multichain.com/).
 
 Estrutura de uma rede Hyperledger Fabric:
 
-
+![https://raw.githubusercontent.com/monteiro74/blockchain/main/figuras/fig7.png](https://raw.githubusercontent.com/monteiro74/blockchain/main/figuras/fig7.png)
 
 Fonte da figura: https://hyperledger-fabric.readthedocs.io/en/latest/network/network.html
 
