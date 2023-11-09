@@ -34,6 +34,13 @@ informação, programação e banco de dados.
 [1.11. Mining](#111-mining-mineração)<br>
 [1.12. Consenso](#112-consenso)<br>
 [1.13. IDE para programar com Ethereum](#113-ide-para-programar-com-ethereum)<br>
+[1.14. DeFi](#114-defi)<br>
+[1.15. Oracle](#115-oracle)<br>
+[1.16. Multichain blockchain](#116-multhichain-blockchain)<br>
+[1.17. Hyperledger](#117-hiperledger)<br>
+[1.18. SQL e Blockchain](#118-sql-e-blockchain)<br>
+[1.19. NFT](#119-nft)<br>
+[1.20. Stable coins](#120-stable-coin)<br>
 [2. Aplicabilidade](#2-Aplicabilidade)<br>
 [3. Tendências](#3-tendências)<br>
 [4. Artigos interessantes](#4-Artigos-interessantes)<br>
