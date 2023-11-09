@@ -368,6 +368,19 @@ Em desenvolvimento.
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
+## 1.19. NFT
+
+Em desenvolvimento.
+
+[Voltar ao início](#sobre-blockchain-e-livros-razão)
+
+
+## 1.20. Stable Coin
+
+Em desenvolvimento.
+
+[Voltar ao início](#sobre-blockchain-e-livros-razão)
+
 
 --- 
 # 2 Aplicabilidade 
