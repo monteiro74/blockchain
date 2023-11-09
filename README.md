@@ -432,16 +432,16 @@ Smart Filters:
 * Filtram o que pode ser enviado para a blockchain.
 * São funções em javascript
 * Tipos:
-a) Smart filters para transações  (usando o parâmetro txfilter) 
-b)  Smart filters para objetos (usando o parâmetro streamfilter)
+A) Smart filters para transações  (usando o parâmetro txfilter) 
+B)  Smart filters para objetos (usando o parâmetro streamfilter)
 * Cada função obtém informações sobre uma transação ou objeto mediante callbacks.
 * Callbaks: 
-a) Se recebe um retorno vazio, a transação é rejeitada
-b) Se recebe um valor diferente de vazio, a transação ou objeto é aceito.
-c) Somente com permissões é possível criar smart filters
-d) Streams podem ser ativadas ou desativadas.
+A) Se recebe um retorno vazio, a transação é rejeitada
+B) Se recebe um valor diferente de vazio, a transação ou objeto é aceito.
+C) Somente com permissões é possível criar smart filters
+D) Streams podem ser ativadas ou desativadas.
 
-Site da [Multichain blcokchain](https://www.multichain.com/).
+Site da [Multichain blockchain](https://www.multichain.com/).
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
