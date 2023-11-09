@@ -401,6 +401,8 @@ Resumo sobre Multichain blockchain:
 * Não possui limites de transações.
 * Não possui limitações de nós por rede.
 * O blocktime (é o tempo de bloqueio é o tempo que leva para criar um novo bloco ou arquivo em uma cadeia de criptomoeda) é menor que 2 segundos.
+
+Streams:
 * O streams é uma abstração para o armazenamento de dados, indexação e recuperação de dados.
 * É possível ter vários streams.
 * Cada stream pode estar aberto para escrita por todos ou apenas para alguns.
@@ -408,6 +410,8 @@ Resumo sobre Multichain blockchain:
 * Um dado pode ter a mesma chave.
 * Para que um dados seja publicado na stream é necessário permissão de escrita na stream alvo.
 * Uma consulta só pode ser feita em uma stream se foi feita uma assinatura (subscription) na referida stream.
+
+Ativos: 
 * Os ativos tem uma função semelhante ao conceito de moeda.
 * Os ativos recebem uma quantidade inicial ao serem criados.
 * Este ativo pode ser dividido em partes menores (fracionado).
@@ -420,6 +424,8 @@ Resumo sobre Multichain blockchain:
 * Blocos podem ser consultados na blockchain.
 * Como os blocos são encadeados é possível saltá-los para consultar o bloco desejado.
 * As consultas detalhadas de um bloco exigem que se use o hash do bloco.
+
+Smart Filters: 
 * Smart filters são códigos!
 * Smart filters são funções que possibilitam verificações nas transações que são disparadas para a blockchain.
 * Parecidos com triggers em bancos de dados.
@@ -430,10 +436,10 @@ a) Smart filters para transações  (usando o parâmetro txfilter)
 b)  Smart filters para objetos (usando o parâmetro streamfilter)
 * Cada função obtém informações sobre uma transação ou objeto mediante callbacks.
 * Callbaks: 
-* Se recebe um retorno vazio, a transação é rejeitada
-* Se recebe um valor diferente de vazio, a transação ou objeto é aceito.
-* Somente com permissões é possível criar smart filters
-* Streams podem ser ativadas ou desativadas.
+a) Se recebe um retorno vazio, a transação é rejeitada
+b) Se recebe um valor diferente de vazio, a transação ou objeto é aceito.
+c) Somente com permissões é possível criar smart filters
+d) Streams podem ser ativadas ou desativadas.
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
