@@ -367,7 +367,73 @@ São sistemas que conectam blockchains a sistemas externos, permitindo que os sm
 
 ## 1.16. Multhichain blockchain
 
-Em desenvolvimento.
+Resumo sobre Multichain blockchain:
+
+* Foi criada pela Coin Sciences, uma empresa britânica.
+* É um fork do projeto bitcoin.
+* O bitcoin foi usado como base(inspiração) para o desenvolvimento da multichain.
+* Permite desenvolver blockchains privadas
+* O que é uma blockchain privada? São as blockchains nas quais seus criados podem definir quem pode se conectar e permite gerenciar determinadas permissões de seus membros.
+* Está disponível para download para os sistemas operacionais Windows e Linux
+* A operação da multichain é via linha de comando
+* Um computador pode rodar uma instancia (daemon) da multichain e conectar-se a mais de uma blockchain.
+* Cada comando enviado para a blockchain é uma transação.
+* Cada transação é armazenada em bloco.
+* Cada transação tem um txid, que é o identificador desta.
+* Um computador não necessita rodar uma instancia da multichain mas ele pode se conectar a uma instancia que está rodando em outro computador.
+* Um computador pode descarregar a blockchain ele deverá ter também permissão para se conectar a ela. Quem fornece essa permissão é o criador da blockchain ou outro com permissão para tal.
+* Permite um alto grau de privacidade por requer a autenticação com a devida permissão para acesso à blockchain.
+* Suporta o algoritmo PoA (Proof of Authority).
+* Toda transação é atômica.
+* Toda transação é marcada por chaves públicas.
+* Os mineradores são designados
+* Pode ser instalada em servidores próprios
+* Utiliza validation by consensus, criado pelos nós da rede.
+* Suporta um ciclo de vida do ativo
+* Não necessita de smart contracts
+* É necessário ter que ser assinante de ativo para realizar consultas
+* Cada nó pode escolher qual stream indexar
+* As contas são identificadas por chaves públicas.
+* Cada bloco é assinado pelo criador, outros só podem minerar com a devida permissão.
+* As permissões da blockchain podem mudar durante o tempo.
+* Utiliza JSON-RPC API para aplicações.
+* A multichain pode ser acessada como serviço.
+* Não possui limites de transações.
+* Não possui limitações de nós por rede.
+* O blocktime (é o tempo de bloqueio é o tempo que leva para criar um novo bloco ou arquivo em uma cadeia de criptomoeda) é menor que 2 segundos.
+* O streams é uma abstração para o armazenamento de dados, indexação e recuperação de dados.
+* É possível ter vários streams.
+* Cada stream pode estar aberto para escrita por todos ou apenas para alguns.
+* Dados são publicados no formato json.
+* Um dado pode ter a mesma chave.
+* Para que um dados seja publicado na stream é necessário permissão de escrita na stream alvo.
+* Uma consulta só pode ser feita em uma stream se foi feita uma assinatura (subscription) na referida stream.
+* Os ativos tem uma função semelhante ao conceito de moeda.
+* Os ativos recebem uma quantidade inicial ao serem criados.
+* Este ativo pode ser dividido em partes menores (fracionado).
+* O ativo pode ser enviado a outros.
+* O ativo pode ser recebido a partir de terceiros.
+* Os ativos só podem ser transmitidos se o destinatário tem permissão para receber.
+* Cada nó tem uma carteira (wallet) na qual ele pode armazenar os ativos.
+* Os ativos na carteira podem ser visualizados com suas quantidades.
+* Ativos podem ser reemitidos e destruidos.
+* Blocos podem ser consultados na blockchain.
+* Como os blocos são encadeados é possível saltá-los para consultar o bloco desejado.
+* As consultas detalhadas de um bloco exigem que se use o hash do bloco.
+* Smart filters são códigos!
+* Smart filters são funções que possibilitam verificações nas transações que são disparadas para a blockchain.
+* Parecidos com triggers em bancos de dados.
+* Filtram o que pode ser enviado para a blockchain.
+* São funções em javascript
+* Tipos:
+ Smart filters para transações  (usando o parâmetro txfilter) 
+ Smart filters para objetos (usando o parâmetro streamfilter)
+* Cada função obtém informações sobre uma transação ou objeto mediante callbacks.
+* Callbaks: 
+* Se recebe um retorno vazio, a transação é rejeitada
+* Se recebe um valor diferente de vazio, a transação ou objeto é aceito.
+* Somente com permissões é possível criar smart filters
+* Streams podem ser ativadas ou desativadas.
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
