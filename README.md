@@ -349,7 +349,7 @@ Simulador local de Ethereum para desenvolvimento [Ganache](https://trufflesuite.
 
 ## 1.14. DeFi
 
-Em desenvolvimento.
+Significa Decentralized Finance (DeFi). É um conceito que visa trazer os serviços financeiros tradicionais para o universo das criptomoedas usando blockchains e "ledgers" distribuídas. Um atrativo para o uso de DeFi seria a não existência de taxas bancárias entre as transações.  O usuários destes serviços poderiam manter dinheiro digital em uma carteira (wallets) de forma segura (pelo uso de criptografia) e realizar transferências de fundos (cripto ativos) entre outros usuários deste ecossistema via Internet se unidades centrais de controle ou bancos tradicionais para intervir neste processo. 
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
