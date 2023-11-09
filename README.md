@@ -37,7 +37,7 @@ informação, programação e banco de dados.
 [1.14. DeFi](#114-defi)<br>
 [1.15. Oracle](#115-oracle)<br>
 [1.16. Multichain blockchain](#116-multhichain-blockchain)<br>
-[1.17. Hyperledger](#117-hiperledger)<br>
+[1.17. Hyperledger Fabric](#117-hyperledger-fabric)<br>
 [1.18. SQL e Blockchain](#118-sql-e-blockchain)<br>
 [1.19. NFT](#119-nft)<br>
 [1.20. Stable coins](#120-stable-coin)<br>
@@ -445,7 +445,7 @@ Site da [Multichain blockchain](https://www.multichain.com/).
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
-## 1.17. Hyperledger
+## 1.17. Hyperledger Fabric
 
 Estrutura de uma rede Hyperledger Fabric:
 
