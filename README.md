@@ -38,9 +38,8 @@ informação, programação e banco de dados.
 [1.15. Oracle](#115-oracle)<br>
 [1.16. Multichain blockchain](#116-multhichain-blockchain)<br>
 [1.17. Hyperledger Fabric](#117-hyperledger-fabric)<br>
-[1.18. SQL e Blockchain](#118-sql-e-blockchain)<br>
-[1.19. NFT](#119-nft)<br>
-[1.20. Stable coins](#120-stable-coin)<br>
+[1.18. NFT](#118-nft)<br>
+[1.19. Stable coins](#119-stable-coin)<br>
 [2. Aplicabilidade](#2-Aplicabilidade)<br>
 [3. Tendências](#3-tendências)<br>
 [4. Artigos interessantes](#4-Artigos-interessantes)<br>
@@ -466,20 +465,14 @@ Fonte da figura: https://hyperledger-fabric.readthedocs.io/en/latest/network/net
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
-## 1.18. SQL e Blockchain
-
-Em desenvolvimento.
-
-[Voltar ao início](#sobre-blockchain-e-livros-razão)
-
-## 1.19. NFT
+## 1.18. NFT
 
 Em desenvolvimento.
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
 
-## 1.20. Stable Coin
+## 1.19. Stable Coin
 
 Em desenvolvimento.
 
