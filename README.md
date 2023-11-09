@@ -298,6 +298,8 @@ Fonte: https://www.investopedia.com/terms/b/bitcoin-mining.asp
 
 * PoS (Proof of Stake): Este mecanismo escolhe aleatoriamente um proprietário máximo de moedas para validar uma transação. Também permite ao proprietário criar um bloco para a mesma moeda. Este mecanismo requer comparativamente menos energia, tempo de transação e uma taxa mais baixa. Moedas como Etherium 2.0
 
+* PoA (Proof of Authority): ...
+
 
 Fonte https://cleartax.in/s/consensus-in-blockchain
 
