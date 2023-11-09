@@ -467,7 +467,9 @@ Fonte da figura: https://hyperledger-fabric.readthedocs.io/en/latest/network/net
 
 ## 1.18. NFT
 
-Em desenvolvimento.
+NFT significa Non-Fungible Token, são ativos que podem ser tokenizados por uma blockchain (ou seja, pode receber uma representação virtual como um objeto dentro de uma blockchain). Estes ativos podem representar qualquer coisa do mundo real como: obras de arte, carros, terrenos, etc. Recebem um código único de identificação e metadados que os descrevem (incluindo quantidade e valor). Os NFTs podem ser comprados e vendidos/trocados usando cripto moedas em determinadas plataformas. 
+
+Exemplo de NFT são os [Bored Ape Yacht Club](https://boredapeyachtclub.com/#/gallery) NFT (notícias sobre: https://www.coindesk.com/web3/2023/07/03/bored-ape-yacht-club-nft-collection-floor-price-sinks-to-20-month-low/ e  https://www.theguardian.com/artanddesign/2022/jan/04/bored-ape-nft-art-eminem).
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
