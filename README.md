@@ -451,6 +451,8 @@ Estrutura de uma rede Hyperledger Fabric:
 
 
 
+Fonte da figura: https://hyperledger-fabric.readthedocs.io/en/latest/network/network.html
+
 * As organizações R0, R1 e R2 montaram uma rede e chegaram em um consenso sobre a infraestrutura e políticas de administração da rede. 
 * As 3 organizações (R0, R1 e R2) são as proprietárias da rede, que utiliza como configuração CC1.
 * No canal C1 estão os peers P1 e P2 das organizações R1 e R2.
