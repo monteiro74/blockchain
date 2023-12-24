@@ -15,37 +15,42 @@ informação, programação e banco de dados.
 
 
 ---
+# Sumário
 
-[1 Conceitos](#1-Conceitos) <br>
-[1.1. O problema de double spending](#11-o-problema-de-double-spending)<br>
-[1.2. Criptografia de chave pública](#12-critografia-de-chave-pública)<br>
-[1.3. Certificado digital](#13-certificado-digital)<br>
-[1.4. Tecnologias de livro razao](#14-tecnologias-de-livro-razao)<br>
-[1.4.1. Gráfos acíclicos dirigidos](#141-gráfos-acíclicos-dirigidos)<br>
-[1.4.2. Blockchain](#142-blockchain)<br>
-[1.4.3. Diferentes tipos de DLT](#143-diferentes-tipos-de-dlt)<br>
-[1.4.4. Alguns projetos desde o surgimento até 2022](#144-alguns-projetos-de-blockchain-desde-o-surgimento-até-2022)<br>
-[1.5. Ethereum](#15-ethereum)<br>
-[1.6. EVM](#16-evm)<br>
-[1.7. Smart Contract](#17-smart-contracts)<br>
-[1.8. ETH](#18-eth)<br>
-[1.9. Wallets](#19-wallets)<br>
-[1.10. Gas fee](#110-gas-fee)<br>
-[1.11. Mining](#111-mining-mineração)<br>
-[1.12. Consenso](#112-consenso)<br>
-[1.13. IDE para programar com Ethereum](#113-ide-para-programar-com-ethereum)<br>
-[1.14. DeFi](#114-defi)<br>
-[1.15. Oracle](#115-oracle)<br>
-[1.16. Multichain blockchain](#116-multhichain-blockchain)<br>
-[1.17. Hyperledger Fabric](#117-hyperledger-fabric)<br>
-[1.18. NFT](#118-nft)<br>
-[1.19. Stable coins](#119-stable-coin)<br>
-[2. Aplicabilidade](#2-Aplicabilidade)<br>
-[3. Tendências](#3-tendências)<br>
-[4. Artigos interessantes](#4-Artigos-interessantes)<br>
-[5. Fontes](#5-fontes)<br>
-[6. Videos](#6-videos)<br>
-[7. Reportagens](#7-reportagens)<br>
+- [Sobre Blockchain e livros razão](#sobre-blockchain-e-livros-razão)
+- [Sumário](#sumário)
+- [1 Conceitos](#1-conceitos)
+  - [1.1. O problema de double spending](#11-o-problema-de-double-spending)
+  - [1.2. Critografia de chave pública](#12-critografia-de-chave-pública)
+  - [1.3. Certificado digital](#13-certificado-digital)
+  - [1.4. Tecnologias de livro razao](#14-tecnologias-de-livro-razao)
+    - [1.4.1. Gráfos acíclicos dirigidos](#141-gráfos-acíclicos-dirigidos)
+    - [1.4.2. Blockchain](#142-blockchain)
+    - [1.4.3. Diferentes tipos de DLT](#143-diferentes-tipos-de-dlt)
+    - [1.4.4. Alguns projetos de blockchain desde o surgimento até 2022](#144-alguns-projetos-de-blockchain-desde-o-surgimento-até-2022)
+  - [1.5. Ethereum](#15-ethereum)
+  - [1.6. EVM](#16-evm)
+  - [1.7. Smart contracts](#17-smart-contracts)
+  - [1.8. ETH](#18-eth)
+  - [1.9. Wallets](#19-wallets)
+    - [1.9.1. Carteiras, Contas, Chaves e Endereços](#191-carteiras-contas-chaves-e-endereços)
+  - [1.10. Gas fee](#110-gas-fee)
+  - [1.11. Mining (mineração)](#111-mining-mineração)
+  - [1.12. Consenso](#112-consenso)
+  - [1.13. IDE para programar com Ethereum](#113-ide-para-programar-com-ethereum)
+  - [1.14. DeFi](#114-defi)
+  - [1.15. Blockchain Oracle](#115-blockchain-oracle)
+  - [1.16. Multhichain blockchain](#116-multhichain-blockchain)
+  - [1.17. Hyperledger Fabric](#117-hyperledger-fabric)
+  - [1.18. NFT](#118-nft)
+  - [1.19. Stable Coin](#119-stable-coin)
+- [2 Aplicabilidade](#2-aplicabilidade)
+- [3 Tendências](#3-tendências)
+- [4 Artigos interessantes](#4-artigos-interessantes)
+- [5 Fontes](#5-fontes)
+- [6 Videos](#6-videos)
+- [7 Reportagens](#7-reportagens)
+- [Estatísticas desta página](#estatísticas-desta-página)
 
 
 
