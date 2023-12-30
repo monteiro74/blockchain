@@ -50,6 +50,9 @@ informação, programação e banco de dados.
 - [5 Fontes](#5-fontes)
 - [6 Videos](#6-videos)
 - [7 Reportagens](#7-reportagens)
+- [Avisos, licença](#avisos-licença)
+  - [Aviso:](#aviso)
+  - [Licença:](#licença)
 - [Estatísticas desta página](#estatísticas-desta-página)
 
 
@@ -769,6 +772,23 @@ Em desenvolvimento.
 Em desenvolvimento.
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
+
+
+---
+# Avisos, licença
+
+## Aviso:
+```
+Este material esta recebendo atualizações frequentes. 
+As informações aqui contidas podem ser alteradas sem aviso prévio.
+```
+
+## Licença: 
+```
+Organizado e mantida pelo Prof. Dr. Monteiro, E. S.
+Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) 
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+```
 
 
 ---
