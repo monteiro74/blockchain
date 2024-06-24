@@ -23,7 +23,7 @@ informação, programação e banco de dados.
   - [1.1. O problema de double spending](#11-o-problema-de-double-spending)
   - [1.2. Critografia de chave pública](#12-critografia-de-chave-pública)
   - [1.3. Certificado digital](#13-certificado-digital)
-  - [1.4. Tecnologias de livro razao](#14-tecnologias-de-livro-razao)
+  - [1.4. Tecnologias de livro razão](#14-tecnologias-de-livro-razão)
     - [1.4.1. Gráfos acíclicos dirigidos](#141-gráfos-acíclicos-dirigidos)
     - [1.4.2. Blockchain](#142-blockchain)
     - [1.4.3. Diferentes tipos de DLT](#143-diferentes-tipos-de-dlt)
@@ -90,7 +90,7 @@ https://pt.wikipedia.org/wiki/Certificado_digital#/media/Ficheiro:Client_and_Ser
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
-## 1.4. Tecnologias de livro razao
+## 1.4. Tecnologias de livro razão
 
 Tecnologias de livro razão distribuídas (ou "Distributed Ledger Technology (DLT)" do inglês) podem ser usadas para resolver problemas provocados pelo uso de uma terceira parte para autenticar transações, evitar cobranças de serviços, diminuir tempo de processamento, não se submeter a uma autoridade central e evitar um ponto de falha. Desta forma as DLT são interessantes para resolver uma série de problemas em um ambiente distribuído no qual vários participantes devem trocar dados, e geralmente estão a distâncias significativas e podem não ter os mesmos relacionamentos de confiança. 
 
