@@ -25,35 +25,38 @@ informação, programação e banco de dados.
 ---
 # Sumário
 
+
+
 - [Sobre Blockchain e livros razão](#sobre-blockchain-e-livros-razão)
       - [Objetivos:](#objetivos)
       - [Observações:](#observações)
 - [Sumário](#sumário)
 - [1 Conceitos](#1-conceitos)
   - [1.1. O problema de double spending](#11-o-problema-de-double-spending)
-  - [1.2. Critografia de chave pública](#12-critografia-de-chave-pública)
-  - [1.3. Certificado digital](#13-certificado-digital)
-  - [1.4. Tecnologias de livro razão](#14-tecnologias-de-livro-razão)
-    - [1.4.1. Gráfos acíclicos dirigidos](#141-gráfos-acíclicos-dirigidos)
-    - [1.4.2. Blockchain](#142-blockchain)
-    - [1.4.3. Diferentes tipos de DLT](#143-diferentes-tipos-de-dlt)
-    - [1.4.4. Alguns projetos de blockchain desde o surgimento até 2022](#144-alguns-projetos-de-blockchain-desde-o-surgimento-até-2022)
-  - [1.5. Ethereum](#15-ethereum)
-  - [1.6. EVM](#16-evm)
-  - [1.7. Smart contracts](#17-smart-contracts)
-  - [1.8. ETH](#18-eth)
-  - [1.9. Wallets](#19-wallets)
-    - [1.9.1. Carteiras, Contas, Chaves e Endereços](#191-carteiras-contas-chaves-e-endereços)
-  - [1.10. Gas fee](#110-gas-fee)
-  - [1.11. Mining (mineração)](#111-mining-mineração)
-  - [1.12. Consenso](#112-consenso)
-  - [1.13. IDE para programar com Ethereum](#113-ide-para-programar-com-ethereum)
-  - [1.14. DeFi](#114-defi)
-  - [1.15. Blockchain Oracle](#115-blockchain-oracle)
-  - [1.16. Multhichain blockchain](#116-multhichain-blockchain)
-  - [1.17. Hyperledger Fabric](#117-hyperledger-fabric)
-  - [1.18. NFT](#118-nft)
-  - [1.19. Stable Coin](#119-stable-coin)
+  - [1.2. Criptografia de chave privada](#12-criptografia-de-chave-privada)
+  - [1.3. Critografia de chave pública](#13-critografia-de-chave-pública)
+  - [1.4. Certificado digital](#14-certificado-digital)
+  - [1.5. Tecnologias de livro razão](#15-tecnologias-de-livro-razão)
+    - [1.5.1. Gráfos acíclicos dirigidos](#151-gráfos-acíclicos-dirigidos)
+    - [1.5.2. Blockchain](#152-blockchain)
+    - [1.5.3. Diferentes tipos de DLT](#153-diferentes-tipos-de-dlt)
+    - [1.5.4. Alguns projetos de blockchain desde o surgimento até 2022](#154-alguns-projetos-de-blockchain-desde-o-surgimento-até-2022)
+  - [1.6. Ethereum](#16-ethereum)
+    - [1.6.1. EVM](#161-evm)
+    - [1.6.2. Smart contracts](#162-smart-contracts)
+    - [1.6.3 ETH](#163-eth)
+    - [1.6.4. Gas fee](#164-gas-fee)
+    - [1.6.5. IDE para programar com Ethereum](#165-ide-para-programar-com-ethereum)
+  - [1.7. Wallets](#17-wallets)
+    - [1.7.1. Carteiras, Contas, Chaves e Endereços](#171-carteiras-contas-chaves-e-endereços)
+  - [1.8. Mining (mineração)](#18-mining-mineração)
+  - [1.9. Consenso](#19-consenso)
+  - [1.10. DeFi](#110-defi)
+  - [1.11. Blockchain Oracle](#111-blockchain-oracle)
+  - [1.12. Multhichain blockchain](#112-multhichain-blockchain)
+  - [1.13. Hyperledger Fabric](#113-hyperledger-fabric)
+  - [1.14. NFT](#114-nft)
+  - [1.15. Stable Coin](#115-stable-coin)
 - [2 Aplicabilidade](#2-aplicabilidade)
 - [3 Tendências](#3-tendências)
 - [4 Artigos interessantes](#4-artigos-interessantes)
@@ -67,6 +70,9 @@ informação, programação e banco de dados.
 
 
 
+
+
+
 ---
 # 1 Conceitos
 
@@ -76,12 +82,27 @@ informação, programação e banco de dados.
 É um problema que surge ao transacionar moeda digital que envolve o mesmo gasto sendo gasto várias vezes. Múltiplas transações que compartilham a mesma informação transmitida na rede podem ser problemáticas e são uma falha exclusiva das moedas digitais. A principal razão para o gasto duplo é que a moeda digital pode ser facilmente reproduzida. <br>
 Fonte: https://corporatefinanceinstitute.com/resources/cryptocurrency/double-spending/
 
+Esta questão é particularmente preocupante nas transações digitais porque os ativos digitais, ao contrário do dinheiro físico, são facilmente replicáveis. Os sistemas financeiros tradicionais evitam a duplicação de gastos, confiando nas autoridades centrais, como os bancos, para verificar se uma pessoa possui fundos suficientes antes de processar uma transação. Sem uma autoridade central, como nos sistemas digitais descentralizados, torna-se um desafio impedir que alguém envie a mesma unidade monetária para várias partes simultaneamente.
+
 A tecnologia Blockchain evita gastos duplos através da tecnologia de compartilhamento de arquivos peer-to-peer combinada com criptografia de chave pública. Blockchain resolve o problema do gasto duplo usando um livro-razão descentralizado, que todos podem acessar. Como todos os membros da rede podem examinar o histórico completo das transações, estes podem ter certeza de que nem suas cripto moedas nem quaisquer outras cripto moedas foram gastas mais de uma vez.
+
+As transações são agrupadas em blocos e vinculadas em uma cadeia cronológica. Depois que uma transação é adicionada ao blockchain, ela recebe um carimbo de data e hora e é verificada pela rede, tornando praticamente impossível alterá-la. Este processo garante que cada unidade monetária possa ser gasta apenas uma vez, resolvendo o problema do gasto duplo sem a necessidade de uma autoridade centralizada.
 
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
-## 1.2. Critografia de chave pública
+## 1.2. Criptografia de chave privada
+
+A criptografia de chave privada, também conhecida como criptografia de chave simétrica, é um método em que a mesma chave é usada para criptografar e descriptografar dados. 
+Neste sistema, o remetente e o destinatário devem partilhar uma chave secreta, que utilizam para proteger a sua comunicação. 
+Quando um remetente deseja enviar informações confidenciais, ele criptografa os dados usando a chave privada compartilhada, transformando-os em um formato ilegível. 
+
+O receptor, que também possui a chave, pode então descriptografar esses dados de volta à sua forma original. 
+Este método é rápido e eficiente para criptografar grandes volumes de dados, mas depende muito do gerenciamento seguro da chave compartilhada.
+
+Um desafio significativo com a criptografia de chave privada é a distribuição de chaves: ambas as partes devem ter a mesma chave, mas partilhá-la através de canais inseguros pode levar à intercepção por partes não autorizadas. Assim, os métodos seguros de troca de chaves são essenciais para que a criptografia de chave privada funcione de forma eficaz. Exemplos de algoritmos que usam criptografia de chave privada incluem AES (Advanced Encryption Standard) e DES (Data Encryption Standard). Apesar dos seus desafios, a criptografia de chave privada é amplamente utilizada em situações onde já existem canais seguros para partilha de chaves ou onde os dados devem ser encriptados e desencriptados rapidamente, como no armazenamento de ficheiros encriptados ou na encriptação de bases de dados locais.
+
+## 1.3. Critografia de chave pública
 
 Este tipo de criptografia envolve dois tipos de chaves, uma pública e uma privada. A chave pública pode ser compartilhada com terceiros. A chave privada deve ficar oculta. Dados são criptografos com a chave pública do destinatário,e pode ser decriptografa com a chave privada do destinatário. As chaves RSA pode ter vários tamanhos desde 1024 a 2048 bits. Criptografia de chave pública também é chamada de criptografia assimétrica. Neste sistema qualquer um com uma chave pública pode gerar mensagens criptografadas, mas somente aqueles que detem as chaves privadas correspondentes pode decifrá-las e obter a mensagem original.
 
@@ -91,14 +112,14 @@ Programa que implementa criptografia e assinatura de mensagem: https://www.openp
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
-## 1.3. Certificado digital
+## 1.4. Certificado digital
 
 Exemplos:
 https://pt.wikipedia.org/wiki/Certificado_digital#/media/Ficheiro:Client_and_Server_Certificate.png
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
-## 1.4. Tecnologias de livro razão
+## 1.5. Tecnologias de livro razão
 
 Tecnologias de livro razão distribuídas (ou "Distributed Ledger Technology (DLT)" do inglês) podem ser usadas para resolver problemas provocados pelo uso de uma terceira parte para autenticar transações, evitar cobranças de serviços, diminuir tempo de processamento, não se submeter a uma autoridade central e evitar um ponto de falha. Desta forma as DLT são interessantes para resolver uma série de problemas em um ambiente distribuído no qual vários participantes devem trocar dados, e geralmente estão a distâncias significativas e podem não ter os mesmos relacionamentos de confiança. 
 
@@ -129,7 +150,7 @@ Figura 1: As principais subdivisões e alguns exemplos.
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
-### 1.4.1. Gráfos acíclicos dirigidos
+### 1.5.1. Gráfos acíclicos dirigidos
 
 Uma forma de DLT é um grafo acíclico dirigido (DAG), o qual utiliza uma estrutura parecida com vértices e arestas; as arestas são posicionados em uma direção e o grafo é acíclico pois os vértices não se referenciam nem formam um loop para si mesmos.  Nos sistemas DAG não é necessário um minerador, pois cada usuário pode controlar sua própria sequência de blocos de forma assíncrona.  Sempre que uma transação é realizada, os participantes devem verificar duas outras transações de outros nós (PARK; KIM, 2022). 
 
@@ -146,7 +167,7 @@ Um exemplo de implementação de DAG é o sistema de arquivos interplanetário, 
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
-### 1.4.2. Blockchain
+### 1.5.2. Blockchain
 
 
 Blockchain é uma cadeia de blocos, na qual cada nó tem blocos de dados, um carimbo de data/hora e um hash de código que se refere ao nó anterior, reforçando a cadeia de dados de forma imutável. A tecnologia blockchain foi inicialmente projetada para oferecer suporte a moedas criptográficas, mas hoje, pode-se usá-la para outros fins, incluindo rastreamento da cadeia logística e contratos entre pessoas que não se conhecem.  Assim, a blockchain funciona salvando as transações de interesse para as quais foi projetada, onde cada uma pode implementar uma série de regras e também servir para transmitir dados. 
@@ -167,7 +188,7 @@ Artigo que iniciou com a ideia: [Bitcoin: A Peer-to-Peer Electronic Cash System]
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
 
-### 1.4.3. Diferentes tipos de DLT
+### 1.5.3. Diferentes tipos de DLT
 
 
 | Propriedade   | Públicas   | Consórcios   | Privadas  |
@@ -180,7 +201,7 @@ Artigo que iniciou com a ideia: [Bitcoin: A Peer-to-Peer Electronic Cash System]
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
 
-### 1.4.4. Alguns projetos de blockchain desde o surgimento até 2022
+### 1.5.4. Alguns projetos de blockchain desde o surgimento até 2022
 
 Projetos de blockchain a partir do ano de criação até 2022: Hyperledger Fabric9, Multichain blockchain10, SAP blockchain11, Hyperledger Besu12, Oracle blockchain13, Hathor blockchain14, VMware VMBC15, Azure Confidential Ledger16, XO-DEX17, Nano18, Dragonchain19, Openchain20, GoQuorum21. Estes projetos de blockchain apresentam características de custo zero de transação (ou taxa zero), as quais podem ser explorada por blockchain privadas.
 
@@ -188,21 +209,21 @@ Projetos de blockchain a partir do ano de criação até 2022: Hyperledger Fabri
 Figura 4: Linha do tempo de alguns projetos de blockchain.
 
 
-## 1.5. Ethereum 
+## 1.6. Ethereum 
 
 Ethereum é uma rede de computadores em todo o mundo que segue um conjunto de regras do chamado protocolo Ethereum.
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
 
-## 1.6. EVM
+### 1.6.1. EVM
 
 A Máquina Virtual Ethereum é o computador virtual global cujo estado todos os participantes (nós) da rede Ethereum armazenam (seu estado) e concordam. Qualquer participante pode solicitar a execução de código arbitrário na EVM; a execução do código (via smart contract) altera o estado do EVM. 
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
 
-## 1.7. Smart contracts
+### 1.6.2. Smart contracts
 
 Contratos inteligentes são programas de computador que estão e rodam na blockchain Ethereum. Transações acionam smart contracts. São acionados por aplicativos de usuários. Nick Szabo cunhou o termo "smart contract“, em 1994. Szabo idealizou um mercado virtual onde negócios automáticos e criptografados permitissem que transações ocorressem sem intermediários confiáveis.
 
@@ -243,7 +264,7 @@ Fonte: https://ethereum.org/en/smart-contracts/
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
 
-## 1.8. ETH
+### 1.6.3 ETH
 
 ETH é uma criptomoeda (similar ao Bitcoin). Enviar ETH para outra pessoa você pagará uma taxa em ETH. Esse valor pago em ETH é a motivação para os validadores de bloco processar e verificar o que os usuários desejam fazer. Validadores são selecionados aleatóriamente para tratar um bloco de transações e posteriormente são recompensados com ETH.
 
@@ -251,27 +272,7 @@ Fonte: https://ethereum.org/en/eth/
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
-
-## 1.9. Wallets
-
-Uma carteira é uma forma de se controlar uma conta. Ela contém a identidade do usuário e seus ativos, além de informar saldos e enviar transações. A carteira é uma forma de interação com a rede Ethereum.
-
-[Voltar ao início](#sobre-blockchain-e-livros-razão)
-
-
-### 1.9.1. Carteiras, Contas, Chaves e Endereços
-
-* Uma conta Ethereum é um par de chaves. Uma chave (pública) é usada para criar o endereço que pode ser compartilhado livremente e a outra chave (privada) é mantida em segredo porque é usada para assinar transações. Juntas, essas chaves permitem manter ativos e fazer transações.
-* Uma conta Ethereum possui um endereço, assim como um email possui uma caixa de entrada. Isso é usado para identificar ativos digitais.
-* Uma carteira é uma ferramenta (de software ou hardware) que permite interagir com uma conta, usando uma par de chaves. Ele permite que se visualize o saldo de uma conta, envie transações etc.
-* A maioria dos produtos de carteira permite gerar uma conta Ethereum.
-
-Fonte: https://ethereum.org/en/wallets
-
-[Voltar ao início](#sobre-blockchain-e-livros-razão)
-
-
-## 1.10. Gas fee
+### 1.6.4. Gas fee
 
 Cada transação realizada no Ethereum consome "gas".
 Enviar uma transação ou executar um smart contract gasta "gas".
@@ -281,52 +282,7 @@ Fonte: https://ethereum.org/en/wallets/
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
 
-## 1.11. Mining (mineração)
-
-A “mineração” de blockchain é uma metáfora para o trabalho computacional que os nós da rede realizam para validar as informações contidas nos blocos. Assim, na realidade, os mineiros estão essencialmente a ser pagos pelo seu trabalho como auditores.
-
-Fonte: https://www.investopedia.com/tech/how-does-bitcoin-mining-work/#:~:text=Blockchain%20%22mining%22%20is%20a%20metaphor,for%20their%20work%20as%20auditors.
-
-
-A mineração de Bitcoin é o processo de validação das informações em um bloco blockchain, gerando uma solução criptográfica que atende a critérios específicos. Quando uma solução correta é alcançada, uma recompensa na forma de bitcoin e taxas pelo trabalho realizado é dada ao(s) minerador(es) que alcançaram a solução primeiro.
-
-Fonte: https://www.investopedia.com/terms/b/bitcoin-mining.asp
-
-
-```
-Como funciona a mineração de Bitcoin?
-Aqui está um exemplo simplificado para explicar o processo. 
-Digamos que você peça a amigos para adivinharem um número entre 1 e 100. 
-Seus amigos não precisam adivinhar o número exato; eles só precisam ser 
-os primeiros a adivinhar um número menor ou igual ao seu número. 
-Se você pensar no número 19 e um amigo aparecer com 21, outro 55 e ainda outro 83, 
-eles perdem porque todos adivinharam mais de 19. Mas se sobrarem três amigos
-e o próximo acertar 16, eles ganham , e os outros não têm chance de adivinhar. 
-Quem acertou 16 foi o primeiro a adivinhar um número menor ou igual a 19.
-Fonte: https://www.investopedia.com/terms/b/bitcoin-mining.asp
-```
-
-[Voltar ao início](#sobre-blockchain-e-livros-razão)
-
-
-
-## 1.12. Consenso
-
-É um sistema que valida uma transação e a marca como autêntica. Este mecanismo lista todas as transações válidas de uma moeda em uma blockchain para construir confiança na moeda entre os comerciantes. Diversas moedas, como Bitcoin, Ethereum etc., utilizam este sistema.
-
-* PoW (Proof of Work): ‘Prova’ refere-se à solução de um problema altamente complexo, e ‘trabalho’ refere-se ao processo de resolução do mesmo. Os mineradores de moedas criptográficas competem para resolver o problema e ganhar o direito de processar a transação. O solucionador mais rápido recebe uma taxa de mineração dos comerciantes dessas moedas.
-
-* PoS (Proof of Stake): Este mecanismo escolhe aleatoriamente um proprietário máximo de moedas para validar uma transação. Também permite ao proprietário criar um bloco para a mesma moeda. Este mecanismo requer comparativamente menos energia, tempo de transação e uma taxa mais baixa. Moedas como Etherium 2.0
-
-* PoA (Proof of Authority): ...
-
-
-Fonte https://cleartax.in/s/consensus-in-blockchain
-
-[Voltar ao início](#sobre-blockchain-e-livros-razão)
-
-
-## 1.13. IDE para programar com Ethereum
+### 1.6.5. IDE para programar com Ethereum
 
 Remix IDE:
 
@@ -362,7 +318,75 @@ Simulador local de Ethereum para desenvolvimento [Ganache](https://trufflesuite.
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
-## 1.14. DeFi
+
+
+## 1.7. Wallets
+
+Uma carteira é uma forma de se controlar uma conta. Ela contém a identidade do usuário e seus ativos, além de informar saldos e enviar transações. A carteira é uma forma de interação com a rede Ethereum.
+
+[Voltar ao início](#sobre-blockchain-e-livros-razão)
+
+
+### 1.7.1. Carteiras, Contas, Chaves e Endereços
+
+* Uma conta Ethereum é um par de chaves. Uma chave (pública) é usada para criar o endereço que pode ser compartilhado livremente e a outra chave (privada) é mantida em segredo porque é usada para assinar transações. Juntas, essas chaves permitem manter ativos e fazer transações.
+* Uma conta Ethereum possui um endereço, assim como um email possui uma caixa de entrada. Isso é usado para identificar ativos digitais.
+* Uma carteira é uma ferramenta (de software ou hardware) que permite interagir com uma conta, usando uma par de chaves. Ele permite que se visualize o saldo de uma conta, envie transações etc.
+* A maioria dos produtos de carteira permite gerar uma conta Ethereum.
+
+Fonte: https://ethereum.org/en/wallets
+
+[Voltar ao início](#sobre-blockchain-e-livros-razão)
+
+
+
+## 1.8. Mining (mineração)
+
+A “mineração” de blockchain é uma metáfora para o trabalho computacional que os nós da rede realizam para validar as informações contidas nos blocos. Assim, na realidade, os mineiros estão essencialmente a ser pagos pelo seu trabalho como auditores.
+
+Fonte: https://www.investopedia.com/tech/how-does-bitcoin-mining-work/#:~:text=Blockchain%20%22mining%22%20is%20a%20metaphor,for%20their%20work%20as%20auditors.
+
+
+A mineração de Bitcoin é o processo de validação das informações em um bloco blockchain, gerando uma solução criptográfica que atende a critérios específicos. Quando uma solução correta é alcançada, uma recompensa na forma de bitcoin e taxas pelo trabalho realizado é dada ao(s) minerador(es) que alcançaram a solução primeiro.
+
+Fonte: https://www.investopedia.com/terms/b/bitcoin-mining.asp
+
+
+```
+Como funciona a mineração de Bitcoin?
+Aqui está um exemplo simplificado para explicar o processo. 
+Digamos que você peça a amigos para adivinharem um número entre 1 e 100. 
+Seus amigos não precisam adivinhar o número exato; eles só precisam ser 
+os primeiros a adivinhar um número menor ou igual ao seu número. 
+Se você pensar no número 19 e um amigo aparecer com 21, outro 55 e ainda outro 83, 
+eles perdem porque todos adivinharam mais de 19. Mas se sobrarem três amigos
+e o próximo acertar 16, eles ganham , e os outros não têm chance de adivinhar. 
+Quem acertou 16 foi o primeiro a adivinhar um número menor ou igual a 19.
+Fonte: https://www.investopedia.com/terms/b/bitcoin-mining.asp
+```
+
+[Voltar ao início](#sobre-blockchain-e-livros-razão)
+
+
+
+## 1.9. Consenso
+
+É um sistema que valida uma transação e a marca como autêntica. Este mecanismo lista todas as transações válidas de uma moeda em uma blockchain para construir confiança na moeda entre os comerciantes. Diversas moedas, como Bitcoin, Ethereum etc., utilizam este sistema.
+
+* PoW (Proof of Work): ‘Prova’ refere-se à solução de um problema altamente complexo, e ‘trabalho’ refere-se ao processo de resolução do mesmo. Os mineradores de moedas criptográficas competem para resolver o problema e ganhar o direito de processar a transação. O solucionador mais rápido recebe uma taxa de mineração dos comerciantes dessas moedas.
+
+* PoS (Proof of Stake): Este mecanismo escolhe aleatoriamente um proprietário máximo de moedas para validar uma transação. Também permite ao proprietário criar um bloco para a mesma moeda. Este mecanismo requer comparativamente menos energia, tempo de transação e uma taxa mais baixa. Moedas como Etherium 2.0
+
+* PoA (Proof of Authority): ...
+
+
+Fonte https://cleartax.in/s/consensus-in-blockchain
+
+[Voltar ao início](#sobre-blockchain-e-livros-razão)
+
+
+
+## 1.10. DeFi
 
 Significa Decentralized Finance (DeFi). É um conceito que visa trazer os serviços financeiros tradicionais para o universo das criptomoedas usando blockchains e "ledgers" distribuídas. Um atrativo para o uso de DeFi seria a não existência de taxas bancárias entre as transações.  O usuários destes serviços poderiam manter dinheiro digital em uma carteira (wallets) de forma segura (pelo uso de criptografia) e realizar transferências de fundos (cripto ativos) entre outros usuários deste ecossistema via Internet se unidades centrais de controle ou bancos tradicionais para intervir neste processo.
 
@@ -374,13 +398,13 @@ A proposta DeFi pode ter surgido como uma ideia nas quais pessoas poderiam fazer
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
-## 1.15. Blockchain Oracle
+## 1.11. Blockchain Oracle
 
 São sistemas que conectam blockchains a sistemas externos, permitindo que os smart contracts possam de acordo com parâmetros externos. Desta forma sistema pré-existentes (ou legados) possam se conectar (via WEB3) com as blockchains. Os oracles podem receber dados do mundo externo (qualquer tipo de dados, por exemplo: dados de sensor de temperatura) e envia estes dados para a blockchain. Permite que ecossistemas decentralizados possam ter acessoa fontes de dados externas. 
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
-## 1.16. Multhichain blockchain
+## 1.12. Multhichain blockchain
 
 Resumo sobre Multichain blockchain:
 
@@ -460,7 +484,7 @@ Site da [Multichain blockchain](https://www.multichain.com/).
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
-## 1.17. Hyperledger Fabric
+## 1.13. Hyperledger Fabric
 
 Hyperledger é um projeto open source de blockchain mantido pela Linux Foundation (seu principal patrocinador é a IBM). É uma blockchain permissionada. 
 
@@ -481,7 +505,7 @@ Fonte da figura: https://hyperledger-fabric.readthedocs.io/en/latest/network/net
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
-## 1.18. NFT
+## 1.14. NFT
 
 NFT significa Non-Fungible Token, são ativos que podem ser tokenizados por uma blockchain (ou seja, pode receber uma representação virtual como um objeto dentro de uma blockchain). Estes ativos podem representar qualquer coisa do mundo real como: obras de arte, carros, terrenos, etc. Recebem um código único de identificação e metadados que os descrevem (incluindo quantidade e valor). Os NFTs podem ser comprados e vendidos/trocados usando cripto moedas em determinadas plataformas. 
 
@@ -490,7 +514,7 @@ Exemplo de NFT são os Bored Ape Yacht Club Galeria dos [BAYC](https://boredapey
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
 
-## 1.19. Stable Coin
+## 1.15. Stable Coin
 
 São um tipo de criptomoeda que possui um valor atrelado a um ativo de referência que pode ser uma commodities, bens materiais, ouro ou outra moeda física. A ideia é ter uma relação 1:1, no qual a criptomeda stable coin tem seu valor indexado por uma outra moeda. Desta forma seu valor tende a não ter tanda volatilidade. Esta opção é mais atrativa pois permite a conversibilidade da moeda em outros bens.
 
