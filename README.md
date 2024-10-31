@@ -1,10 +1,18 @@
 # Sobre Blockchain e livros razão
 
-Objetivos: 
-Alguns conceitos sobre blockchain para serem discutidos em sala de aula. Exemplos que podem ser citados e comentados nas disciplinas que necessitam do apoio de uma banco de dados e projeto de sistemas. Este material é extremamente resumido e supõe que o leitor tem conhecimento básico de programação ou banco de dados. Este não é um guia definitivo, mas um pequeno tutorial compilado para auxiliar alunos e devs. Este material esta em construção.
 
 ---
-Observações:
+#### Objetivos: 
+```
+1. Alguns conceitos sobre blockchain para serem discutidos em sala de aula. 
+2. Exemplos que podem ser citados e comentados nas disciplinas que necessitam do apoio de uma banco de dados e projeto de sistemas. 
+3. Este material é extremamente resumido e supõe que o leitor tem conhecimento básico de programação ou banco de dados. 
+4. Este não é um guia definitivo, mas um pequeno tutorial compilado para auxiliar alunos e devs. 
+5. Este material esta em construção.
+```
+
+---
+#### Observações:
 ```
 1. Este material pode ser usado como suporte às disciplinas de: banco de dados e projeto de sistemas.
 2. Este material foi ou poderá ser usado em sala de aula/laboratório/EAD.
@@ -18,6 +26,8 @@ informação, programação e banco de dados.
 # Sumário
 
 - [Sobre Blockchain e livros razão](#sobre-blockchain-e-livros-razão)
+      - [Objetivos:](#objetivos)
+      - [Observações:](#observações)
 - [Sumário](#sumário)
 - [1 Conceitos](#1-conceitos)
   - [1.1. O problema de double spending](#11-o-problema-de-double-spending)
@@ -66,9 +76,7 @@ informação, programação e banco de dados.
 É um problema que surge ao transacionar moeda digital que envolve o mesmo gasto sendo gasto várias vezes. Múltiplas transações que compartilham a mesma informação transmitida na rede podem ser problemáticas e são uma falha exclusiva das moedas digitais. A principal razão para o gasto duplo é que a moeda digital pode ser facilmente reproduzida. <br>
 Fonte: https://corporatefinanceinstitute.com/resources/cryptocurrency/double-spending/
 
-
 A tecnologia Blockchain evita gastos duplos através da tecnologia de compartilhamento de arquivos peer-to-peer combinada com criptografia de chave pública. Blockchain resolve o problema do gasto duplo usando um livro-razão descentralizado, que todos podem acessar. Como todos os membros da rede podem examinar o histórico completo das transações, estes podem ter certeza de que nem suas cripto moedas nem quaisquer outras cripto moedas foram gastas mais de uma vez.
-
 
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
@@ -106,7 +114,7 @@ Um sistema de DLT deve:
 
 * D) manter um link entre as transações para evitar adulterações; 
 
-* E) conter o livro razão (ou ledger) que é o resultado do processo de registro de transações (o qual relata a história das transações. 
+* E) conter o livro razão (ou ledger) que é o resultado do processo de registro de transações (o qual relata a história das transações.
 
 O registro em uma DLT pode ser realizado sob dois aspectos permissionless (na qual cada participantes pode escrever um registro na ledger) ou permissioned (na qual somente alguns participantes podem submeter envios). Quanto ao processamento e execução de tarefas ou programas na DLT, estas podem ser on-chain (execução interna), off-chain (execução externa) e side-chain (execução parcialmente interna com auxílio computacional externo). 
 
@@ -116,24 +124,19 @@ DLT podem ser divididas em duas classes:
 
 * B) blockchain. Blockchain e DAG são sub tipos de DLTs.
 
-
 ![Exemplos de DLT](https://raw.githubusercontent.com/monteiro74/blockchain/main/figuras/fig1.png "Exemplos de DLT")
-
-
-
-As principais subdivisões e alguns exemplos são:
+Figura 1: As principais subdivisões e alguns exemplos.
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
 ### 1.4.1. Gráfos acíclicos dirigidos
 
-Uma forma de DLT é um grafo acíclico dirigido (DAG), o qual utiliza uma estrutura parecida com vértices e arestas; as arestas são posicionados em uma direção e o grafo é acíclico pois
-os vértices não se referenciam nem formam um loop para si mesmos.  Nos sistemas DAG não é necessário um minerador, pois cada usuário pode controlar sua própria sequência de blocos de forma assíncrona.  Sempre que uma transação é realizada, os participantes devem verificar duas outras transações de outros nós (PARK; KIM, 2022). 
+Uma forma de DLT é um grafo acíclico dirigido (DAG), o qual utiliza uma estrutura parecida com vértices e arestas; as arestas são posicionados em uma direção e o grafo é acíclico pois os vértices não se referenciam nem formam um loop para si mesmos.  Nos sistemas DAG não é necessário um minerador, pois cada usuário pode controlar sua própria sequência de blocos de forma assíncrona.  Sempre que uma transação é realizada, os participantes devem verificar duas outras transações de outros nós (PARK; KIM, 2022). 
 
 Cada transação no DAG é um vértice, cada vértice tem uma ou mais arestas em direção a outros vértices, desta forma um vértice referencia outro vértice. Uma transação é registrada após a outra formando uma linearidade, porém o DAG não usa mineração ou custos de transação; pois um nó realiza validação simultânea de transações. Cada transação é registrada em vértices e não existe a necessidade de serem gravadas em bloco, formando uma cadeia de transações verificadas (LI et al., 2022). Com o DAG os participantes são mineradores e validadores de transações.
  
 ![Exemplos de DAG](https://raw.githubusercontent.com/monteiro74/blockchain/main/figuras/fig2.png "Exemplos de DAG")
-
+Figura 2: Nós em um sistema distribuído.
 
 São alguns exemplos de projetos que utilizam DAG: IOTA4(é um DAG voltada para armazenar dados de IoT), NANO5(é uma criptomoeda e uma plataforma para transação de valores ponto-a-ponto), Obyte6(é uma DAG e criptomoeda), Hedera7(é uma rede pública baseada em DAG e uma criptomoeda) e IPFS8(é um sistema de arquivos distribuído, utilizado em uma rede ponto-a-ponto.). DAG é usada pelo IPFS onde cada identifcador tem um hash do conteúdo para um conteúdo, é usado para representar arquivos e diretórios, o IPFS quebra um arquivo em pedaços chamados de blocos, (IPFS, 2022).
 
@@ -156,6 +159,7 @@ Em particular, as regras para a execução de transações ou operações são r
 * "Cadeia" é o termo usado porque um dos campos do bloco é um apontador para o seu bloco pai. Desta forma os bloco são serializados e unidos sequencialmente. 
 
 ![Cadeia de blocos](https://raw.githubusercontent.com/monteiro74/blockchain/main/figuras/fig3.png "Cadeia de blocos")
+Figura 3: Exemplos de encadeamento de blocos.
 
 Artigo que iniciou com a ideia: [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf).
 
@@ -181,6 +185,8 @@ Artigo que iniciou com a ideia: [Bitcoin: A Peer-to-Peer Electronic Cash System]
 Projetos de blockchain a partir do ano de criação até 2022: Hyperledger Fabric9, Multichain blockchain10, SAP blockchain11, Hyperledger Besu12, Oracle blockchain13, Hathor blockchain14, VMware VMBC15, Azure Confidential Ledger16, XO-DEX17, Nano18, Dragonchain19, Openchain20, GoQuorum21. Estes projetos de blockchain apresentam características de custo zero de transação (ou taxa zero), as quais podem ser explorada por blockchain privadas.
 
 ![Alguns projetos de blockchain até 2022](https://raw.githubusercontent.com/monteiro74/blockchain/main/figuras/fig4.png)
+Figura 4: Linha do tempo de alguns projetos de blockchain.
+
 
 ## 1.5. Ethereum 
 
@@ -325,6 +331,8 @@ Fonte https://cleartax.in/s/consensus-in-blockchain
 Remix IDE:
 
 ![Remix IDE](https://raw.githubusercontent.com/monteiro74/blockchain/main/figuras/fig5.png)
+Figura 5: IDE Remix.
+
 
 [Remix Ethereum](https://remix.ethereum.org/).
 
@@ -500,6 +508,8 @@ Comércio de ativos (NFT, tokens não fungíveis)
 Rastreabilidade de transações, por exemplo em uma cadeia logística cada etapa (a cada saldo entre os players) pode ser feito um registro em uma blockchain, possibilitando a rastreabilidade dos ativos que estão em movimento:
 
 ![Cadeia logística](https://raw.githubusercontent.com/monteiro74/blockchain/main/figuras/fig6.png)
+Figura 6: Exemplo de cadeia logística.
+
 
 Registro imutável de informações
 
