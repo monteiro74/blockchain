@@ -63,8 +63,8 @@ informação, programação e banco de dados.
 - [6 Reportagens](#6-reportagens)
 - [7 Fontes](#7-fontes)
 - [Avisos, licença](#avisos-licença)
-  - [Aviso:](#aviso)
-  - [Licença:](#licença)
+  - [Aviso](#aviso)
+  - [Licença](#licença)
 - [Estatísticas desta página](#estatísticas-desta-página)
 
 
@@ -146,6 +146,7 @@ DLT podem ser divididas em duas classes:
 * B) blockchain. Blockchain e DAG são sub tipos de DLTs.
 
 ![Exemplos de DLT](https://raw.githubusercontent.com/monteiro74/blockchain/main/figuras/fig1.png "Exemplos de DLT")
+
 Figura 1: As principais subdivisões e alguns exemplos.
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
@@ -157,6 +158,7 @@ Uma forma de DLT é um grafo acíclico dirigido (DAG), o qual utiliza uma estrut
 Cada transação no DAG é um vértice, cada vértice tem uma ou mais arestas em direção a outros vértices, desta forma um vértice referencia outro vértice. Uma transação é registrada após a outra formando uma linearidade, porém o DAG não usa mineração ou custos de transação; pois um nó realiza validação simultânea de transações. Cada transação é registrada em vértices e não existe a necessidade de serem gravadas em bloco, formando uma cadeia de transações verificadas (LI et al., 2022). Com o DAG os participantes são mineradores e validadores de transações.
  
 ![Exemplos de DAG](https://raw.githubusercontent.com/monteiro74/blockchain/main/figuras/fig2.png "Exemplos de DAG")
+
 Figura 2: Nós em um sistema distribuído.
 
 São alguns exemplos de projetos que utilizam DAG: IOTA4(é um DAG voltada para armazenar dados de IoT), NANO5(é uma criptomoeda e uma plataforma para transação de valores ponto-a-ponto), Obyte6(é uma DAG e criptomoeda), Hedera7(é uma rede pública baseada em DAG e uma criptomoeda) e IPFS8(é um sistema de arquivos distribuído, utilizado em uma rede ponto-a-ponto.). DAG é usada pelo IPFS onde cada identifcador tem um hash do conteúdo para um conteúdo, é usado para representar arquivos e diretórios, o IPFS quebra um arquivo em pedaços chamados de blocos, (IPFS, 2022).
@@ -180,6 +182,7 @@ Em particular, as regras para a execução de transações ou operações são r
 * "Cadeia" é o termo usado porque um dos campos do bloco é um apontador para o seu bloco pai. Desta forma os bloco são serializados e unidos sequencialmente. 
 
 ![Cadeia de blocos](https://raw.githubusercontent.com/monteiro74/blockchain/main/figuras/fig3.png "Cadeia de blocos")
+
 Figura 3: Exemplos de encadeamento de blocos.
 
 Artigo que iniciou com a ideia: [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf).
@@ -206,6 +209,7 @@ Artigo que iniciou com a ideia: [Bitcoin: A Peer-to-Peer Electronic Cash System]
 Projetos de blockchain a partir do ano de criação até 2022: Hyperledger Fabric9, Multichain blockchain10, SAP blockchain11, Hyperledger Besu12, Oracle blockchain13, Hathor blockchain14, VMware VMBC15, Azure Confidential Ledger16, XO-DEX17, Nano18, Dragonchain19, Openchain20, GoQuorum21. Estes projetos de blockchain apresentam características de custo zero de transação (ou taxa zero), as quais podem ser explorada por blockchain privadas.
 
 ![Alguns projetos de blockchain até 2022](https://raw.githubusercontent.com/monteiro74/blockchain/main/figuras/fig4.png)
+
 Figura 4: Linha do tempo de alguns projetos de blockchain.
 
 
@@ -287,6 +291,7 @@ Fonte: https://ethereum.org/en/wallets/
 Remix IDE:
 
 ![Remix IDE](https://raw.githubusercontent.com/monteiro74/blockchain/main/figuras/fig5.png)
+
 Figura 5: IDE Remix.
 
 
@@ -492,6 +497,8 @@ Estrutura de uma rede Hyperledger Fabric:
 
 <img src="https://raw.githubusercontent.com/monteiro74/blockchain/main/figuras/fig7.png" alt="drawing" width="500"/>
 
+Figura 6: Exemplo de rede Hyperledger Fabric.
+
 Fonte da figura: https://hyperledger-fabric.readthedocs.io/en/latest/network/network.html
 
 * As organizações R0, R1 e R2 montaram uma rede e chegaram em um consenso sobre a infraestrutura e políticas de administração da rede. 
@@ -532,7 +539,8 @@ Comércio de ativos (NFT, tokens não fungíveis)
 Rastreabilidade de transações, por exemplo em uma cadeia logística cada etapa (a cada saldo entre os players) pode ser feito um registro em uma blockchain, possibilitando a rastreabilidade dos ativos que estão em movimento:
 
 ![Cadeia logística](https://raw.githubusercontent.com/monteiro74/blockchain/main/figuras/fig6.png)
-Figura 6: Exemplo de cadeia logística.
+
+Figura 7: Exemplo de cadeia logística.
 
 
 Registro imutável de informações
@@ -549,7 +557,7 @@ https://trends.google.com.br/trends/explore?date=today%205-y&q=blockchain,%2Fg%2
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
 ---
-# 4 Artigos interessantes
+# 4 Artigos
 
 1. [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
 
