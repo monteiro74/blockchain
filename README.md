@@ -553,14 +553,29 @@ https://trends.google.com.br/trends/explore?date=today%205-y&q=blockchain,%2Fg%2
 
 1. [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
 
-
-
 Em desenvolvimento. 
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
+
+
 ---
-# 5 Fontes
+# 5 Videos
+
+Em desenvolvimento.
+
+[Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
+
+---
+# 6 Reportagens
+
+1. [Chegada do DREX e o fim do dinheiro em espécie](https://livecoins.com.br/chegada-do-drex-e-fim-do-dinheiro-em-especie-pode-virar-audiencia-publica-na-camara/).
+
+[Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
+
+
+
+# 7 Fontes
 
 
 Diversas fontes de pesquisa sobre blockchain:
@@ -792,21 +807,6 @@ ZHAO, W.; LV, J.; YAO, X.; ZHAO, J.; JIN, Z.; QIANG, Y.; CHE, Z.; WEI, C. Consor
 https://www.mdpi.com/1996-1073/12/20/3812
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
-
-
----
-# 6 Videos
-
-Em desenvolvimento.
-
-[Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
-
----
-# 7 Reportagens
-
-1. [Chegada do DREX e o fim do dinheiro em espécie](https://livecoins.com.br/chegada-do-drex-e-fim-do-dinheiro-em-especie-pode-virar-audiencia-publica-na-camara/).
-
-[Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
 
 ---
