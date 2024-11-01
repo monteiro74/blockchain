@@ -818,7 +818,7 @@ https://www.mdpi.com/1996-1073/12/20/3812
 
 
 ---
-# Avisos, licença
+# Avisos & licença
 
 ## Aviso
 ```
