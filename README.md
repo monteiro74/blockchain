@@ -26,7 +26,6 @@ informação, programação e banco de dados.
 # Sumário
 
 
-
 - [Sobre Blockchain e livros razão](#sobre-blockchain-e-livros-razão)
       - [Objetivos:](#objetivos)
       - [Observações:](#observações)
@@ -60,13 +59,14 @@ informação, programação e banco de dados.
 - [2 Aplicabilidade](#2-aplicabilidade)
 - [3 Tendências](#3-tendências)
 - [4 Artigos interessantes](#4-artigos-interessantes)
-- [5 Fontes](#5-fontes)
-- [6 Videos](#6-videos)
-- [7 Reportagens](#7-reportagens)
+- [5 Videos](#5-videos)
+- [6 Reportagens](#6-reportagens)
+- [7 Fontes](#7-fontes)
 - [Avisos, licença](#avisos-licença)
   - [Aviso:](#aviso)
   - [Licença:](#licença)
 - [Estatísticas desta página](#estatísticas-desta-página)
+
 
 
 
@@ -812,13 +812,13 @@ https://www.mdpi.com/1996-1073/12/20/3812
 ---
 # Avisos, licença
 
-## Aviso:
+## Aviso
 ```
 Este material esta recebendo atualizações frequentes. 
 As informações aqui contidas podem ser alteradas sem aviso prévio.
 ```
 
-## Licença: 
+## Licença
 ```
 Organizado e mantida pelo Prof. Dr. Monteiro, E. S.
 Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) 
