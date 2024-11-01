@@ -554,6 +554,7 @@ https://trends.google.com.br/trends/explore?date=today%205-y&q=blockchain,%2Fg%2
 1. [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
 
 
+
 Em desenvolvimento. 
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
@@ -803,7 +804,7 @@ Em desenvolvimento.
 ---
 # 7 Reportagens
 
-Em desenvolvimento.
+1. [Chegada do DREX e o fim do dinheiro em espécie](https://livecoins.com.br/chegada-do-drex-e-fim-do-dinheiro-em-especie-pode-virar-audiencia-publica-na-camara/).
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
