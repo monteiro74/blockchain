@@ -26,6 +26,7 @@ informação, programação e banco de dados.
 # Sumário
 
 
+
 - [Sobre Blockchain e livros razão](#sobre-blockchain-e-livros-razão)
       - [Objetivos:](#objetivos)
       - [Observações:](#observações)
@@ -48,6 +49,8 @@ informação, programação e banco de dados.
     - [1.6.5. IDE para programar com Ethereum](#165-ide-para-programar-com-ethereum)
   - [1.7. Wallets](#17-wallets)
     - [1.7.1. Carteiras, Contas, Chaves e Endereços](#171-carteiras-contas-chaves-e-endereços)
+    - [1.7.2. Metamask](#172-metamask)
+    - [1.7.3. Carteira em hardware](#173-carteira-em-hardware)
   - [1.8. Mining (mineração)](#18-mining-mineração)
   - [1.9. Consenso](#19-consenso)
   - [1.10. DeFi](#110-defi)
@@ -58,14 +61,15 @@ informação, programação e banco de dados.
   - [1.15. Stable Coin](#115-stable-coin)
 - [2 Aplicabilidade](#2-aplicabilidade)
 - [3 Tendências](#3-tendências)
-- [4 Artigos interessantes](#4-artigos-interessantes)
+- [4 Artigos](#4-artigos)
 - [5 Videos](#5-videos)
 - [6 Reportagens](#6-reportagens)
 - [7 Fontes](#7-fontes)
-- [Avisos, licença](#avisos-licença)
+- [Avisos \& licença](#avisos--licença)
   - [Aviso](#aviso)
   - [Licença](#licença)
 - [Estatísticas desta página](#estatísticas-desta-página)
+
 
 
 
@@ -362,7 +366,7 @@ Uma carteira é uma forma de se controlar uma conta. Ela contém a identidade do
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
 
-### 1.7.1. Carteiras, Contas, Chaves e Endereços
+### 1.7.1. Carteiras, Contas, Chaves e Endereços no Ethereum
 
 * Uma conta Ethereum é um par de chaves. Uma chave (pública) é usada para criar o endereço que pode ser compartilhado livremente e a outra chave (privada) é mantida em segredo porque é usada para assinar transações. Juntas, essas chaves permitem manter ativos e fazer transações.
 * Uma conta Ethereum possui um endereço, assim como um email possui uma caixa de entrada. Isso é usado para identificar ativos digitais.
