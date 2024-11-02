@@ -593,6 +593,8 @@ B) Se recebe um valor diferente de vazio, a transação ou objeto é aceito.
 C) Somente com permissões é possível criar smart filters
 D) Streams podem ser ativadas ou desativadas.
 
+Outras referências:
+
 * Site principal da [Multichain blockchain](https://www.multichain.com/).
 * [Documentação da MultiChain](https://www.multichain.com/developers/).
 * [Tutorial para iniciantes](https://www.multichain.com/getting-started/).
