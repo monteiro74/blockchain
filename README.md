@@ -622,9 +622,11 @@ Fonte da figura: https://hyperledger-fabric.readthedocs.io/en/latest/network/net
 * Todas as 3 organizações possuem autoridades certificadoras CA0, CA1 e CA2.
 * S5 é um chaincode (é um smart contract) instalado nos peers P1 e P2.
 
-[Tutorial de Fabric para a rede de testes](https://hyperledger-fabric.readthedocs.io/en/latest/tutorials.html).
+Outras referências:
 
-[Tutorial para escrita de chaincode (smartcode)](https://hyperledger-fabric.readthedocs.io/en/release-1.3/tutorials.html)
+* [Tutorial de Fabric para a rede de testes](https://hyperledger-fabric.readthedocs.io/en/latest/tutorials.html).
+
+* [Tutorial para escrita de chaincode (smartcode)](https://hyperledger-fabric.readthedocs.io/en/release-1.3/tutorials.html)
 
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
