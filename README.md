@@ -48,27 +48,34 @@ informação, programação e banco de dados.
     - [1.6.4. Gas fee](#164-gas-fee)
     - [1.6.5. IDE para programar com Ethereum](#165-ide-para-programar-com-ethereum)
   - [1.7. Wallets](#17-wallets)
-    - [1.7.1. Carteiras, Contas, Chaves e Endereços](#171-carteiras-contas-chaves-e-endereços)
+    - [1.7.1. Carteiras, Contas, Chaves e Endereços no Ethereum](#171-carteiras-contas-chaves-e-endereços-no-ethereum)
     - [1.7.2. Metamask](#172-metamask)
     - [1.7.3. Carteira em hardware](#173-carteira-em-hardware)
   - [1.8. Mining (mineração)](#18-mining-mineração)
   - [1.9. Consenso](#19-consenso)
+    - [1.9.1. PoW](#191-pow)
+    - [1.9.2. PoS](#192-pos)
+    - [1.9.3. PoA](#193-poa)
+    - [1.9.4. Comparações PoW, PoS e PoA](#194-comparações-pow-pos-e-poa)
   - [1.10. DeFi](#110-defi)
   - [1.11. Blockchain Oracle](#111-blockchain-oracle)
-  - [1.12. Multhichain blockchain](#112-multhichain-blockchain)
-  - [1.13. Hyperledger Fabric](#113-hyperledger-fabric)
   - [1.14. NFT](#114-nft)
   - [1.15. Stable Coin](#115-stable-coin)
-- [2 Aplicabilidade](#2-aplicabilidade)
-- [3 Tendências](#3-tendências)
-- [4 Artigos](#4-artigos)
-- [5 Videos](#5-videos)
-- [6 Reportagens](#6-reportagens)
-- [7 Fontes](#7-fontes)
+- [2. Blockchains privadas](#2-blockchains-privadas)
+  - [2.1. Multhichain blockchain](#21-multhichain-blockchain)
+  - [2.2. Hyperledger Fabric](#22-hyperledger-fabric)
+- [3 Aplicabilidade](#3-aplicabilidade)
+- [4 Tendências](#4-tendências)
+- [5 Artigos](#5-artigos)
+- [6 Videos](#6-videos)
+- [7 Reportagens](#7-reportagens)
+- [8 Fontes](#8-fontes)
 - [Avisos \& licença](#avisos--licença)
   - [Aviso](#aviso)
   - [Licença](#licença)
 - [Estatísticas desta página](#estatísticas-desta-página)
+
+
 
 
 
@@ -302,7 +309,7 @@ Fonte: https://ethereum.org/en/smart-contracts/
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
 
-### 1.6.3 ETH
+### 1.6.3. ETH
 
 ETH é uma criptomoeda (similar ao Bitcoin). Enviar ETH para outra pessoa você pagará uma taxa em ETH. Esse valor pago em ETH é a motivação para os validadores de bloco processar e verificar o que os usuários desejam fazer. Validadores são selecionados aleatóriamente para tratar um bloco de transações e posteriormente são recompensados com ETH.
 
@@ -492,9 +499,27 @@ São sistemas que conectam blockchains a sistemas externos, permitindo que os sm
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
-## 1.12. Multhichain blockchain
 
-Resumo sobre Multichain blockchain:
+## 1.14. NFT
+
+NFT significa Non-Fungible Token, são ativos que podem ser tokenizados por uma blockchain (ou seja, pode receber uma representação virtual como um objeto dentro de uma blockchain). Estes ativos podem representar qualquer coisa do mundo real como: obras de arte, carros, terrenos, etc. Recebem um código único de identificação e metadados que os descrevem (incluindo quantidade e valor). Os NFTs podem ser comprados e vendidos/trocados usando cripto moedas em determinadas plataformas. 
+
+Exemplo de NFT são os Bored Ape Yacht Club Galeria dos [BAYC](https://boredapeyachtclub.com/#/gallery) NFT (notícias sobre: https://www.coindesk.com/web3/2023/07/03/bored-ape-yacht-club-nft-collection-floor-price-sinks-to-20-month-low/ e  https://www.theguardian.com/artanddesign/2022/jan/04/bored-ape-nft-art-eminem). Outro exemplo de market place de NFT é o site [Criptokitties](https://www.cryptokitties.co/).
+
+[Voltar ao início](#sobre-blockchain-e-livros-razão)
+
+
+## 1.15. Stable Coin
+
+São um tipo de criptomoeda que possui um valor atrelado a um ativo de referência que pode ser uma commodities, bens materiais, ouro ou outra moeda física. A ideia é ter uma relação 1:1, no qual a criptomeda stable coin tem seu valor indexado por uma outra moeda. Desta forma seu valor tende a não ter tanda volatilidade. Esta opção é mais atrativa pois permite a conversibilidade da moeda em outros bens.
+
+[Voltar ao início](#sobre-blockchain-e-livros-razão)
+
+# 2. Blockchains privadas
+
+## 2.1. Multhichain blockchain
+
+Resumo sobre [Multichain blockchain](https://www.multichain.com/):
 
 * Foi criada pela Coin Sciences, uma empresa britânica.
 * É um fork do projeto bitcoin.
@@ -568,11 +593,13 @@ B) Se recebe um valor diferente de vazio, a transação ou objeto é aceito.
 C) Somente com permissões é possível criar smart filters
 D) Streams podem ser ativadas ou desativadas.
 
-Site da [Multichain blockchain](https://www.multichain.com/).
+Site principal da [Multichain blockchain](https://www.multichain.com/).
+[Documentação da MultiChain](https://www.multichain.com/developers/).
+[Tutorial para iniciantes](https://www.multichain.com/getting-started/).
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
-## 1.13. Hyperledger Fabric
+## 2.2. Hyperledger Fabric
 
 Hyperledger é um projeto open source de blockchain mantido pela Linux Foundation (seu principal patrocinador é a IBM). É uma blockchain permissionada. 
 
@@ -595,24 +622,10 @@ Fonte da figura: https://hyperledger-fabric.readthedocs.io/en/latest/network/net
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
-## 1.14. NFT
-
-NFT significa Non-Fungible Token, são ativos que podem ser tokenizados por uma blockchain (ou seja, pode receber uma representação virtual como um objeto dentro de uma blockchain). Estes ativos podem representar qualquer coisa do mundo real como: obras de arte, carros, terrenos, etc. Recebem um código único de identificação e metadados que os descrevem (incluindo quantidade e valor). Os NFTs podem ser comprados e vendidos/trocados usando cripto moedas em determinadas plataformas. 
-
-Exemplo de NFT são os Bored Ape Yacht Club Galeria dos [BAYC](https://boredapeyachtclub.com/#/gallery) NFT (notícias sobre: https://www.coindesk.com/web3/2023/07/03/bored-ape-yacht-club-nft-collection-floor-price-sinks-to-20-month-low/ e  https://www.theguardian.com/artanddesign/2022/jan/04/bored-ape-nft-art-eminem). Outro exemplo de market place de NFT é o site [Criptokitties](https://www.cryptokitties.co/).
-
-[Voltar ao início](#sobre-blockchain-e-livros-razão)
-
-
-## 1.15. Stable Coin
-
-São um tipo de criptomoeda que possui um valor atrelado a um ativo de referência que pode ser uma commodities, bens materiais, ouro ou outra moeda física. A ideia é ter uma relação 1:1, no qual a criptomeda stable coin tem seu valor indexado por uma outra moeda. Desta forma seu valor tende a não ter tanda volatilidade. Esta opção é mais atrativa pois permite a conversibilidade da moeda em outros bens.
-
-[Voltar ao início](#sobre-blockchain-e-livros-razão)
 
 
 --- 
-# 2 Aplicabilidade 
+# 3 Aplicabilidade 
 
 
 Desenvolvimento de criptomoedas
@@ -631,7 +644,7 @@ Registro imutável de informações
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
 ---
-# 3 Tendências
+# 4 Tendências
 
 Google trends usado para mostrar tendências:
 
@@ -640,7 +653,7 @@ https://trends.google.com.br/trends/explore?date=today%205-y&q=blockchain,%2Fg%2
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
 ---
-# 4 Artigos
+# 5 Artigos
 
 1. [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
 
@@ -651,14 +664,14 @@ Em desenvolvimento.
 
 
 ---
-# 5 Videos
+# 6 Videos
 
 Em desenvolvimento.
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
 ---
-# 6 Reportagens
+# 7 Reportagens
 
 1. [Chegada do DREX e o fim do dinheiro em espécie](https://livecoins.com.br/chegada-do-drex-e-fim-do-dinheiro-em-especie-pode-virar-audiencia-publica-na-camara/).
 
@@ -666,7 +679,7 @@ Em desenvolvimento.
 
 
 
-# 7 Fontes
+# 8 Fontes
 
 
 Diversas fontes de pesquisa sobre blockchain:
