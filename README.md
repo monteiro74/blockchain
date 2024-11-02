@@ -622,6 +622,26 @@ Fonte da figura: https://hyperledger-fabric.readthedocs.io/en/latest/network/net
 * Todas as 3 organizações possuem autoridades certificadoras CA0, CA1 e CA2.
 * S5 é um chaincode (é um smart contract) instalado nos peers P1 e P2.
 
+**Pergunta para o ChatGPT**:
+
+"*Hyperledger é uma cripto moeda ou um ambiente para execução de app distribuídas ?*"
+
+**Resposta**:
+
+*O Hyperledger não é uma criptomoeda. Em vez disso, é um ambiente para o desenvolvimento de aplicações distribuídas e ferramentas para blockchains empresariais. É um projeto de código aberto mantido pela Linux Foundation, com o objetivo de fornecer uma estrutura modular para construir redes blockchain e soluções distribuídas, especialmente para empresas e organizações.*
+
+*Aqui estão alguns pontos importantes sobre o Hyperledger:*
+
+*Plataforma para Aplicações Distribuídas e Blockchains Empresariais: O Hyperledger oferece uma variedade de frameworks e ferramentas para criar blockchains privadas e permissionadas (com controle de acesso), voltadas para ambientes corporativos e consórcios.*
+
+*Foco em Aplicações Empresariais: Ao contrário de blockchains públicas como Ethereum e Bitcoin, que são abertas e descentralizadas, as redes Hyperledger são projetadas para ambientes corporativos onde é necessário um controle de acesso restrito e uma maior privacidade das transações.*
+
+*Diversos Frameworks: O Hyperledger inclui diferentes projetos, como o Hyperledger Fabric, que é uma das plataformas mais usadas para criar blockchains empresariais com suporte a contratos inteligentes; o Hyperledger Sawtooth, que é voltado para modularidade; e o Hyperledger Besu, que é compatível com a rede Ethereum e permite interoperabilidade com ela.*
+
+*Sem Criptomoeda Própria: Diferentemente de plataformas como Ethereum, o Hyperledger não possui uma moeda nativa. Seus frameworks são projetados para permitir transações e contratos inteligentes sem a necessidade de uma criptomoeda.*
+
+*Portanto, o Hyperledger é essencialmente um ambiente para criação de aplicações distribuídas e blockchains empresariais, e não uma criptomoeda. Ele atende a empresas que precisam de soluções blockchain com controle de acesso e privacidade, mas sem a necessidade de tokens públicos.*
+
 Outras referências:
 
 * [Tutorial de Fabric para a rede de testes](https://hyperledger-fabric.readthedocs.io/en/latest/tutorials.html).
