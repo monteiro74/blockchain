@@ -593,9 +593,9 @@ B) Se recebe um valor diferente de vazio, a transação ou objeto é aceito.
 C) Somente com permissões é possível criar smart filters
 D) Streams podem ser ativadas ou desativadas.
 
-Site principal da [Multichain blockchain](https://www.multichain.com/).
-[Documentação da MultiChain](https://www.multichain.com/developers/).
-[Tutorial para iniciantes](https://www.multichain.com/getting-started/).
+* Site principal da [Multichain blockchain](https://www.multichain.com/).
+* [Documentação da MultiChain](https://www.multichain.com/developers/).
+* [Tutorial para iniciantes](https://www.multichain.com/getting-started/).
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
@@ -620,12 +620,17 @@ Fonte da figura: https://hyperledger-fabric.readthedocs.io/en/latest/network/net
 * Todas as 3 organizações possuem autoridades certificadoras CA0, CA1 e CA2.
 * S5 é um chaincode (é um smart contract) instalado nos peers P1 e P2.
 
+[Tutorial de Fabric para a rede de testes](https://hyperledger-fabric.readthedocs.io/en/latest/tutorials.html).
+
+[Tutorial para escrita de chaincode (smartcode)](https://hyperledger-fabric.readthedocs.io/en/release-1.3/tutorials.html)
+
+
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
 
 
 --- 
-# 3 Aplicabilidade 
+# 3. Aplicabilidade 
 
 
 Desenvolvimento de criptomoedas
@@ -644,7 +649,7 @@ Registro imutável de informações
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
 ---
-# 4 Tendências
+# 4. Tendências
 
 Google trends usado para mostrar tendências:
 
@@ -653,7 +658,7 @@ https://trends.google.com.br/trends/explore?date=today%205-y&q=blockchain,%2Fg%2
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
 ---
-# 5 Artigos
+# 5. Artigos
 
 1. [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
 
@@ -664,14 +669,14 @@ Em desenvolvimento.
 
 
 ---
-# 6 Videos
+# 6. Videos
 
 Em desenvolvimento.
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
 ---
-# 7 Reportagens
+# 7. Reportagens
 
 1. [Chegada do DREX e o fim do dinheiro em espécie](https://livecoins.com.br/chegada-do-drex-e-fim-do-dinheiro-em-especie-pode-virar-audiencia-publica-na-camara/).
 
@@ -679,7 +684,7 @@ Em desenvolvimento.
 
 
 
-# 8 Fontes
+# 8. Fontes
 
 
 Diversas fontes de pesquisa sobre blockchain:
