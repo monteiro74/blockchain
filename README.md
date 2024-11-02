@@ -439,11 +439,19 @@ Fonte: https://www.investopedia.com/terms/b/bitcoin-mining.asp
 
 É um sistema que valida uma transação e a marca como autêntica. Este mecanismo lista todas as transações válidas de uma moeda em uma blockchain para construir confiança na moeda entre os comerciantes. Diversas moedas, como Bitcoin, Ethereum etc., utilizam este sistema.
 
+### 1.9.1. PoW
+
 * PoW (Proof of Work): ‘Prova’ refere-se à solução de um problema altamente complexo, e ‘trabalho’ refere-se ao processo de resolução do mesmo. Os mineradores de moedas criptográficas competem para resolver o problema e ganhar o direito de processar a transação. O solucionador mais rápido recebe uma taxa de mineração dos comerciantes dessas moedas.
+
+### 1.9.2. PoS
 
 * PoS (Proof of Stake): Este mecanismo escolhe aleatoriamente um proprietário máximo de moedas para validar uma transação. Também permite ao proprietário criar um bloco para a mesma moeda. Este mecanismo requer comparativamente menos energia, tempo de transação e uma taxa mais baixa. Moedas como Etherium 2.0
 
+### 1.9.3. PoA
+
 * PoA (Proof of Authority): Prova de autoridade (PoA) é um tipo de mecanismo de consenso usado em alguns blockchains para decidir qual participante adicionará o próximo bloco de transações. Ao contrário da Prova de Trabalho do Bitcoin, onde os mineiros competem para resolver quebra-cabeças complexos, ou da Prova de Participação, onde a chance de adicionar um bloco depende de quanta criptomoeda uma pessoa possui, o PoA tem tudo a ver com identidade e reputação.
+
+### 1.9.4. Comparações PoW, PoS e PoA
 
 
 | Característica                 | Proof of Work (PoW)                      | Proof of Stake (PoS)                         | Proof of Authority (PoA)                     |
@@ -460,7 +468,7 @@ Fonte: https://www.investopedia.com/terms/b/bitcoin-mining.asp
 
 
 
-Mais referências: https://cleartax.in/s/consensus-in-blockchain
+Mais info... https://cleartax.in/s/consensus-in-blockchain
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
