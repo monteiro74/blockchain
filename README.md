@@ -160,7 +160,7 @@ DLT podem ser divididas em duas classes:
 
 * A) grafos acíclicos dirigidos (ou directed acyclic graph (DAG) do inglês) e, 
 
-* B) blockchain. Blockchain e DAG são sub tipos de DLTs.
+* B) Blockchain. Blockchain e DAG são sub tipos de DLTs.
 
 ![Exemplos de DLT](https://raw.githubusercontent.com/monteiro74/blockchain/main/figuras/fig1.png "Exemplos de DLT")
 
@@ -178,7 +178,7 @@ Cada transação no DAG é um vértice, cada vértice tem uma ou mais arestas em
 
 Figura 2: Nós em um sistema distribuído.
 
-São alguns exemplos de projetos que utilizam DAG: IOTA4(é um DAG voltada para armazenar dados de IoT), NANO5(é uma criptomoeda e uma plataforma para transação de valores ponto-a-ponto), Obyte6(é uma DAG e criptomoeda), Hedera7(é uma rede pública baseada em DAG e uma criptomoeda) e IPFS8(é um sistema de arquivos distribuído, utilizado em uma rede ponto-a-ponto.). DAG é usada pelo IPFS onde cada identifcador tem um hash do conteúdo para um conteúdo, é usado para representar arquivos e diretórios, o IPFS quebra um arquivo em pedaços chamados de blocos, (IPFS, 2022).
+São alguns exemplos de projetos que utilizam DAG: IOTA(é um DAG voltada para armazenar dados de IoT), NANO(é uma criptomoeda e uma plataforma para transação de valores ponto-a-ponto), Obyte(é uma DAG e criptomoeda), Hedera(é uma rede pública baseada em DAG e uma criptomoeda) e IPFS(é um sistema de arquivos distribuído, utilizado em uma rede ponto-a-ponto.). DAG é usada pelo IPFS onde cada identifcador tem um hash do conteúdo para um conteúdo, é usado para representar arquivos e diretórios, o IPFS quebra um arquivo em pedaços chamados de blocos, (IPFS, 2022).
 
 Os blocos podem estar em vários lugares. Um arquivo é composto de vários blocos, cada bloco tem um identificador. Para localizar este arquivo composto por vários blocos o IPFS usa o que é chamado de tabela hash para localizar arquivos. Com esta tabela, um grupo de nós pode conter partes diferentes de um arquivo.  Nesta tabela, existem duas colunas uma com um hash inicia e final e a outra coluna com o conteúdo do arquivo. Dependendo qual o valor da chave hash o arquivo pode ser armazenado na tabela (no topo, por exemplo), para recuperar o arquivo é necessário percorrer a tabela, (PSARAS; SOARES; DIAS, 2022).
 
@@ -197,6 +197,10 @@ https://hedera.com/
 #### 1.5.1.3. Obyte
 
 https://obyte.org/technology
+
+### 1.5.1.4. IPFS
+
+https://ipfs.tech/
 
 ### 1.5.2. Blockchain
 
