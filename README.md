@@ -78,12 +78,6 @@ informação, programação e banco de dados.
 
 
 
-
-
-
-
-
-
 ---
 # 1 Conceitos
 
@@ -223,6 +217,7 @@ Projetos de blockchain a partir do ano de criação até 2022: Hyperledger Fabri
 
 Figura 4: Linha do tempo de alguns projetos de blockchain.
 
+[Voltar ao início](#sobre-blockchain-e-livros-razão)
 
 ## 1.6. Ethereum 
 
@@ -410,7 +405,7 @@ Metamask para [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ether-met
 
 [OneKey Classic](https://www.amazon.com.br/Carteira-Crypto-Hardware-OneKey-Classic/dp/B0CH178FPR/ref=sr_1_8?dib=eyJ2IjoiMSJ9.XXtGFSpM9uUUREqYbLYBnNy_JalzdXmWXatgVYHRm8Pgf6WNo5XOknG77kThE4z3t1npX23E04moCL1zDOONQif2dJn2cAm-djtxK9n8ssZKoTAaWLf8ziueeGddKzB02f_YfieYywzAoHpj8pfUBo2_jvz0vbLOGeMBaxoDNwaYLLgw6aLB7627njr4aPNt7QNNflMfWHLhix4uBC7l8pZZWOj0aS-Vhpw_LLdYO1hVqVE1T5P8oSJqt3rMTPQJWyNDh3Fw1aziYUiw3uVUxP-y3J_jPcQ3eDoBPBfgTsI.GjWvUwKT2Z3mtC3aGp9UByq78tLf0YIZsWB7JTGDhl8&dib_tag=se&keywords=cold+wallet&qid=1730589519&sr=8-8&ufe=app_do%3Aamzn1.fos.25548f35-0de7-44b3-b28e-0f56f3f96147).
 
-
+[Voltar ao início](#sobre-blockchain-e-livros-razão)
 
 
 ## 1.8. Mining (mineração)
