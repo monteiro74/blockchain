@@ -31,57 +31,7 @@ informação, programação e banco de dados.
 
 
 
-- [Sobre Blockchain e livros razão](#sobre-blockchain-e-livros-razão)
-      - [Objetivos:](#objetivos)
-      - [Observações:](#observações)
-- [Sumário](#sumário)
-- [1 Conceitos](#1-conceitos)
-  - [1.1. O problema de double spending](#11-o-problema-de-double-spending)
-  - [1.2. Criptografia de chave privada](#12-criptografia-de-chave-privada)
-  - [1.3. Critografia de chave pública](#13-critografia-de-chave-pública)
-  - [1.4. Certificado digital](#14-certificado-digital)
-  - [1.5. Tecnologias de livro razão](#15-tecnologias-de-livro-razão)
-    - [1.5.1. Gráfos acíclicos dirigidos](#151-gráfos-acíclicos-dirigidos)
-    - [1.5.2. Blockchain](#152-blockchain)
-    - [1.5.3. Diferentes tipos de DLT](#153-diferentes-tipos-de-dlt)
-    - [1.5.4. Alguns projetos de blockchain desde o surgimento até 2022](#154-alguns-projetos-de-blockchain-desde-o-surgimento-até-2022)
-  - [1.6. Ethereum](#16-ethereum)
-    - [1.6.1. EVM](#161-evm)
-    - [1.6.2. Smart contracts](#162-smart-contracts)
-    - [1.6.3. ETH](#163-eth)
-    - [1.6.4. Gas fee](#164-gas-fee)
-    - [1.6.5. IDE para programar com Ethereum](#165-ide-para-programar-com-ethereum)
-  - [1.7. Wallets](#17-wallets)
-    - [1.7.1. Carteiras, Contas, Chaves e Endereços no Ethereum](#171-carteiras-contas-chaves-e-endereços-no-ethereum)
-    - [1.7.2. Metamask](#172-metamask)
-    - [1.7.3. Carteira em hardware](#173-carteira-em-hardware)
-  - [1.8. Mining (mineração)](#18-mining-mineração)
-  - [1.9. Consenso](#19-consenso)
-    - [1.9.1. PoW](#191-pow)
-    - [1.9.2. PoS](#192-pos)
-    - [1.9.3. PoA](#193-poa)
-    - [1.9.4. Comparações PoW, PoS e PoA](#194-comparações-pow-pos-e-poa)
-  - [1.10. DeFi](#110-defi)
-  - [1.11. Blockchain Oracle](#111-blockchain-oracle)
-  - [1.14. NFT](#114-nft)
-  - [1.15. Stable Coin](#115-stable-coin)
-- [2. Blockchains privadas](#2-blockchains-privadas)
-  - [2.1. Multhichain blockchain](#21-multhichain-blockchain)
-  - [2.2. Hyperledger Fabric](#22-hyperledger-fabric)
-  - [2.3. Hyperledger Besu](#23-hyperledger-besu)
-- [3. Aplicabilidade](#3-aplicabilidade)
-- [4. Tendências](#4-tendências)
-- [5. Artigos](#5-artigos)
-- [6. Videos](#6-videos)
-- [7. Treinamentos](#7-treinamentos)
-- [8. Reportagens e artigos](#8-reportagens-e-artigos)
-  - [8.1. Sobre blockchain e bancos de dados](#81-sobre-blockchain-e-bancos-de-dados)
-  - [8.2. Artigos sobre criptomoedas](#82-artigos-sobre-criptomoedas)
-- [9. Fontes e referências diversas](#9-fontes-e-referências-diversas)
-- [Avisos \& licença](#avisos--licença)
-  - [Aviso](#aviso)
-  - [Licença](#licença)
-- [Estatísticas desta página](#estatísticas-desta-página)
+
 
 
 
@@ -203,6 +153,55 @@ Artigo que iniciou com a ideia: [Bitcoin: A Peer-to-Peer Electronic Cash System]
 
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
+
+#### 1.5.2.1. Exemplo em Python 
+
+```
+import hashlib
+import time
+
+class Block:
+    def __init__(self, index, previous_hash, data, timestamp=None):
+        self.index = index
+        self.previous_hash = previous_hash
+        self.data = data
+        self.timestamp = timestamp or time.time()
+        self.hash = self.calculate_hash()
+
+    def calculate_hash(self):
+        block_content = str(self.index) + str(self.previous_hash) + str(self.data) + str(self.timestamp)
+        return hashlib.sha256(block_content.encode()).hexdigest()
+
+# Function to create the genesis block (first block)
+def create_genesis_block():
+    return Block(index=0, previous_hash="0", data="Genesis Block")
+
+# Function to create a new block in the chain
+def create_new_block(previous_block, data):
+    new_index = previous_block.index + 1
+    new_block = Block(index=new_index, previous_hash=previous_block.hash, data=data)
+    return new_block
+
+# Initialize the blockchain with the genesis block
+blockchain = [create_genesis_block()]
+
+# Adding new blocks to the blockchain
+blockchain.append(create_new_block(blockchain[-1], "Block 1 Data"))
+blockchain.append(create_new_block(blockchain[-1], "Block 2 Data"))
+blockchain.append(create_new_block(blockchain[-1], "Block 3 Data"))
+
+# Display the blockchain
+for block in blockchain:
+    print(f"Block {block.index} [Hash: {block.hash}]")
+    print(f"Previous Hash: {block.previous_hash}")
+    print(f"Data: {block.data}")
+    print(f"Timestamp: {block.timestamp}")
+    print("\n")
+```
+
+O exemplo acima rodando na IDE Spyder:
+
+![https://raw.githubusercontent.com/monteiro74/blockchain/refs/heads/main/figuras/blockchain_python.png](https://raw.githubusercontent.com/monteiro74/blockchain/refs/heads/main/figuras/blockchain_python.png)
 
 
 ### 1.5.3. Diferentes tipos de DLT
@@ -694,21 +693,12 @@ https://trends.google.com.br/trends/explore?date=today%205-y&q=blockchain,%2Fg%2
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
----
-# 5. Artigos
 
-1. [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
-
-2. [The Collapse Of Silvergate Bank](https://www.researchgate.net/publication/371701475_The_Collapse_of_Silvergate_Bank)
-
-Em desenvolvimento. 
-
-[Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
 
 
 ---
-# 6. Videos
+# 5. Videos
 
 [Bringing the power of blockchain to Azure SQL database and SQL Server with Ledger](https://learn.microsoft.com/en-us/shows/data-exposed/bringing-the-power-of-blockchain-to-azure-sql-database-and-sql-server-with-ledger-data-exposed)]
 
@@ -717,14 +707,14 @@ Em desenvolvimento.
 
 ---
 
-# 7. Treinamentos
+# 6. Treinamentos
 
 [Get started with blockchain development](https://learn.microsoft.com/en-us/training/paths/ethereum-blockchain-development/)
 
 ---
-# 8. Reportagens e artigos
+# 7. Reportagens e artigos
 
-## 8.1. Sobre blockchain e bancos de dados
+## 7.1. Sobre blockchain e bancos de dados
 
 [Blockchain by Example in SQL Server](https://benjaminsky.medium.com/blockchain-by-example-in-sql-server-8376b410128)
 
@@ -756,7 +746,7 @@ Em desenvolvimento.
 
 
 
-## 8.2. Artigos sobre criptomoedas
+## 7.2. Artigos sobre criptomoedas
 
 
 [Chegada do DREX e o fim do dinheiro em espécie](https://livecoins.com.br/chegada-do-drex-e-fim-do-dinheiro-em-especie-pode-virar-audiencia-publica-na-camara/).
@@ -920,13 +910,16 @@ Em desenvolvimento.
 
 
 ---
-# 9. Fontes e referências diversas
+# 8. Fontes e referências diversas
 
 Diversas fontes de pesquisa sobre blockchain:
 
+[Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
+
+[The Collapse Of Silvergate Bank](https://www.researchgate.net/publication/371701475_The_Collapse_of_Silvergate_Bank)
+
 AGI, M. A.; JHA, A. K. Blockchain technology in the supply chain: an integrated theoretical perspective of organizational adoption. International Journal of Production Economics, [S.l.], v. 247, p. 108458, 2022.
 https://www.sciencedirect.com/science/article/pii/S0925527322000512
-
 
 
 ANTONOPOULOS, P.; KAUSHIK, R.; KODAVALLA, H.; ROSALES ACEVES, S.; WONG, R.; ANDERSON, J.; SZYMASZEK, J. SQL Ledger: cryptographically verifiable data in azure sql database. In: INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, 2021., 2021, New York, NY, USA Proceedings. Association for Computing Machinery, 2021. p. 2437–2449. (SIGMOD ’21).
