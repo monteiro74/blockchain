@@ -1049,10 +1049,11 @@ https://dl.acm.org/doi/10.1147/JRD.2019.2900647
 MASOOD, F.; FARIDI, A. An Overview of Distributed Ledger Technology and its Applications. International Journal of Computer Sciences and Engineering, [S.l.], v. 6, p. 422–427, 10 2018.
 https://www.researchgate.net/publication/330139945_An_Overview_of_Distributed_Ledger_Technology_and_its_Applications
 
-MONTEIRO, E. S.; MIGNONI, M. E.; RIGHI, R. d. R.; KUNST, R. Blockchain e inteligência artificial associada no controle de packs agrotóxicos. RICA Revista Ibero-Americana de Ciências Ambientais, [S.l.], v. 12, n. 12, 2021.
+MONTEIRO, E. S.; MIGNONI, M. E.; RIGHI, R. d. R.; KUNST, R. Blockchain e inteligência artificial associada no controle de packs agrotóxicos. RICA Revista Ibero-Americana de Ciências Ambientais, [S.l.], v. 12, n. 12, 2021. https://sustenere.inf.br/index.php/rica/article/view/6312
 
 MONTEIRO, E. S.; ROSA RIGHI, R. da; BARBOSA, J. L. V.; ALBERTI, A. M. APTM: a model for pervasive traceability of agrochemicals. Applied Sciences, [S.l.], v. 11, n. 17, 2021.
 https://www.mdpi.com/2076-3417/11/17/8149
+
 
 NIE, Y.; HE, X.-W.; CAI, W.-L.; LIU, Z.-H. Improve the security of Hyperledger Fabric by dynamically selecting endorsing peers. In: INTERNATIONAL SYMPOSIUM ON COMPUTER AND INFORMATION PROCESSING TECHNOLOGY (ISCIPT), 2021., 2021. Anais. . . [S.l.: s.n.], 2021. p. 659–663.
 https://ieeexplore.ieee.org/document/9644558
