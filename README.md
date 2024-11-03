@@ -706,7 +706,60 @@ Em desenvolvimento.
 ---
 # 7. Reportagens
 
-1. [Chegada do DREX e o fim do dinheiro em espécie](https://livecoins.com.br/chegada-do-drex-e-fim-do-dinheiro-em-especie-pode-virar-audiencia-publica-na-camara/).
+[Chegada do DREX e o fim do dinheiro em espécie](https://livecoins.com.br/chegada-do-drex-e-fim-do-dinheiro-em-especie-pode-virar-audiencia-publica-na-camara/).
+
+[BC divulga as diretrizes do projeto-piloto do Real Digital](https://www.bcb.gov.br/detalhenoticia/667/noticia)
+
+
+[“Criptomoedas não valem nada”, afirma presidente do Banco Central Europeu](https://portaldobitcoin.uol.com.br/criptomoedas-nao-valem-nada-afirma-presidente-do-banco-central-europeu/)
+
+[“Faraó do Bitcoin” tem 72 horas para depositar R$ 19 bi em conta judicial](https://bmcnews.com.br/2022/09/20/farao-do-bitcoin-tem-72-horas-para-depositar-r-19-bi-em-conta-judicial-0022/)
+
+[“Cripto é um investimento em nada”, diz Charlie Munger, parceiro de Warren Buffett](https://istoedinheiro.com.br/cripto-e-um-investimento-em-nada-diz-charlie-munger-parceiro-de-warren-buffett/)
+
+[Comprar criptomoedas ‘é investir em nada’, afirma braço direito de Warren Buffett](https://www.moneytimes.com.br/comprar-criptomoedas-e-investir-em-nada-afirma-braco-direito-de-warren-buffett/)
+
+[Binance vai travar saques de 21 criptomoedas na próxima quinta, veja quais](https://livecoins.com.br/binance-vai-travar-saques-de-21-criptomoedas-na-proxima-quinta-veja-quais/)
+
+[Bitcoin Maximalist Michael Saylor Makes the Case Against Ethereum](https://www.coindesk.com/business/2022/07/27/bitcoin-maximalist-michael-saylor-makes-the-case-against-ethereum/)
+
+[Brasileiros aceitam criptomoeda em venda de imóvel e não conseguem vender](https://livecoins.com.br/brasileiros-aceitam-criptomoeda-de-corretora-em-venda-de-imovel-e-nao-conseguem-vender/)
+
+[Criptomoeda prometia lucros para todos, mas só os criadores ficaram ricos](https://livecoins.com.br/criptomoeda-prometia-lucros-para-todos-mas-so-os-criadores-ficaram-ricos/)
+
+[Crypto Exchange Zipmex Seeks Bankruptcy Protection In Singapore As Crypto Crisis Spreads](https://www.forbes.com/sites/zinnialee/2022/07/29/crypto-exchange-zipmex-seeks-bankruptcy-protection-in-singapore-as-crypto-crisis-spreads/?sh=752881b44233)
+
+[Ethereum’s Merge already causing more problems than it’s solving](https://coingeek.com/ethereum-merge-already-causing-more-problems-than-its-solving/)
+
+[Hash demite, termina operações e deixa clientes na mão](https://startups.com.br/negocios/hash-demite-termina-operacoes-e-deixa-clientes-na-mao/)
+
+[Iranian, Venezuelan Users Abruptly Dropped From Major Crypto Platforms As Russian Sanctions Grow](https://www.forbes.com/sites/stevenehrlich/2022/03/03/iranian-venezuela-users-abruptly-dropped-from-major-crypto-platforms-as-russian-sanctions-grow/?sh=374cbe4470b0)
+
+[Kim Kardashian Tries to Escape EthereumMax Lawsuit](https://decrypt.co/106533/kim-kardashian-ethereum-max-dismiss-lawsuit)
+
+[NY Attorney General Urges New Yorkers 'Deceived' by Crypto Firms to Contact Office](https://decrypt.co/106465/ny-attorney-general-urges-new-yorkers-deceived-crypto-firms-contact-office)
+
+[PCC, hackers norte-coreanos e golpistas no Brasil: como criptomoedas se tornaram arma para o crime](https://noticiabrasil.net.br/20220920/pcc-hackers-norte-coreanos-e-golpistas-no-brasil-como-criptomoedas-se-tornaram-arma-para-o-crime-24842988.html)
+
+[Reuters acusa Binance de ajudar golpistas e traficantes a lavar R$ 11 bilhões](https://livecoins.com.br/reuters-acusa-binance-de-ajudar-golpistas-e-traficantes/)
+
+[Solana, USDC Drained From Wallets in Attack](https://decrypt.co/106590/multiple-wallets-including-sol-and-usdc-drained-in-unfolding-attack)
+
+[Empresa de criptomoedas promovida por artistas do SBT desaparece com dinheiro dos clientes](https://livecoins.com.br/bm4-financas-sbt-desaparece-dinheiro-dos-clientes/)
+
+[CNN abandona projeto NFT e é acusada de golpe](https://livecoins.com.br/cnn-abandona-projeto-nft-rug-pull/)
+
+[“NFT que comprei por R$ 3,2 milhões vale R$ 50 hoje”, lamenta o youtuber Logan Paul](https://portaldobitcoin.uol.com.br/nft-que-comprei-por-r-32-milhoes-vale-r-50-hoje-lamenta-o-youtuber-logan-paul/)
+
+[Logan Paul afirma que seu NFT de R$ 3,2 milhões agora vale R$ 50](https://www.tecmundo.com.br/mercado/252618-logan-paul-afirma-nft-r-3-2-milhoes-vale-r-50.htm)
+
+[“Influencer de criptomoedas” Diego Aguiar é acusado de manipular jogos NFTs](https://livecoins.com.br/influencer-de-criptomoedas-diego-aguiar-e-acusado-de-manipular-jogos-nfts/)
+
+[Manhã Cripto: Europa faz alerta sobre mineração de criptomoedas enquanto Bitcoin (BTC) recua e novo token da Aptos (APT) despenca 43%](https://portaldobitcoin.uol.com.br/manha-cripto-europa-faz-alerta-sobre-mineracao-de-criptomoedas-enquanto-bitcoin-btc-recua-e-novo-token-da-aptos-apt-despenca-43/)
+
+
+
+
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
