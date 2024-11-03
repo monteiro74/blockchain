@@ -753,35 +753,18 @@ https://trends.google.com.br/trends/explore?date=today%205-y&q=blockchain,%2Fg%2
 
 [Lançamento da Rede Blockchain Brasil (RBB)](https://www.youtube.com/watch?v=Mhm8buV3lVs)
 
-[An Ethereum Mining Pool Halts All Services to Russia, People Send Bitcoin to Support Ukrainian Army](https://www.youtube.com/watch?v=EXj6ZDzmzEc)
-
 [Entre desilusão e esperança, bitcoin completa um ano em El Salvador | AFP](https://www.youtube.com/watch?v=rcmLhDYK3lg)
-
-[Fãs de NFT enchendo o saco na internet](https://www.youtube.com/watch?v=yPlyskebA08)
 
 [How I hacked a hardware crypto wallet and recovered $2 million](https://www.youtube.com/watch?v=dT9y-KQbqi4)
 
 [Ethereum Has A MAJOR Problem...](https://www.youtube.com/watch?v=UF6W4fo5D4o)
 
-[Ex-Miners Are STILL Living in La-La Land](https://www.youtube.com/watch?v=6BkfURk_kpE)
-
 [Binance Now Controls 80% of Bitcoin's Volume](https://www.youtube.com/watch?v=Mu9u1KFigEU)
-
-[Scams, Zealots, and Jet Skis: Life Inside the Crypto Scene | Spiraling](https://www.youtube.com/watch?v=x9hXfBo8Abo)
-
-[BITCOIN EM EL SALVADOR!](https://www.youtube.com/watch?v=0EgElzKK5Fo)
 
 [Bolsa Desiste de Blockchain e Investe em COBOL](https://www.youtube.com/watch?v=j89GXwU0E6A)
 
 [The Embarrassing DOWNFALL of the Bored Ape Yacht Club](https://www.youtube.com/watch?v=IYS_uuUjQbY)
 
-[The Death Of NFT Collections & Trading](https://www.youtube.com/watch?v=2JYlopnc3I8)
-
-[RANT - Why NFT Cartoons are a SCAM](https://www.youtube.com/watch?v=rDrppEZm6Gw)
-
-[CryptoLand - The Fyre festival of Crypto](https://www.youtube.com/watch?v=jo1Po3uY5Ww)
-
-[The (un)Believable Reality of CRYPTOLAND](https://www.youtube.com/watch?v=jTPByspA_4g)
 
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
@@ -792,6 +775,19 @@ https://trends.google.com.br/trends/explore?date=today%205-y&q=blockchain,%2Fg%2
 # 6. Treinamentos
 
 [Get started with blockchain development](https://learn.microsoft.com/en-us/training/paths/ethereum-blockchain-development/)
+
+[Learn Blockchain Solidity Smart Contract for Beginners](https://www.udemy.com/course/blockchain-solidity-smart-contract-tutorial/)
+
+[Learn Ethereum and Solidity](https://www.udemy.com/course/learn-ethereum-and-solidity/)
+
+[Blockchain Theory 101](https://www.udemy.com/course/blockchain-theory-101/)
+
+[Como aprender Blockchain e Smart Contract em 1 dia!](https://www.udemy.com/course/como-aprender-blockchain-e-smart-contracts-em-1-dia/)
+
+[Do zero ao blockchain](https://www.udemy.com/course/do-zero-ao-blockchain/)
+
+[Blockchain Free learning and resources](https://skillsbuild.org/students/course-catalog/blockchain)
+
 
 ---
 # 7. Reportagens e artigos
@@ -828,7 +824,7 @@ https://trends.google.com.br/trends/explore?date=today%205-y&q=blockchain,%2Fg%2
 
 
 
-## 7.2. Artigos sobre criptomoedas
+## 7.2. Artigos sobre criptomoedas, mineração e outros
 
 
 [Chegada do DREX e o fim do dinheiro em espécie](https://livecoins.com.br/chegada-do-drex-e-fim-do-dinheiro-em-especie-pode-virar-audiencia-publica-na-camara/).
@@ -847,79 +843,28 @@ https://trends.google.com.br/trends/explore?date=today%205-y&q=blockchain,%2Fg%2
 
 [Bitcoin Maximalist Michael Saylor Makes the Case Against Ethereum](https://www.coindesk.com/business/2022/07/27/bitcoin-maximalist-michael-saylor-makes-the-case-against-ethereum/)
 
-[Brasileiros aceitam criptomoeda em venda de imóvel e não conseguem vender](https://livecoins.com.br/brasileiros-aceitam-criptomoeda-de-corretora-em-venda-de-imovel-e-nao-conseguem-vender/)
-
-[Criptomoeda prometia lucros para todos, mas só os criadores ficaram ricos](https://livecoins.com.br/criptomoeda-prometia-lucros-para-todos-mas-so-os-criadores-ficaram-ricos/)
 
 [Crypto Exchange Zipmex Seeks Bankruptcy Protection In Singapore As Crypto Crisis Spreads](https://www.forbes.com/sites/zinnialee/2022/07/29/crypto-exchange-zipmex-seeks-bankruptcy-protection-in-singapore-as-crypto-crisis-spreads/?sh=752881b44233)
 
 [Ethereum’s Merge already causing more problems than it’s solving](https://coingeek.com/ethereum-merge-already-causing-more-problems-than-its-solving/)
 
-[Hash demite, termina operações e deixa clientes na mão](https://startups.com.br/negocios/hash-demite-termina-operacoes-e-deixa-clientes-na-mao/)
-
-[Iranian, Venezuelan Users Abruptly Dropped From Major Crypto Platforms As Russian Sanctions Grow](https://www.forbes.com/sites/stevenehrlich/2022/03/03/iranian-venezuela-users-abruptly-dropped-from-major-crypto-platforms-as-russian-sanctions-grow/?sh=374cbe4470b0)
-
-[Kim Kardashian Tries to Escape EthereumMax Lawsuit](https://decrypt.co/106533/kim-kardashian-ethereum-max-dismiss-lawsuit)
-
-[NY Attorney General Urges New Yorkers 'Deceived' by Crypto Firms to Contact Office](https://decrypt.co/106465/ny-attorney-general-urges-new-yorkers-deceived-crypto-firms-contact-office)
-
-[PCC, hackers norte-coreanos e golpistas no Brasil: como criptomoedas se tornaram arma para o crime](https://noticiabrasil.net.br/20220920/pcc-hackers-norte-coreanos-e-golpistas-no-brasil-como-criptomoedas-se-tornaram-arma-para-o-crime-24842988.html)
-
-[Reuters acusa Binance de ajudar golpistas e traficantes a lavar R$ 11 bilhões](https://livecoins.com.br/reuters-acusa-binance-de-ajudar-golpistas-e-traficantes/)
-
 [Solana, USDC Drained From Wallets in Attack](https://decrypt.co/106590/multiple-wallets-including-sol-and-usdc-drained-in-unfolding-attack)
 
 [Empresa de criptomoedas promovida por artistas do SBT desaparece com dinheiro dos clientes](https://livecoins.com.br/bm4-financas-sbt-desaparece-dinheiro-dos-clientes/)
-
-[CNN abandona projeto NFT e é acusada de golpe](https://livecoins.com.br/cnn-abandona-projeto-nft-rug-pull/)
 
 [“NFT que comprei por R$ 3,2 milhões vale R$ 50 hoje”, lamenta o youtuber Logan Paul](https://portaldobitcoin.uol.com.br/nft-que-comprei-por-r-32-milhoes-vale-r-50-hoje-lamenta-o-youtuber-logan-paul/)
 
 [Logan Paul afirma que seu NFT de R$ 3,2 milhões agora vale R$ 50](https://www.tecmundo.com.br/mercado/252618-logan-paul-afirma-nft-r-3-2-milhoes-vale-r-50.htm)
 
-[“Influencer de criptomoedas” Diego Aguiar é acusado de manipular jogos NFTs](https://livecoins.com.br/influencer-de-criptomoedas-diego-aguiar-e-acusado-de-manipular-jogos-nfts/)
-
-[Manhã Cripto: Europa faz alerta sobre mineração de criptomoedas enquanto Bitcoin (BTC) recua e novo token da Aptos (APT) despenca 43%](https://portaldobitcoin.uol.com.br/manha-cripto-europa-faz-alerta-sobre-mineracao-de-criptomoedas-enquanto-bitcoin-btc-recua-e-novo-token-da-aptos-apt-despenca-43/)
-
 [Países da UE precisam estar prontos para bloquear a mineração de criptomoedas, diz Comissão Europeia](https://www.infomoney.com.br/mercados/paises-da-ue-precisam-estar-prontos-para-bloquear-a-mineracao-de-criptomoedas-diz-comissao-europeia/)
 
-[Empresário é preso por esquema de pirâmide que deu prejuízo de R$ 4 bilhões](https://www.correiobraziliense.com.br/brasil/2022/10/5045372-empresario-e-preso-no-rio-por-esquema-de-piramide-que-deu-prejuizo-de-rs-4-bi.html)
-
-[Maior mineradora de Bitcoin do mundo suspende pagamentos em cenário desafiador para criptos](https://www.infomoney.com.br/mercados/maior-mineradora-de-bitcoin-do-mundo-suspende-pagamentos-em-cenario-desafiador-para-criptos/)
-
-[“Eu avisei”, diz Nassim Taleb sobre crash das criptomoedas](https://livecoins.com.br/eu-avisei-nassim-taleb-crash-criptomoedas/)
-
 [FTX sofre hack bilionário e pede que usuários não acessem site](https://livecoins.com.br/ftx-sofre-hack-bilionario/)
-
-[“Jornalismo de merda”, CEO se irrita com notícia sobre reservas da Binance](https://livecoins.com.br/jornalismo-de-merda-reservas-da-binance/)
-
-[Outra gigante das criptomoedas pede falência após dizer que estava “tudo bem”](https://livecoins.com.br/mais-uma-gigante-das-criptomoedas-pede-falencia/)
-
-[Queda de helicóptero eleva para três as mortes misteriosas de chefões de criptomoedas](https://istoedinheiro.com.br/queda-de-helicoptero-eleva-para-tres-as-mortes-misteriosas-de-chefoes-de-criptomoedas/)
 
 [Third Crypto Boss Dies in Helicopter Crash](https://www.thegatewaypundit.com/2022/11/third-crypto-boss-dies-helicopter-crash/)
 
 [Vencedor do Nobel, Paul Krugman decreta o 'fim do Bitcoin'](https://g1.globo.com/economia/noticia/2022/12/05/vencedor-do-nobel-paul-krugman-decreta-o-fim-do-bitcoin.ghtml)
 
-[Clientes não conseguem sacar na Binance e se revoltam com exigência de “declaração renda”](https://livecoins.com.br/clientes-nao-conseguem-sacar-na-binance-e-se-revoltam-com-exigencia-de-declaracao-renda/)
-
-[Rússia realmente 'legalizou' a mineração de criptomoedas?](https://br.cointelegraph.com/news/russia-regulates-crypto-mining-no-full-legalization)
-
-[Crypto platform Paxful removes ETH from its marketplace](https://cointelegraph.com/news/crypto-platform-paxful-removes-eth-from-its-marketplace)
-
-[Core Scientific, uma das maiores mineradoras de Bitcoin, entra com pedido de falência](https://www.infomoney.com.br/mercados/core-scientific-uma-das-maiores-mineradoras-de-bitcoin-entra-com-pedido-de-falencia/)
-
 [China to roll out first national ‘digital asset’ marketplace – media](https://www.rt.com/business/569124-china-digital-asset-marketplace/)
-
-[Segunda maior empresa de caixas eletrônicos de bitcoin pede falência](https://livecoins.com.br/empresa-de-caixas-eletronicos-de-bitcoin-pede-falencia/)
-
-[Empresa de blockchain parceira de bancos pede falência](https://livecoins.com.br/empresa-de-blockchain-parceira-de-bancos-pede-falencia/)
-
-[Carteira de bitcoin pede que clientes saquem o mais rápido possível](https://livecoins.com.br/carteira-de-bitcoin-pede-que-clientes-saquem-o-mais-rapido-possivel/)
-
-[Brokers da Braiscompany tentam esconder relações e se demitem, mas já são alvos de investigação do MP](https://livecoins.com.br/brokers-da-braiscompany-tentam-esconder-alvo-de-investigacao-do-mp/)
-
-[Juiz determina prisão dos donos da Braiscompany e solicita aviso à Interpol](https://livecoins.com.br/juiz-determina-donos-braiscompany-interpol/)
 
 [1 ano depois de virar moeda oficial em El Salvador, bitcoin está 'esquecido' no país](https://exame.com/future-of-money/1-ano-depois-de-virar-moeda-oficial-em-el-salvador-bitcoin-esta-esquecido-no-pais/)
 
@@ -930,24 +875,6 @@ https://trends.google.com.br/trends/explore?date=today%205-y&q=blockchain,%2Fg%2
 [El Salvador perde R$ 370 milhões com bitcoin, mas presidente defende criptomoeda](https://exame.com/future-of-money/el-salvador-perde-r-370-milhoes-com-bitcoin-mas-presidente-defende-criptomoeda/)
 
 [74% da população de El Salvador não usou bitcoin desde que moeda foi oficializada](https://www.cnnbrasil.com.br/economia/financas/74-da-populacao-de-el-salvador-nao-usou-bitcoin-desde-que-moeda-foi-oficializada/)
-
-[Crypto bank Silvergate sinks after delaying annual report](https://www.reuters.com/technology/silvergate-slumps-28-after-delaying-annual-report-warning-about-viability-2023-03-02/)
-
-[Venda seus bitcoins o mais rápido possível, diz homem que previu crise financeira de 2008](https://livecoins.com.br/venda-seus-bitcoin-s-o-mais-rapido-possivel-peter-schiff/)
-
-[Signature Bank é fechado por reguladores de Nova York na esteira da falência do SVB](https://www.infomoney.com.br/mercados/signature-bank-e-fechado-por-reguladores-de-nova-york-na-esteira-da-falencia-do-svb/)
-
-[Stablecoin USD Coin (USDC) perde a paridade com o dólar em meio à crise do SVB; veja como o mercado cripto foi afetado pela falência no banco](https://www.seudinheiro.com/2023/criptomoedas/stablecoin-usd-coin-usdc-perde-a-paridade-com-o-dolar-em-meio-a-crise-do-svb-veja-como-o-mercado-cripto-foi-afetado-pela-falencia-no-banco-julw/)
-
-[La Silicon Valley Bank investiva in menzogne. Hi-tech](https://www.maurizioblondet.it/la-silicon-valley-bank-investiva-in-menzogne-hi-tech/)
-
-[South Korean Crypto Fugitive Charged With Forgery In Montenegro](https://www.rferl.org/a/montenegro-confirm-do-kwon-terraform/32332770.html)
-
-[Transacciones de bitcoin en espera se acumulan a niveles récords](https://www.criptonoticias.com/mineria/transacciones-bitcoin-espera-acumulan-niveles-records/)
-
-[Projeto de casal entusiasta de bitcoin caçado pelo governo da Tailândia quase vira sucata](https://portaldobitcoin.uol.com.br/projeto-de-casal-entusiasta-de-bitcoin-cacado-pelo-governo-da-tailandia-quase-vira-sucata/)
-
-[CPI das criptomoedas deverá investigar o caso G.A.S Consultoria, diz Caio Vianna](https://www.portalviu.com.br/dnews/cpi-das-criptomoedas-devera-investigar-o-caso-g-a-s-consultoria-diz-caio-vianna)
 
 [Binance faces scrutiny in Brazil, exec summoned to testify before Congress](https://cointelegraph.com/news/binance-scrutiny-in-brazil-as-government-demands-executive-testimony)
 
@@ -965,27 +892,11 @@ https://trends.google.com.br/trends/explore?date=today%205-y&q=blockchain,%2Fg%2
 
 [Inside Binance’s Guilty Plea and the Biggest Fine in Crypto History](https://www.wsj.com/finance/inside-binances-guilty-plea-and-the-biggest-fine-in-crypto-history-e959fca0)
 
-[“Bolha das criptomoedas vai estourar em 2024”, diz o historiador](https://livecoins.com.br/bolha-das-criptomoedas-vai-estourar-em-2024/)
-
-[Crypto investor 'bitcoin Jesus' arrested and charged by the Justice Department with $48 million tax evasion](https://markets.businessinsider.com/news/currencies/bitcoin-jesus-tax-evasion-roger-ver-doj-crypto-crime-btc-2024-5#:~:text=%22Bitcoin%20Jesus%22%20Roger%20Ver%20was,the%20%22bitcoin%20Jesus%22%20nickname.)
-
-[‘Bitcoin Jesus’ Arrested in Spain for Evading $48 Million in US Taxes](https://www.financemagnates.com/cryptocurrency/bitcoin-jesus-arrested-in-spain-for-evading-48-million-in-us-taxes/)
-
-[Binance's alleged seizure of Palestinian crypto funds sparks fury](https://www.aa.com.tr/en/economy/binances-alleged-seizure-of-palestinian-crypto-funds-sparks-fury/3315443#:~:text=Binance%20denies%20claim%2C%20stating%20only,linked%20to%20'illicit%20funds'%20affected&text=Cryptocurrency%20giant%20Binance%20has%20been,Israel%20Defense%20Forces%20(IDF).)
-
-[Pelo RS: Receita Federal e Polícia Federal deflagram operação contra fraudes com criptomoedas](https://rdplanalto.com/pelo-rs-receita-federal-e-policia-federal-deflagram-operacao-contra-fraudes-com-criptomoedas/)
-
 [Governo de Honduras fecha cidade bitcoin privada de Próspera](https://livecoins.com.br/governo-de-honduras-fecha-cidade-bitcoin-privada-de-prospera/)
-
-[Vitalik Buterin propõe mudanças no Ethereum: “risco de centralização”](https://livecoins.com.br/vitalik-buterin-propoe-mudancas-no-ethereum-risco-de-centralizacao/)
 
 [Chegada do Drex e fim do dinheiro em espécie pode virar audiência pública na Câmara](https://livecoins.com.br/chegada-do-drex-e-fim-do-dinheiro-em-especie-pode-virar-audiencia-publica-na-camara/)
 
 [Dead Coins: Over 50% of Cryptocurrencies Have Failed](https://www.coingecko.com/research/publications/how-many-cryptocurrencies-failed)
-
-[Estudo mostra que mais de 50% das criptomoedas listadas desde 2014 falharam](https://www.binance.com/pt-BR/square/post/2024-01-21-study-shows-over-50-of-cryptocurrencies-listed-since-2014-have-failed-3052366434089)
-
-[Governo dos EUA acusa KuCoin de lavar US$ 4 bilhões em fundos do crime](https://portaldobitcoin.uol.com.br/governo-dos-eua-acusa-kucoin-de-lavar-us-4-bilhoes-em-fundos-do-crime/amp/)
 
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
