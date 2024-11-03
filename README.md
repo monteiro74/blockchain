@@ -708,6 +708,29 @@ Em desenvolvimento.
 ---
 # 7. Reportagens
 
+## 7.1. Artigos sobre blockchain
+
+[Blockchain by Example in SQL Server](https://benjaminsky.medium.com/blockchain-by-example-in-sql-server-8376b410128)
+
+[Storing and Querying Bitcoin Blockchain Using SQL Databases](https://sceweb.sce.uhcl.edu/big/papers/ISEDJv17n4-Yue.pdf)
+
+[Programming Smart Contracts in C#](https://learn.microsoft.com/en-us/archive/msdn-magazine/2019/november/blockchain-programming-smart-contracts-in-csharp)
+
+[Azure SQL Database ledger PART 1 by Jason M. Anderson]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+
+
+## 7.2. Artigos sobre criptomoedas
+
+
 [Chegada do DREX e o fim do dinheiro em espécie](https://livecoins.com.br/chegada-do-drex-e-fim-do-dinheiro-em-especie-pode-virar-audiencia-publica-na-camara/).
 
 [BC divulga as diretrizes do projeto-piloto do Real Digital](https://www.bcb.gov.br/detalhenoticia/667/noticia)
