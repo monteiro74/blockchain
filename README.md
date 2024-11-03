@@ -701,14 +701,21 @@ Em desenvolvimento.
 ---
 # 6. Videos
 
-Em desenvolvimento.
+[Bringing the power of blockchain to Azure SQL database and SQL Server with Ledger](https://learn.microsoft.com/en-us/shows/data-exposed/bringing-the-power-of-blockchain-to-azure-sql-database-and-sql-server-with-ledger-data-exposed)]
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
----
-# 7. Reportagens
 
-## 7.1. Artigos sobre blockchain
+---
+
+# 7. Treinamentos
+
+[Get started with blockchain development](https://learn.microsoft.com/en-us/training/paths/ethereum-blockchain-development/)
+
+---
+# 8. Reportagens e artigos
+
+## 8.1. Artigos sobre blockchain
 
 [Blockchain by Example in SQL Server](https://benjaminsky.medium.com/blockchain-by-example-in-sql-server-8376b410128)
 
@@ -716,19 +723,24 @@ Em desenvolvimento.
 
 [Programming Smart Contracts in C#](https://learn.microsoft.com/en-us/archive/msdn-magazine/2019/november/blockchain-programming-smart-contracts-in-csharp)
 
-[Azure SQL Database ledger PART 1 by Jason M. Anderson]()
+[Azure SQL Database ledger PART 1 by Jason M. Anderson](https://www.sqlservergeeks.com/azure-sql-database-ledger-part-1-by-jason-m-anderson/)
 
-[]()
+[Azure SQL Database Ledger Getting Started and Examples](https://www.mssqltips.com/sqlservertip/6890/azure-sql-database-ledger-getting-started-and-examples/)
 
-[]()
+[Ledger overview](https://learn.microsoft.com/en-us/sql/relational-databases/security/ledger/ledger-overview?view=sql-server-ver16)
 
-[]()
+[SQL Server meet Blockchain!](https://medium.com/provendb/sql-server-meet-blockchain-555b0a137c71)
 
-[]()
+[Introduction to ProvenDB for SQLServer](https://provendb.readme.io/docs/introduction-1)
+
+[O que é Blockchain?](https://www.oracle.com/br/blockchain/what-is-blockchain/)
+
+[Blockchain Platform Service](https://www.oracle.com/blockchain/cloud-platform/)
+
+[Blockchain Tables in Oracle Database 21c](https://oracle-base.com/articles/21c/blockchain-tables-21c)
 
 
-
-## 7.2. Artigos sobre criptomoedas
+## 8.2. Artigos sobre criptomoedas
 
 
 [Chegada do DREX e o fim do dinheiro em espécie](https://livecoins.com.br/chegada-do-drex-e-fim-do-dinheiro-em-especie-pode-virar-audiencia-publica-na-camara/).
@@ -891,9 +903,8 @@ Em desenvolvimento.
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
 
-
-# 8. Fontes
-
+---
+# 9. Fontes e referências diversas
 
 Diversas fontes de pesquisa sobre blockchain:
 
