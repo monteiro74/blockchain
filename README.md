@@ -1169,6 +1169,14 @@ https://www.mdpi.com/2071-1050/12/9/3942
 ZHAO, W.; LV, J.; YAO, X.; ZHAO, J.; JIN, Z.; QIANG, Y.; CHE, Z.; WEI, C. **Consortium Blockchain-Based Microgrid Market Transaction Research**. Energies, [S.l.], v. 12, n. 20, 2019.
 https://www.mdpi.com/1996-1073/12/20/3812
 
+Szabo, Nick. **The Idea of Smart Contracts**. 1997. https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/idea.html
+
+Szabo, Nick. **Smart Contracts**. 1994. https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart.contracts.html
+
+Szabo, Nick. **Smart Contracts: Building Blocks for Digital Markets**. 1996. https://www.truevaluemetrics.org/DBpdfs/BlockChain/Nick-Szabo-Smart-Contracts-Building-Blocks-for-Digital-Markets-1996-14591.pdf
+
+
+
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
 
