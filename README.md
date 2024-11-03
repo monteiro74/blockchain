@@ -5,9 +5,12 @@
 #### Objetivos: 
 ```
 1. Alguns conceitos sobre blockchain para serem discutidos em sala de aula. 
-2. Exemplos que podem ser citados e comentados nas disciplinas que necessitam do apoio de uma banco de dados e projeto de sistemas. 
-3. Este material é extremamente resumido e supõe que o leitor tem conhecimento básico de programação ou banco de dados. 
-4. Este não é um guia definitivo, mas um pequeno tutorial compilado para auxiliar alunos e devs. 
+2. Exemplos que podem ser citados e comentados nas disciplinas que necessitam do apoio
+ de uma banco de dados e projeto de sistemas. 
+3. Este material é extremamente resumido e supõe que o leitor tem conhecimento básico
+ de programação ou banco de dados. 
+4. Este não é um guia definitivo, mas um pequeno tutorial compilado para auxiliar
+ alunos e devs. 
 5. Este material esta em construção.
 ```
 
