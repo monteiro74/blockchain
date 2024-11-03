@@ -68,6 +68,7 @@ informação, programação e banco de dados.
 - [2. Blockchains privadas](#2-blockchains-privadas)
   - [2.1. Multhichain blockchain](#21-multhichain-blockchain)
   - [2.2. Hyperledger Fabric](#22-hyperledger-fabric)
+  - [2.3. Hyperledger Besu](#23-hyperledger-besu)
 - [3. Aplicabilidade](#3-aplicabilidade)
 - [4. Tendências](#4-tendências)
 - [5. Artigos](#5-artigos)
@@ -659,6 +660,11 @@ Outras referências:
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
+## 2.3. Hyperledger Besu
+
+Besu é um DLT para que possam ser criadas blockchains privadas.
+
+Documentação https://besu.hyperledger.org/private-networks
 
 
 --- 
