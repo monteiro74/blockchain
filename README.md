@@ -230,9 +230,14 @@ Ethereum é uma rede de computadores em todo o mundo que segue um conjunto de re
 
 Definições pelo ChatGPT:
 ```
-O Ethereum é uma plataforma de blockchain descentralizada, projetada para suportar contratos inteligentes e aplicativos descentralizados (dApps). 
-Ele foi criado para expandir as funcionalidades das blockchains convencionais, permitindo que desenvolvedores criem e executem programas complexos diretamente na rede.
-Em resumo, o Ethereum é uma plataforma blockchain versátil que permite que desenvolvedores criem, executem e interajam com uma ampla variedade de aplicativos descentralizados e contratos inteligentes.
+O Ethereum é uma plataforma de blockchain descentralizada, projetada para suportar
+ contratos inteligentes e aplicativos descentralizados (dApps). 
+Ele foi criado para expandir as funcionalidades das blockchains convencionais, 
+permitindo que desenvolvedores criem e executem programas complexos diretamente
+ na rede.
+Em resumo, o Ethereum é uma plataforma blockchain versátil que permite que
+ desenvolvedores criem, executem e interajam com uma ampla variedade de 
+ aplicativos descentralizados e contratos inteligentes.
 ```
 
 **Pergunta para o ChatGPT:**
