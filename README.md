@@ -184,6 +184,18 @@ Um exemplo de implementação de DAG é o sistema de arquivos interplanetário, 
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
+#### 1.5.1.1. IOTA
+
+https://www.iota.org/
+
+#### 1.5.1.2. Hedera
+
+https://hedera.com/
+
+#### 1.5.1.3. Obyte6
+
+https://obyte.org/technology
+
 ### 1.5.2. Blockchain
 
 
@@ -449,25 +461,33 @@ Carteira em software.
 
 [Metamask](https://metamask.io/).
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/512px-MetaMask_Fox.svg.png" alt="drawing" width="150"/>
+
+Imagem: Logo do projeto Metamask, fonte da imagem: https://en.wikipedia.org/wiki/File:MetaMask_Fox.svg
+
 Metamask para [Google Chrome](https://chromewebstore.google.com/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn).
 
 Metamask para [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ether-metamask/).
 
 ### 1.7.3. Carteira em hardware
 
-[Safepal S1](https://www.amazon.com.br/Carteira-criptomoeda-armazenamento-multicriptomoeda-seguran%C3%A7a/dp/B07L83HND8).
+* [Safepal S1](https://www.amazon.com.br/Carteira-criptomoeda-armazenamento-multicriptomoeda-seguran%C3%A7a/dp/B07L83HND8).
 
-[Tangem](https://www.amazon.com.br/TANGEM-Carteira-criptogr%C3%A1fica-Armazenamento-confi%C3%A1vel/dp/B09Q1HF6MD?th=1).
+* [Tangem](https://www.amazon.com.br/TANGEM-Carteira-criptogr%C3%A1fica-Armazenamento-confi%C3%A1vel/dp/B09Q1HF6MD?th=1).
 
-[Keystone](https://www.amazon.com.br/Keystone-criptomoeda-polegadas-criptografia-seguran%C3%A7a/dp/B0CCRP4Z59?th=1).
+* [Keystone](https://www.amazon.com.br/Keystone-criptomoeda-polegadas-criptografia-seguran%C3%A7a/dp/B0CCRP4Z59?th=1).
 
-[Nano X Crypto Hardware Wallet](https://www.amazon.com/Ledger-Nano-Cryptocurrency-Hardware-Bluetooth/dp/B07M6R4NK3/ref=sr_1_4?dib=eyJ2IjoiMSJ9.mnXBgBq9GFTNX2Rw_Ix5hO0jrALdfNWy3pCv0xPO05g-PyWiHQ6GDcSEXpkHkXd7IOYx85O2QOUsIXMEHUceeQNd2gWd-URz5_zCygea-Jl7Lh3emVEMnbSZhxYjz9iI6faUvyTk-j0IYpbQX49iFCA899Z7Z1HYz378tRDWjYJvNSkC4GLAZnwgx4QrNXNpmxKGxp4n7Vo0Gc9k1-0L6xBayerkEHlKSL31fKldwh4.0MRgPDJOXxRZKaKWdp_4-VEXosTaOWtA43U5EVjc4z4&dib_tag=se&keywords=crypto%2Bwallet&qid=1730589523&sr=8-4&th=1).
+* [Nano X Crypto Hardware Wallet](https://www.amazon.com/Ledger-Nano-Cryptocurrency-Hardware-Bluetooth/dp/B07M6R4NK3/ref=sr_1_4?dib=eyJ2IjoiMSJ9.mnXBgBq9GFTNX2Rw_Ix5hO0jrALdfNWy3pCv0xPO05g-PyWiHQ6GDcSEXpkHkXd7IOYx85O2QOUsIXMEHUceeQNd2gWd-URz5_zCygea-Jl7Lh3emVEMnbSZhxYjz9iI6faUvyTk-j0IYpbQX49iFCA899Z7Z1HYz378tRDWjYJvNSkC4GLAZnwgx4QrNXNpmxKGxp4n7Vo0Gc9k1-0L6xBayerkEHlKSL31fKldwh4.0MRgPDJOXxRZKaKWdp_4-VEXosTaOWtA43U5EVjc4z4&dib_tag=se&keywords=crypto%2Bwallet&qid=1730589523&sr=8-4&th=1).
 
-[Trezor One + Billfodl](https://www.amazon.com.br/Trezor-One-Billfodl-Cryptocoin-armazenamento/dp/B07ZK3QD5C).
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Carteira-hardware-ledger.jpg/450px-Carteira-hardware-ledger.jpg" alt="drawing" width="200"/>
 
-[KleverSafe Hardware Wallet](https://www.amazon.com.br/KleverSafe-Hardware-Wallet-Blockchains-Seguran%C3%A7a/dp/B0CWVMV2B4/ref=sr_1_3?dib=eyJ2IjoiMSJ9.XXtGFSpM9uUUREqYbLYBnNy_JalzdXmWXatgVYHRm8Pgf6WNo5XOknG77kThE4z3t1npX23E04moCL1zDOONQif2dJn2cAm-djtxK9n8ssZKoTAaWLf8ziueeGddKzB02f_YfieYywzAoHpj8pfUBo2_jvz0vbLOGeMBaxoDNwaYLLgw6aLB7627njr4aPNt7QNNflMfWHLhix4uBC7l8pZZWOj0aS-Vhpw_LLdYO1hVqVE1T5P8oSJqt3rMTPQJWyNDh3Fw1aziYUiw3uVUxP-y3J_jPcQ3eDoBPBfgTsI.GjWvUwKT2Z3mtC3aGp9UByq78tLf0YIZsWB7JTGDhl8&dib_tag=se&keywords=cold+wallet&qid=1730589519&sr=8-3&ufe=app_do%3Aamzn1.fos.25548f35-0de7-44b3-b28e-0f56f3f96147).
+Imagem: Nano X, fonte da imagem: https://pt.wikipedia.org/wiki/Ficheiro:Carteira-hardware-ledger.jpg
 
-[OneKey Classic](https://www.amazon.com.br/Carteira-Crypto-Hardware-OneKey-Classic/dp/B0CH178FPR/ref=sr_1_8?dib=eyJ2IjoiMSJ9.XXtGFSpM9uUUREqYbLYBnNy_JalzdXmWXatgVYHRm8Pgf6WNo5XOknG77kThE4z3t1npX23E04moCL1zDOONQif2dJn2cAm-djtxK9n8ssZKoTAaWLf8ziueeGddKzB02f_YfieYywzAoHpj8pfUBo2_jvz0vbLOGeMBaxoDNwaYLLgw6aLB7627njr4aPNt7QNNflMfWHLhix4uBC7l8pZZWOj0aS-Vhpw_LLdYO1hVqVE1T5P8oSJqt3rMTPQJWyNDh3Fw1aziYUiw3uVUxP-y3J_jPcQ3eDoBPBfgTsI.GjWvUwKT2Z3mtC3aGp9UByq78tLf0YIZsWB7JTGDhl8&dib_tag=se&keywords=cold+wallet&qid=1730589519&sr=8-8&ufe=app_do%3Aamzn1.fos.25548f35-0de7-44b3-b28e-0f56f3f96147).
+* [Trezor One + Billfodl](https://www.amazon.com.br/Trezor-One-Billfodl-Cryptocoin-armazenamento/dp/B07ZK3QD5C).
+
+* [KleverSafe Hardware Wallet](https://www.amazon.com.br/KleverSafe-Hardware-Wallet-Blockchains-Seguran%C3%A7a/dp/B0CWVMV2B4/ref=sr_1_3?dib=eyJ2IjoiMSJ9.XXtGFSpM9uUUREqYbLYBnNy_JalzdXmWXatgVYHRm8Pgf6WNo5XOknG77kThE4z3t1npX23E04moCL1zDOONQif2dJn2cAm-djtxK9n8ssZKoTAaWLf8ziueeGddKzB02f_YfieYywzAoHpj8pfUBo2_jvz0vbLOGeMBaxoDNwaYLLgw6aLB7627njr4aPNt7QNNflMfWHLhix4uBC7l8pZZWOj0aS-Vhpw_LLdYO1hVqVE1T5P8oSJqt3rMTPQJWyNDh3Fw1aziYUiw3uVUxP-y3J_jPcQ3eDoBPBfgTsI.GjWvUwKT2Z3mtC3aGp9UByq78tLf0YIZsWB7JTGDhl8&dib_tag=se&keywords=cold+wallet&qid=1730589519&sr=8-3&ufe=app_do%3Aamzn1.fos.25548f35-0de7-44b3-b28e-0f56f3f96147).
+
+* [OneKey Classic](https://www.amazon.com.br/Carteira-Crypto-Hardware-OneKey-Classic/dp/B0CH178FPR/ref=sr_1_8?dib=eyJ2IjoiMSJ9.XXtGFSpM9uUUREqYbLYBnNy_JalzdXmWXatgVYHRm8Pgf6WNo5XOknG77kThE4z3t1npX23E04moCL1zDOONQif2dJn2cAm-djtxK9n8ssZKoTAaWLf8ziueeGddKzB02f_YfieYywzAoHpj8pfUBo2_jvz0vbLOGeMBaxoDNwaYLLgw6aLB7627njr4aPNt7QNNflMfWHLhix4uBC7l8pZZWOj0aS-Vhpw_LLdYO1hVqVE1T5P8oSJqt3rMTPQJWyNDh3Fw1aziYUiw3uVUxP-y3J_jPcQ3eDoBPBfgTsI.GjWvUwKT2Z3mtC3aGp9UByq78tLf0YIZsWB7JTGDhl8&dib_tag=se&keywords=cold+wallet&qid=1730589519&sr=8-8&ufe=app_do%3Aamzn1.fos.25548f35-0de7-44b3-b28e-0f56f3f96147).
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
@@ -716,6 +736,10 @@ Besu é um DLT para que possam ser criadas blockchains privadas.
 
 Documentação https://besu.hyperledger.org/private-networks
 
+
+## 2.4. Corda 
+
+https://corda.net/
 
 --- 
 # 3. Aplicabilidade 
