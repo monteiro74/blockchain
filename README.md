@@ -292,7 +292,7 @@ Figura 4: Exemplo simplificado de conceitos em python.
 
 ### 1.5.4. Alguns projetos de blockchain desde o surgimento até 2022
 
-Projetos de blockchain a partir do ano de criação até 2022: Hyperledger Fabric9, Multichain blockchain10, SAP blockchain11, Hyperledger Besu12, Oracle blockchain13, Hathor blockchain14, VMware VMBC15, Azure Confidential Ledger16, XO-DEX17, Nano18, Dragonchain19, Openchain20, GoQuorum21. Estes projetos de blockchain apresentam características de custo zero de transação (ou taxa zero), as quais podem ser explorada por blockchain privadas.
+Projetos de blockchain a partir do ano de criação até 2022: Hyperledger Fabric, Multichain blockchain, SAP blockchain, Hyperledger Besu, Oracle blockchain, [Hathor](https://hathor.network/), VMware VMBC, Azure Confidential Ledger, XO-DEX, Nano, Dragonchain, Openchain, GoQuorum. Estes projetos de blockchain apresentam características de custo zero de transação (ou taxa zero), as quais podem ser explorada por blockchain privadas.
 
 ![Alguns projetos de blockchain até 2022](https://raw.githubusercontent.com/monteiro74/blockchain/main/figuras/fig4.png)
 
