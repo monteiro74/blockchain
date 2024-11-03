@@ -48,7 +48,7 @@ informação, programação e banco de dados.
   - [1.6. Ethereum](#16-ethereum)
     - [1.6.1. EVM](#161-evm)
     - [1.6.2. Smart contracts](#162-smart-contracts)
-    - [1.6.3 ETH](#163-eth)
+    - [1.6.3. ETH](#163-eth)
     - [1.6.4. Gas fee](#164-gas-fee)
     - [1.6.5. IDE para programar com Ethereum](#165-ide-para-programar-com-ethereum)
   - [1.7. Wallets](#17-wallets)
@@ -68,16 +68,20 @@ informação, programação e banco de dados.
 - [2. Blockchains privadas](#2-blockchains-privadas)
   - [2.1. Multhichain blockchain](#21-multhichain-blockchain)
   - [2.2. Hyperledger Fabric](#22-hyperledger-fabric)
-- [3 Aplicabilidade](#3-aplicabilidade)
-- [4 Tendências](#4-tendências)
-- [5 Artigos](#5-artigos)
-- [6 Videos](#6-videos)
-- [7 Reportagens](#7-reportagens)
-- [8 Fontes](#8-fontes)
+- [3. Aplicabilidade](#3-aplicabilidade)
+- [4. Tendências](#4-tendências)
+- [5. Artigos](#5-artigos)
+- [6. Videos](#6-videos)
+- [7. Treinamentos](#7-treinamentos)
+- [8. Reportagens e artigos](#8-reportagens-e-artigos)
+  - [8.1. Sobre blockchain e bancos de dados](#81-sobre-blockchain-e-bancos-de-dados)
+  - [8.2. Artigos sobre criptomoedas](#82-artigos-sobre-criptomoedas)
+- [9. Fontes e referências diversas](#9-fontes-e-referências-diversas)
 - [Avisos \& licença](#avisos--licença)
   - [Aviso](#aviso)
   - [Licença](#licença)
 - [Estatísticas desta página](#estatísticas-desta-página)
+
 
 
 
@@ -670,7 +674,6 @@ Rastreabilidade de transações, por exemplo em uma cadeia logística cada etapa
 ![Cadeia logística](https://raw.githubusercontent.com/monteiro74/blockchain/main/figuras/fig6.png)
 
 Figura 7: Exemplo de cadeia logística.
-
 
 Registro imutável de informações
 
