@@ -751,7 +751,38 @@ https://trends.google.com.br/trends/explore?date=today%205-y&q=blockchain,%2Fg%2
 ---
 # 5. Videos
 
-[Bringing the power of blockchain to Azure SQL database and SQL Server with Ledger](https://learn.microsoft.com/en-us/shows/data-exposed/bringing-the-power-of-blockchain-to-azure-sql-database-and-sql-server-with-ledger-data-exposed)]
+[Lançamento da Rede Blockchain Brasil (RBB)](https://www.youtube.com/watch?v=Mhm8buV3lVs)
+
+[An Ethereum Mining Pool Halts All Services to Russia, People Send Bitcoin to Support Ukrainian Army](https://www.youtube.com/watch?v=EXj6ZDzmzEc)
+
+[Entre desilusão e esperança, bitcoin completa um ano em El Salvador | AFP](https://www.youtube.com/watch?v=rcmLhDYK3lg)
+
+[Fãs de NFT enchendo o saco na internet](https://www.youtube.com/watch?v=yPlyskebA08)
+
+[How I hacked a hardware crypto wallet and recovered $2 million](https://www.youtube.com/watch?v=dT9y-KQbqi4)
+
+[Ethereum Has A MAJOR Problem...](https://www.youtube.com/watch?v=UF6W4fo5D4o)
+
+[Ex-Miners Are STILL Living in La-La Land](https://www.youtube.com/watch?v=6BkfURk_kpE)
+
+[Binance Now Controls 80% of Bitcoin's Volume](https://www.youtube.com/watch?v=Mu9u1KFigEU)
+
+[Scams, Zealots, and Jet Skis: Life Inside the Crypto Scene | Spiraling](https://www.youtube.com/watch?v=x9hXfBo8Abo)
+
+[BITCOIN EM EL SALVADOR!](https://www.youtube.com/watch?v=0EgElzKK5Fo)
+
+[Bolsa Desiste de Blockchain e Investe em COBOL](https://www.youtube.com/watch?v=j89GXwU0E6A)
+
+[The Embarrassing DOWNFALL of the Bored Ape Yacht Club](https://www.youtube.com/watch?v=IYS_uuUjQbY)
+
+[The Death Of NFT Collections & Trading](https://www.youtube.com/watch?v=2JYlopnc3I8)
+
+[RANT - Why NFT Cartoons are a SCAM](https://www.youtube.com/watch?v=rDrppEZm6Gw)
+
+[CryptoLand - The Fyre festival of Crypto](https://www.youtube.com/watch?v=jo1Po3uY5Ww)
+
+[The (un)Believable Reality of CRYPTOLAND](https://www.youtube.com/watch?v=jTPByspA_4g)
+
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
