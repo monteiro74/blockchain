@@ -690,6 +690,8 @@ https://trends.google.com.br/trends/explore?date=today%205-y&q=blockchain,%2Fg%2
 
 1. [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
 
+2. [The Collapse Of Silvergate Bank](https://www.researchgate.net/publication/371701475_The_Collapse_of_Silvergate_Bank)
+
 Em desenvolvimento. 
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
@@ -709,7 +711,6 @@ Em desenvolvimento.
 [Chegada do DREX e o fim do dinheiro em espécie](https://livecoins.com.br/chegada-do-drex-e-fim-do-dinheiro-em-especie-pode-virar-audiencia-publica-na-camara/).
 
 [BC divulga as diretrizes do projeto-piloto do Real Digital](https://www.bcb.gov.br/detalhenoticia/667/noticia)
-
 
 [“Criptomoedas não valem nada”, afirma presidente do Banco Central Europeu](https://portaldobitcoin.uol.com.br/criptomoedas-nao-valem-nada-afirma-presidente-do-banco-central-europeu/)
 
@@ -757,7 +758,61 @@ Em desenvolvimento.
 
 [Manhã Cripto: Europa faz alerta sobre mineração de criptomoedas enquanto Bitcoin (BTC) recua e novo token da Aptos (APT) despenca 43%](https://portaldobitcoin.uol.com.br/manha-cripto-europa-faz-alerta-sobre-mineracao-de-criptomoedas-enquanto-bitcoin-btc-recua-e-novo-token-da-aptos-apt-despenca-43/)
 
+[Países da UE precisam estar prontos para bloquear a mineração de criptomoedas, diz Comissão Europeia](https://www.infomoney.com.br/mercados/paises-da-ue-precisam-estar-prontos-para-bloquear-a-mineracao-de-criptomoedas-diz-comissao-europeia/)
 
+[Empresário é preso por esquema de pirâmide que deu prejuízo de R$ 4 bilhões](https://www.correiobraziliense.com.br/brasil/2022/10/5045372-empresario-e-preso-no-rio-por-esquema-de-piramide-que-deu-prejuizo-de-rs-4-bi.html)
+
+[Maior mineradora de Bitcoin do mundo suspende pagamentos em cenário desafiador para criptos](https://www.infomoney.com.br/mercados/maior-mineradora-de-bitcoin-do-mundo-suspende-pagamentos-em-cenario-desafiador-para-criptos/)
+
+[“Eu avisei”, diz Nassim Taleb sobre crash das criptomoedas](https://livecoins.com.br/eu-avisei-nassim-taleb-crash-criptomoedas/)
+
+[FTX sofre hack bilionário e pede que usuários não acessem site](https://livecoins.com.br/ftx-sofre-hack-bilionario/)
+
+[“Jornalismo de merda”, CEO se irrita com notícia sobre reservas da Binance](https://livecoins.com.br/jornalismo-de-merda-reservas-da-binance/)
+
+[Outra gigante das criptomoedas pede falência após dizer que estava “tudo bem”](https://livecoins.com.br/mais-uma-gigante-das-criptomoedas-pede-falencia/)
+
+[Queda de helicóptero eleva para três as mortes misteriosas de chefões de criptomoedas](https://istoedinheiro.com.br/queda-de-helicoptero-eleva-para-tres-as-mortes-misteriosas-de-chefoes-de-criptomoedas/)
+
+[Third Crypto Boss Dies in Helicopter Crash](https://www.thegatewaypundit.com/2022/11/third-crypto-boss-dies-helicopter-crash/)
+
+[Vencedor do Nobel, Paul Krugman decreta o 'fim do Bitcoin'](https://g1.globo.com/economia/noticia/2022/12/05/vencedor-do-nobel-paul-krugman-decreta-o-fim-do-bitcoin.ghtml)
+
+[Clientes não conseguem sacar na Binance e se revoltam com exigência de “declaração renda”](https://livecoins.com.br/clientes-nao-conseguem-sacar-na-binance-e-se-revoltam-com-exigencia-de-declaracao-renda/)
+
+[Rússia realmente 'legalizou' a mineração de criptomoedas?](https://br.cointelegraph.com/news/russia-regulates-crypto-mining-no-full-legalization)
+
+[Crypto platform Paxful removes ETH from its marketplace](https://cointelegraph.com/news/crypto-platform-paxful-removes-eth-from-its-marketplace)
+
+[Core Scientific, uma das maiores mineradoras de Bitcoin, entra com pedido de falência](https://www.infomoney.com.br/mercados/core-scientific-uma-das-maiores-mineradoras-de-bitcoin-entra-com-pedido-de-falencia/)
+
+[China to roll out first national ‘digital asset’ marketplace – media](https://www.rt.com/business/569124-china-digital-asset-marketplace/)
+
+[Segunda maior empresa de caixas eletrônicos de bitcoin pede falência](https://livecoins.com.br/empresa-de-caixas-eletronicos-de-bitcoin-pede-falencia/)
+
+[Empresa de blockchain parceira de bancos pede falência](https://livecoins.com.br/empresa-de-blockchain-parceira-de-bancos-pede-falencia/)
+
+[Carteira de bitcoin pede que clientes saquem o mais rápido possível](https://livecoins.com.br/carteira-de-bitcoin-pede-que-clientes-saquem-o-mais-rapido-possivel/)
+
+[Brokers da Braiscompany tentam esconder relações e se demitem, mas já são alvos de investigação do MP](https://livecoins.com.br/brokers-da-braiscompany-tentam-esconder-alvo-de-investigacao-do-mp/)
+
+[Juiz determina prisão dos donos da Braiscompany e solicita aviso à Interpol](https://livecoins.com.br/juiz-determina-donos-braiscompany-interpol/)
+
+[1 ano depois de virar moeda oficial em El Salvador, bitcoin está 'esquecido' no país](https://exame.com/future-of-money/1-ano-depois-de-virar-moeda-oficial-em-el-salvador-bitcoin-esta-esquecido-no-pais/)
+
+[Más de 1.300 cajeros automáticos de bitcoin fueron desconectados en enero y febrero](https://www.criptonoticias.com/comunidad/adopcion/mas-1300-cajeros-automaticos-bitcoin-fueron-desconectados-enero-febrero/)
+
+[Retiran más de 1,300 cajeros automáticos de Bitcoin](https://www.hoycripto.com/criptomonedas/2023/03/02/Retiran-mas-de-1300-cajeros-automaticos-de-Bitcoin/)
+
+[El Salvador perde R$ 370 milhões com bitcoin, mas presidente defende criptomoeda](https://exame.com/future-of-money/el-salvador-perde-r-370-milhoes-com-bitcoin-mas-presidente-defende-criptomoeda/)
+
+[74% da população de El Salvador não usou bitcoin desde que moeda foi oficializada](https://www.cnnbrasil.com.br/economia/financas/74-da-populacao-de-el-salvador-nao-usou-bitcoin-desde-que-moeda-foi-oficializada/)
+
+[Crypto bank Silvergate sinks after delaying annual report](https://www.reuters.com/technology/silvergate-slumps-28-after-delaying-annual-report-warning-about-viability-2023-03-02/)
+
+[Venda seus bitcoins o mais rápido possível, diz homem que previu crise financeira de 2008](https://livecoins.com.br/venda-seus-bitcoin-s-o-mais-rapido-possivel-peter-schiff/)
+
+[Signature Bank é fechado por reguladores de Nova York na esteira da falência do SVB](https://www.infomoney.com.br/mercados/signature-bank-e-fechado-por-reguladores-de-nova-york-na-esteira-da-falencia-do-svb/)
 
 
 
