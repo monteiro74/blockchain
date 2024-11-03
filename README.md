@@ -90,8 +90,6 @@ informação, programação e banco de dados.
 
 
 
-
-
 ---
 # 1 Conceitos
 
@@ -529,7 +527,7 @@ Fonte: https://www.investopedia.com/terms/b/bitcoin-mining.asp
 
 ## 1.9. Consenso
 
-É um sistema que valida uma transação e a marca como autêntica. Este mecanismo lista todas as transações válidas de uma moeda em uma blockchain para construir confiança na moeda entre os comerciantes. Diversas moedas, como Bitcoin, Ethereum etc., utilizam este sistema.
+É um sistema que valida uma transação e a marca como autêntica. Este mecanismo lista todas as transações válidas de uma moeda em uma blockchain para construir confiança na moeda entre os comerciantes. Diversas moedas, como Bitcoin, Ethereum etc, utilizam este sistema (também chamado de "protocolo de consenso").
 
 ### 1.9.1. PoW
 
