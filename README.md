@@ -814,6 +814,55 @@ Em desenvolvimento.
 
 [Signature Bank é fechado por reguladores de Nova York na esteira da falência do SVB](https://www.infomoney.com.br/mercados/signature-bank-e-fechado-por-reguladores-de-nova-york-na-esteira-da-falencia-do-svb/)
 
+[Stablecoin USD Coin (USDC) perde a paridade com o dólar em meio à crise do SVB; veja como o mercado cripto foi afetado pela falência no banco](https://www.seudinheiro.com/2023/criptomoedas/stablecoin-usd-coin-usdc-perde-a-paridade-com-o-dolar-em-meio-a-crise-do-svb-veja-como-o-mercado-cripto-foi-afetado-pela-falencia-no-banco-julw/)
+
+[La Silicon Valley Bank investiva in menzogne. Hi-tech](https://www.maurizioblondet.it/la-silicon-valley-bank-investiva-in-menzogne-hi-tech/)
+
+[South Korean Crypto Fugitive Charged With Forgery In Montenegro](https://www.rferl.org/a/montenegro-confirm-do-kwon-terraform/32332770.html)
+
+[Transacciones de bitcoin en espera se acumulan a niveles récords](https://www.criptonoticias.com/mineria/transacciones-bitcoin-espera-acumulan-niveles-records/)
+
+[Projeto de casal entusiasta de bitcoin caçado pelo governo da Tailândia quase vira sucata](https://portaldobitcoin.uol.com.br/projeto-de-casal-entusiasta-de-bitcoin-cacado-pelo-governo-da-tailandia-quase-vira-sucata/)
+
+[CPI das criptomoedas deverá investigar o caso G.A.S Consultoria, diz Caio Vianna](https://www.portalviu.com.br/dnews/cpi-das-criptomoedas-devera-investigar-o-caso-g-a-s-consultoria-diz-caio-vianna)
+
+[Binance faces scrutiny in Brazil, exec summoned to testify before Congress](https://cointelegraph.com/news/binance-scrutiny-in-brazil-as-government-demands-executive-testimony)
+
+[BlackRock está promovendo o maior Ponzi da história”, diz professor da Unicamp](https://livecoins.com.br/blackrock-esta-promovendo-o-maior-ponzi-da-historia/#amp_tf=De%20%251%24s&aoh=16887242600313&csi=0&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Flivecoins.com.br%2Fblackrock-esta-promovendo-o-maior-ponzi-da-historia%2F)
+
+[Remember when NFTs sold for millions of dollars? 95% of the digital collectibles may now be worthless.](https://markets.businessinsider.com/news/currencies/nft-market-crypto-digital-assets-investors-messari-mainnet-currency-tokens-2023-9)
+
+[Bored Ape Yacht Club Prices Crash to Two-Year Low, Down 88% From Peak](https://decrypt.co/147201/bored-ape-yacht-club-prices-crash-two-year-low-down-88-peak)
+
+[Bitcoin mining manufacturer can’t pay staff – report](https://www.rt.com/business/584561-crypto-mining-bitmain-stop-pay/)
+
+[Bitmain suspends employee pay amid financial turmoil](https://cryptoslate.com/bitmain-suspends-employee-pay-amid-financial-turmoil/)
+
+[Binance and CEO Plead Guilty to Federal Charges in $4B Resolution](https://www.justice.gov/opa/pr/binance-and-ceo-plead-guilty-federal-charges-4b-resolution)
+
+[Inside Binance’s Guilty Plea and the Biggest Fine in Crypto History](https://www.wsj.com/finance/inside-binances-guilty-plea-and-the-biggest-fine-in-crypto-history-e959fca0)
+
+[“Bolha das criptomoedas vai estourar em 2024”, diz o historiador](https://livecoins.com.br/bolha-das-criptomoedas-vai-estourar-em-2024/)
+
+[Crypto investor 'bitcoin Jesus' arrested and charged by the Justice Department with $48 million tax evasion](https://markets.businessinsider.com/news/currencies/bitcoin-jesus-tax-evasion-roger-ver-doj-crypto-crime-btc-2024-5#:~:text=%22Bitcoin%20Jesus%22%20Roger%20Ver%20was,the%20%22bitcoin%20Jesus%22%20nickname.)
+
+[‘Bitcoin Jesus’ Arrested in Spain for Evading $48 Million in US Taxes](https://www.financemagnates.com/cryptocurrency/bitcoin-jesus-arrested-in-spain-for-evading-48-million-in-us-taxes/)
+
+[Binance's alleged seizure of Palestinian crypto funds sparks fury](https://www.aa.com.tr/en/economy/binances-alleged-seizure-of-palestinian-crypto-funds-sparks-fury/3315443#:~:text=Binance%20denies%20claim%2C%20stating%20only,linked%20to%20'illicit%20funds'%20affected&text=Cryptocurrency%20giant%20Binance%20has%20been,Israel%20Defense%20Forces%20(IDF).)
+
+[Pelo RS: Receita Federal e Polícia Federal deflagram operação contra fraudes com criptomoedas](https://rdplanalto.com/pelo-rs-receita-federal-e-policia-federal-deflagram-operacao-contra-fraudes-com-criptomoedas/)
+
+[Governo de Honduras fecha cidade bitcoin privada de Próspera](https://livecoins.com.br/governo-de-honduras-fecha-cidade-bitcoin-privada-de-prospera/)
+
+[Vitalik Buterin propõe mudanças no Ethereum: “risco de centralização”](https://livecoins.com.br/vitalik-buterin-propoe-mudancas-no-ethereum-risco-de-centralizacao/)
+
+[Chegada do Drex e fim do dinheiro em espécie pode virar audiência pública na Câmara](https://livecoins.com.br/chegada-do-drex-e-fim-do-dinheiro-em-especie-pode-virar-audiencia-publica-na-camara/)
+
+[Dead Coins: Over 50% of Cryptocurrencies Have Failed](https://www.coingecko.com/research/publications/how-many-cryptocurrencies-failed)
+
+[Estudo mostra que mais de 50% das criptomoedas listadas desde 2014 falharam](https://www.binance.com/pt-BR/square/post/2024-01-21-study-shows-over-50-of-cryptocurrencies-listed-since-2014-have-failed-3052366434089)
+
+[Governo dos EUA acusa KuCoin de lavar US$ 4 bilhões em fundos do crime](https://portaldobitcoin.uol.com.br/governo-dos-eua-acusa-kucoin-de-lavar-us-4-bilhoes-em-fundos-do-crime/amp/)
 
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
