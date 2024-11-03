@@ -935,230 +935,228 @@ Diversas fontes de pesquisa sobre blockchain:
 
 [The Collapse Of Silvergate Bank](https://www.researchgate.net/publication/371701475_The_Collapse_of_Silvergate_Bank)
 
-AGI, M. A.; JHA, A. K. Blockchain technology in the supply chain: an integrated theoretical perspective of organizational adoption. International Journal of Production Economics, [S.l.], v. 247, p. 108458, 2022.
+AGI, M. A.; JHA, A. K. **Blockchain technology in the supply chain: an integrated theoretical perspective of organizational adoption**. International Journal of Production Economics, [S.l.], v. 247, p. 108458, 2022.
 https://www.sciencedirect.com/science/article/pii/S0925527322000512
 
 
-ANTONOPOULOS, P.; KAUSHIK, R.; KODAVALLA, H.; ROSALES ACEVES, S.; WONG, R.; ANDERSON, J.; SZYMASZEK, J. SQL Ledger: cryptographically verifiable data in azure sql database. In: INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, 2021., 2021, New York, NY, USA Proceedings. Association for Computing Machinery, 2021. p. 2437–2449. (SIGMOD ’21).
+ANTONOPOULOS, P.; KAUSHIK, R.; KODAVALLA, H.; ROSALES ACEVES, S.; WONG, R.; ANDERSON, J.; SZYMASZEK, J. **SQL Ledger: cryptographically verifiable data in azure sql database**. In: INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, 2021., 2021, New York, NY, USA Proceedings. Association for Computing Machinery, 2021. p. 2437–2449. (SIGMOD ’21).
 https://dl.acm.org/doi/abs/10.1145/3448016.3457558
 
-BASSILIOS, J. OECD adopts recommendations on blockchain and other DLT. Accessed: 2022-10-20.
+BASSILIOS, J. **OECD adopts recommendations on blockchain and other DLT**. Accessed: 2022-10-20.
 https://www.oecd.org/daf/blockchain/oecd-recommendation-on-blockchain-and-other-dlt.htm
 
 
-BERAWI, M. A.; REYES, G.; SARI, M.; SAROJI, G. Developing Public-Private Partnership Model with Blockchain-Based Crowdfunding Concept for Port City Project. In: ASSOCIATION FOR COMPUTING MACHINERY, 2021, New York, NY, USA. Anais. Association for Computing Machinery, 2021. (SPBPU IDE ’20).
+BERAWI, M. A.; REYES, G.; SARI, M.; SAROJI, G. **Developing Public-Private Partnership Model with Blockchain-Based Crowdfunding Concept for Port City Project**. In: ASSOCIATION FOR COMPUTING MACHINERY, 2021, New York, NY, USA. Anais. Association for Computing Machinery, 2021. (SPBPU IDE ’20).
 https://dl.acm.org/doi/abs/10.1145/3444465.3444476
 
-
-BROOKBANKS, M. M.; PARRY, G. The impact of a blockchain platform on trust in established relationships: a case study of wine supply chains. Supply Chain Management, [S.l.], 2022.
+BROOKBANKS, M. M.; PARRY, G. **The impact of a blockchain platform on trust in established relationships: a case study of wine supply chains**. Supply Chain Management, [S.l.], 2022.
 https://www.emerald.com/insight/content/doi/10.1108/SCM-05-2021-0227/full/html
 
-BUSH, K. Blockchain: novel provenance applications. Washington, DC: Congressional Research Service, 2022. (R47064).
+BUSH, K. **Blockchain: novel provenance applications**. Washington, DC: Congressional Research Service, 2022. (R47064).
 https://sgp.fas.org/crs/misc/R47064.pdf
 
-BUSTAMANTE, P.; CAI, M.; GOMEZ, M.; HARRIS, C.; KRISHNAMURTHY, P.; LAW, W.; MADISON, M. J.; MURTAZASHVILI, I.; MURTAZASHVILI, J. B.; MYLOVANOV, T.; SHAPOVAL, N.; VEE, A.; WEISS, M. Government by Code? Blockchain Applications to Public Sector Governance. Frontiers in Blockchain, [S.l.], v. 5, 2022.
+BUSTAMANTE, P.; CAI, M.; GOMEZ, M.; HARRIS, C.; KRISHNAMURTHY, P.; LAW, W.; MADISON, M. J.; MURTAZASHVILI, I.; MURTAZASHVILI, J. B.; MYLOVANOV, T.; SHAPOVAL, N.; VEE, A.; WEISS, M. **Government by Code? Blockchain Applications to Public Sector Governance**. Frontiers in Blockchain, [S.l.], v. 5, 2022.
 https://www.frontiersin.org/articles/10.3389/fbloc.2022.869665/full
 
-CAGIGAS, D.; CLIFTON, J.; DIAZ-FUENTES, D.; FERNáNDEZ-GUTIéRREZ, M. Blockchain for Public Services: a systematic literature review. IEEE Access, [S.l.], v. 9, p. 13904–13921, 2021. CAI, Z.; YANG, G.; XU, S.; ZANG, C.; CHEN, J.; HANG, P.; YANG, B. RBaaS: a robust blockchain as a service paradigm in cloud-edge collaborative environment. IEEE Access, [S.l.], v. 10, p. 35437–35444, 2022.
+CAGIGAS, D.; CLIFTON, J.; DIAZ-FUENTES, D.; FERNáNDEZ-GUTIéRREZ, M. **Blockchain for Public Services: a systematic literature review**. IEEE Access, [S.l.], v. 9, p. 13904–13921, 2021. CAI, Z.; YANG, G.; XU, S.; ZANG, C.; CHEN, J.; HANG, P.; YANG, B. RBaaS: a robust blockchain as a service paradigm in cloud-edge collaborative environment. IEEE Access, [S.l.], v. 10, p. 35437–35444, 2022.
 https://ieeexplore.ieee.org/document/9326290
 
-CHARLON, F. Overview of Openchain. 2017.
+CHARLON, F. **Overview of Openchain**. 2017.
 https://docs.openchain.org/_/downloads/en/latest/pdf/ e https://docs.openchain.org/en/latest/general/overview.html
 
-CHARLON, F. Openchain modules Storage engines. 2015.
+CHARLON, F. **Openchain modules Storage engines**. 2015.
 https://docs.openchain.org/en/latest/general/modules.html#storage-engines
 
-CHEN, S.; ZHANG, J.; SHI, R.; YAN, J.; KE, Q. A Comparative Testing on Performance of Blockchain and Relational Database: foundation for applying smart technology into current business systems. In: _____. . [S.l.: s.n.], 2018. p. 21–34.
+CHEN, S.; ZHANG, J.; SHI, R.; YAN, J.; KE, Q. **A Comparative Testing on Performance of Blockchain and Relational Database: foundation for applying smart technology into current business systems**. In: _____. . [S.l.: s.n.], 2018. p. 21–34.
 https://link.springer.com/chapter/10.1007/978-3-319-91125-0_2
 
-DAS, S.; SARAF, C.; KHAIRNAR, D. P. A Hyperledger Fabric Based Organizational Decentralized Access Control Solution. In: IEEE 7TH INTERNATIONAL CONFERENCE ON ENGINEERING TECHNOLOGIES AND APPLIED SCIENCES (ICETAS), 2020., 2020. Anais. . . [S.l.: s.n.], 2020. p. 1–6.
+DAS, S.; SARAF, C.; KHAIRNAR, D. P. **A Hyperledger Fabric Based Organizational Decentralized Access Control Solution**. In: IEEE 7TH INTERNATIONAL CONFERENCE ON ENGINEERING TECHNOLOGIES AND APPLIED SCIENCES (ICETAS), 2020., 2020. Anais. . . [S.l.: s.n.], 2020. p. 1–6.
 https://ieeexplore.ieee.org/document/9484187
 
-DIB, O.; BROUSMICHE, K.-L.; DURAND, A.; THEA, E.; BEN HAMIDA, E. Consortium blockchains: overview, applications and challenges. International Journal On Advances in Telecommunications, France, 2018.
+DIB, O.; BROUSMICHE, K.-L.; DURAND, A.; THEA, E.; BEN HAMIDA, E. **Consortium blockchains: overview, applications and challenges**. International Journal On Advances in Telecommunications, France, 2018.
 https://hal.science/hal-02271063
 
-EMBRAPA. Uso de blockchain para registro de dados de Cadeia de Suprimentos Verde da indústria sucroenergética. 2020.
+EMBRAPA. **Uso de blockchain para registro de dados de Cadeia de Suprimentos Verde da indústria sucroenergética**. 2020.
 https://www.alice.cnptia.embrapa.br/handle/doc/1126142
 
-ESMAEILIAN, B.; SARKIS, J.; LEWIS, K.; BEHDAD, S. Blockchain for the future of sustainable supply chain management in Industry 4.0. Resources, Conservation and Recycling, [S.l.], v. 163, p. 105064, 2020.
+ESMAEILIAN, B.; SARKIS, J.; LEWIS, K.; BEHDAD, S. **Blockchain for the future of sustainable supply chain management in Industry 4.0**. Resources, Conservation and Recycling, [S.l.], v. 163, p. 105064, 2020.
 https://www.sciencedirect.com/science/article/abs/pii/S0921344920303815
 
-GAO, U. S. G. A. O. Blockchain Emerging Technology Offers Benefits for Some Applications but Faces Challenges. Washington, DC0: Government Accountability Office, 2022. GAO-22-104625.
+GAO, U. S. G. A. O. **Blockchain Emerging Technology Offers Benefits for Some Applications but Faces Challenges**. Washington, DC0: Government Accountability Office, 2022. GAO-22-104625.
 https://www.gao.gov/products/gao-22-104625
 
-GERAKOUDI-VENTOURI, K. Review of studies of blockchain technology effects on the shipping industry. Journal of Shipping and Trade, [S.l.], v. 7, n. 1, p. 2, Jan 2022.
+GERAKOUDI-VENTOURI, K. **Review of studies of blockchain technology effects on the shipping industry**. Journal of Shipping and Trade, [S.l.], v. 7, n. 1, p. 2, Jan 2022.
 https://jshippingandtrade.springeropen.com/articles/10.1186/s41072-021-00105-2
 
-
-GUERPINAR, T.; GUADIANA, G.; ASTERIOS IOANNIDIS, P.; STRAUB, N.; HENKE, M. The Current State of Blockchain Applications in Supply Chain Management. In: THE 3RD INTERNATIONAL CONFERENCE ON BLOCKCHAIN TECHNOLOGY, 2021., 2021, New York, NY, USA. Anais. . . Association for Computing Machinery, 2021. p. 168–175. (ICBCT ’21).
+GUERPINAR, T.; GUADIANA, G.; ASTERIOS IOANNIDIS, P.; STRAUB, N.; HENKE, M. **The Current State of Blockchain Applications in Supply Chain Management**. In: THE 3RD INTERNATIONAL CONFERENCE ON BLOCKCHAIN TECHNOLOGY, 2021., 2021, New York, NY, USA. Anais. . . Association for Computing Machinery, 2021. p. 168–175. (ICBCT ’21).
 https://dl.acm.org/doi/fullHtml/10.1145/3460537.3460568
 
-HASAN, H.; ALHADHRAMI, E.; ALDHAHERI, A.; SALAH, K.; JAYARAMAN, R. Smart contract-based approach for efficient shipment management. Computers Industrial Engineering, [S.l.], v. 136, p. 149–159, 2019.
+HASAN, H.; ALHADHRAMI, E.; ALDHAHERI, A.; SALAH, K.; JAYARAMAN, R. **Smart contract-based approach for efficient shipment management**. Computers Industrial Engineering, [S.l.], v. 136, p. 149–159, 2019.
 https://www.sciencedirect.com/science/article/abs/pii/S0360835219304140
 
-HRGA, A.; CAPUDER, T.; ZARKO, I. Demystifying Distributed Ledger Technologies: limits, challenges and potentials in the energy sector. IEEE Access, [S.l.], v. PP, p. 1–1, 07 2020.
+HRGA, A.; CAPUDER, T.; ZARKO, I. **Demystifying Distributed Ledger Technologies: limits, challenges and potentials in the energy sector**. IEEE Access, [S.l.], v. PP, p. 1–1, 07 2020.
 https://ieeexplore.ieee.org/document/9136665
 
-IMERI, A.; AGOULMINE, N.; KHADRAOUI, D. Blockchain and IoT integrated approach for a trusted and secured process to manage the transportation of dangerous goods. Revista de sistemas e computação, Salvador, Brasil, v. 10, n. 1, p. 26–41, 2020.
+IMERI, A.; AGOULMINE, N.; KHADRAOUI, D. **Blockchain and IoT integrated approach for a trusted and secured process to manage the transportation of dangerous goods**. Revista de sistemas e computação, Salvador, Brasil, v. 10, n. 1, p. 26–41, 2020.
 https://revistas.unifacs.br/index.php/rsc/article/download/6444/4031
 
-IPFS. How IPFS works. 2022.
+IPFS. **How IPFS works**. 2022.
 https://docs.ipfs.tech/concepts/how-ipfs-works/
 
-ITI. ITI apoia BNDES em projeto de Blockchain. 2022.
+ITI. **ITI apoia BNDES em projeto de Blockchain**. 2022.
 https://www.gov.br/iti/pt-br/assuntos/noticias/indice-de-noticias/iti-apoia-bndes-em-projeto-de-blockchain
 
-ITU-T. Technical Specification FG DLT D3.1 Distributed ledger technology reference architecture. Geneva, Switzerland: ITU-T, 2019. (FG DLT D3.1).
+ITU-T. **Technical Specification FG DLT D3.1 Distributed ledger technology reference architecture. Geneva, Switzerland: ITU-T, 2019**. (FG DLT D3.1).
 https://www.itu.int/en/ITU-T/focusgroups/dlt/Documents/d31.pdf
 
-JABBAR, A.; DANI, S. Investigating the link between transaction and computational costs in a blockchain environment. International Journal of Production Research, [S.l.], v. 58, n. 11, p. 3423–3436, 2020.
+JABBAR, A.; DANI, S. **Investigating the link between transaction and computational costs in a blockchain environment**. International Journal of Production Research, [S.l.], v. 58, n. 11, p. 3423–3436, 2020.
 https://www.tandfonline.com/doi/full/10.1080/00207543.2020.1754487
 
-KAPSOULIS, N.; PSYCHAS, A.; PALAIOKRASSAS, G.; MARINAKIS, A.; LITKE, A.; VARVARIGOU, T.; BOUCHLIS, C.; RAOUZAIOU, A.; CALVO, G.; ESCUDERO SUBIRANA, J. Consortium Blockchain Smart Contracts for Musical Rights Governance in a Collective Management Organizations (CMOs) Use Case. Future Internet, [S.l.], v. 12, n. 8, 2020.
+KAPSOULIS, N.; PSYCHAS, A.; PALAIOKRASSAS, G.; MARINAKIS, A.; LITKE, A.; VARVARIGOU, T.; BOUCHLIS, C.; RAOUZAIOU, A.; CALVO, G.; ESCUDERO SUBIRANA, J. **Consortium Blockchain Smart Contracts for Musical Rights Governance in a Collective Management Organizations (CMOs) Use Case**. Future Internet, [S.l.], v. 12, n. 8, 2020.
 https://www.mdpi.com/1999-5903/12/8/134
 
-KERESZTES, R.; KOVáCS, I.; HORVáTH, A.; ZIMáNYI, K. Exploratory Analysis of Blockchain Platforms in Supply Chain Management. Economies, [S.l.], v. 10, n. 9, 2022.
+KERESZTES, R.; KOVáCS, I.; HORVáTH, A.; ZIMáNYI, K. **Exploratory Analysis of Blockchain Platforms in Supply Chain Management**. Economies, [S.l.], v. 10, n. 9, 2022.
 https://www.mdpi.com/2227-7099/10/9/206
 
-KHAN, D.; JUNG, L. T.; HASHMANI, M. A. Systematic Literature Review of Challenges in Blockchain Scalability. Applied Sciences, [S.l.], v. 11, n. 20, 2021.
+KHAN, D.; JUNG, L. T.; HASHMANI, M. A. **Systematic Literature Review of Challenges in Blockchain Scalability**. Applied Sciences, [S.l.], v. 11, n. 20, 2021.
 https://www.mdpi.com/2076-3417/11/20/9372
 
-KHAN, S.; SHAEL, M.; MAJDALAWIEH, M.; NIZAMUDDIN, N.; NICHO, M. Blockchain for Governments: the case of the dubai government. Sustainability, [S.l.], v. 14, n. 11, 2022.
+KHAN, S.; SHAEL, M.; MAJDALAWIEH, M.; NIZAMUDDIN, N.; NICHO, M. **Blockchain for Governments: the case of the dubai government**. Sustainability, [S.l.], v. 14, n. 11, 2022.
 https://www.mdpi.com/2071-1050/14/11/6576
 
-KLEMENS, S. How long does a bitcoin transaction take? bitcoin unconfirmed transactions. [S.l.]: Exodus Crypto News amp; Insights, 2021.
+KLEMENS, S. **How long does a bitcoin transaction take? bitcoin unconfirmed transactions**. [S.l.]: Exodus Crypto News amp; Insights, 2021.
 https://coinmarketcap.com/academy/article/how-long-does-a-bitcoin-transaction-take
 
-KOHLI, V.; CHAKRAVARTY, S.; CHAMOLA, V.; SANGWAN, K. S.; ZEADALLY, S. An analysis of energy consumption and carbon footprints of cryptocurrencies and possible solutions. Digital Communications and Networks, [S.l.], 2022.
+KOHLI, V.; CHAKRAVARTY, S.; CHAMOLA, V.; SANGWAN, K. S.; ZEADALLY, S. **An analysis of energy consumption and carbon footprints of cryptocurrencies and possible solutions**. Digital Communications and Networks, [S.l.], 2022.
 https://www.sciencedirect.com/science/article/pii/S2352864822001390
 
-KOMOLAFE, O. Solana faster than Algorand and TRON – The fastest blockchains in crypto space. [S.l.]: Crypto News Flash, 2022.
+KOMOLAFE, O. **Solana faster than Algorand and TRON – The fastest blockchains in crypto space**. [S.l.]: Crypto News Flash, 2022.
 https://www.crypto-news-flash.com/solana-faster-than-algorand-and-tron-the-fastest-blockchains-in-crypto-space/
 
-KOUSSEMA, R. A.; HAGA, H. Design and Implementation of Highly Secure Residents Management System Using Blockchain. Journal of Computer and Communications, [S.l.], v. 08No.09, p. 14, 2020.
+KOUSSEMA, R. A.; HAGA, H. **Design and Implementation of Highly Secure Residents Management System Using Blockchain**. Journal of Computer and Communications, [S.l.], v. 08No.09, p. 14, 2020.
 https://www.scirp.org/journal/paperinformation.aspx?paperid=102949
 
-KUO, T.-T.; ZAVALETA ROJAS, H.; OHNO, L. Comparison of blockchain platforms: a systematic review and healthcare examples. Journal of the American Medical Informatics Association, [S.l.], v. 26, n. 5, p. 462–478, 03 2019.
+KUO, T.-T.; ZAVALETA ROJAS, H.; OHNO, L. **Comparison of blockchain platforms: a systematic review and healthcare examples**. Journal of the American Medical Informatics Association, [S.l.], v. 26, n. 5, p. 462–478, 03 2019.
 https://pubmed.ncbi.nlm.nih.gov/30907419/
 
-LASMOLES, O.; T. DIALLO, M. Impacts of Blockchains on International Maritime Trade. Journal of Innovation Economics & Management, Louvain-la-Neuve, v. 37, n. 1, p. 91–116, 2022.
+LASMOLES, O.; T. DIALLO, M. **Impacts of Blockchains on International Maritime Trade**. Journal of Innovation Economics & Management, Louvain-la-Neuve, v. 37, n. 1, p. 91–116, 2022.
 https://www.cairn.info/revue-journal-of-innovation-economics-2022-1-page-91.htm
 
-LENGE, J.; MUSUMBU, K.; WANUKU, G.; SUNGU, P. Blockchain Technology as A Guarantee of Transparency in The Supply Chain of Commercial Enterprises. In: ASIA  SERVICE SCIENCES AND SOFTWARE ENGINEERING CONFERENCE, 2022., 2022, New York, NY, USA. Anais. Association for Computing Machinery, 2022. p. 1–7. (ASSE’22).
+LENGE, J.; MUSUMBU, K.; WANUKU, G.; SUNGU, P. **Blockchain Technology as A Guarantee of Transparency in The Supply Chain of Commercial Enterprises**. In: ASIA  SERVICE SCIENCES AND SOFTWARE ENGINEERING CONFERENCE, 2022., 2022, New York, NY, USA. Anais. Association for Computing Machinery, 2022. p. 1–7. (ASSE’22).
 https://dl.acm.org/doi/fullHtml/10.1145/3523181.3523182
 
-LI, N.; GUO, Y.; CHEN, Y.; CHAI, J. A Partitioned DAG Distributed Ledger with Local Consistency for Vehicular Reputation Management. Wireless Communications and Mobile Computing, [S.l.], v. 2022, p. 6833535, Mar 2022.
+LI, N.; GUO, Y.; CHEN, Y.; CHAI, J. **A Partitioned DAG Distributed Ledger with Local Consistency for Vehicular Reputation Management**. Wireless Communications and Mobile Computing, [S.l.], v. 2022, p. 6833535, Mar 2022.
 https://www.hindawi.com/journals/wcmc/2022/6833535/
 
-MAESA, D. D. F.; MORI, P. Blockchain 3.0 applications survey. Journal of Parallel and Distributed Computing, [S.l.], v. 138, p. 99 – 114, 2020.
+MAESA, D. D. F.; MORI, P. **Blockchain 3.0 applications survey**. Journal of Parallel and Distributed Computing, [S.l.], v. 138, p. 99 – 114, 2020.
 https://www.sciencedirect.com/science/article/abs/pii/S0743731519308664
 
-MANEVICH, Y.; BARGER, A.; TOCK, Y. Endorsement in Hyperledger Fabric via service discovery. IBM Journal of Research and Development, [S.l.], v. 63, n. 2/3, p. 2:1–2:9, 2019.
+MANEVICH, Y.; BARGER, A.; TOCK, Y. **Endorsement in Hyperledger Fabric via service discovery**. IBM Journal of Research and Development, [S.l.], v. 63, n. 2/3, p. 2:1–2:9, 2019.
 https://dl.acm.org/doi/10.1147/JRD.2019.2900647
 
-MASOOD, F.; FARIDI, A. An Overview of Distributed Ledger Technology and its Applications. International Journal of Computer Sciences and Engineering, [S.l.], v. 6, p. 422–427, 10 2018.
+MASOOD, F.; FARIDI, A. **An Overview of Distributed Ledger Technology and its Applications. International Journal of Computer Sciences and Engineering**, [S.l.], v. 6, p. 422–427, 10 2018.
 https://www.researchgate.net/publication/330139945_An_Overview_of_Distributed_Ledger_Technology_and_its_Applications
 
-MONTEIRO, E. S.; MIGNONI, M. E.; RIGHI, R. d. R.; KUNST, R. Blockchain e inteligência artificial associada no controle de packs agrotóxicos. RICA Revista Ibero-Americana de Ciências Ambientais, [S.l.], v. 12, n. 12, 2021. https://sustenere.inf.br/index.php/rica/article/view/6312
+MONTEIRO, E. S.; MIGNONI, M. E.; RIGHI, R. d. R.; KUNST, R. **Blockchain e inteligência artificial associada no controle de packs agrotóxicos**. RICA Revista Ibero-Americana de Ciências Ambientais, [S.l.], v. 12, n. 12, 2021. https://sustenere.inf.br/index.php/rica/article/view/6312
 
-MONTEIRO, E. S.; ROSA RIGHI, R. da; BARBOSA, J. L. V.; ALBERTI, A. M. APTM: a model for pervasive traceability of agrochemicals. Applied Sciences, [S.l.], v. 11, n. 17, 2021.
+MONTEIRO, E. S.; ROSA RIGHI, R. da; BARBOSA, J. L. V.; ALBERTI, A. M. **APTM: a model for pervasive traceability of agrochemicals**. Applied Sciences, [S.l.], v. 11, n. 17, 2021.
 https://www.mdpi.com/2076-3417/11/17/8149
 
 
-NIE, Y.; HE, X.-W.; CAI, W.-L.; LIU, Z.-H. Improve the security of Hyperledger Fabric by dynamically selecting endorsing peers. In: INTERNATIONAL SYMPOSIUM ON COMPUTER AND INFORMATION PROCESSING TECHNOLOGY (ISCIPT), 2021., 2021. Anais. . . [S.l.: s.n.], 2021. p. 659–663.
+NIE, Y.; HE, X.-W.; CAI, W.-L.; LIU, Z.-H. **Improve the security of Hyperledger Fabric by dynamically selecting endorsing peers**. In: INTERNATIONAL SYMPOSIUM ON COMPUTER AND INFORMATION PROCESSING TECHNOLOGY (ISCIPT), 2021., 2021. Anais. . . [S.l.: s.n.], 2021. p. 659–663.
 https://ieeexplore.ieee.org/document/9644558
 
-OCDE. Recommendation of the council on blockchain and other distributed ledger technologies. 2 Rue André Pascal, 75016 Paris, France: OCDE, 2022. Council at Ministerial.
+OCDE. **Recommendation of the council on blockchain and other distributed ledger technologies**. 2 Rue André Pascal, 75016 Paris, France: OCDE, 2022. Council at Ministerial.
 https://www.oecd.org/mcm/Recommendation-on-Blockchain-and-other-Distributed-Ledger-Technologies.pdf
 
-OGUNDARE, I. Cardano to scale to 1,000,000 tps with Hydra for micropayments on ADA blockchain. [S.l.]: Crypto News Flash, 2022.
+OGUNDARE, I. **Cardano to scale to 1,000,000 tps with Hydra for micropayments on ADA blockchain**. [S.l.]: Crypto News Flash, 2022.
 https://cardanofeed.com/cardano-to-scale-to-1000000-tps-with-hydra-for-micropayments-on-ada-blockchain-139538
 
-PARK, S.; KIM, H. DAGmap: multi-drone slam via a dag-based distributed ledger. Drones, [S.l.], v. 6, n. 2, 2022.
+PARK, S.; KIM, H. **DAGmap: multi-drone slam via a dag-based distributed ledger**. Drones, [S.l.], v. 6, n. 2, 2022.
 https://www.researchgate.net/publication/358001662_DAGmap_Multi-Drone_SLAM_via_a_DAG-Based_Distributed_Ledger
 
-PENG, Y.; DU, M.; LI, F.; CHENG, R.; SONG, D. FalconDB: blockchain-based collaborative database. In: ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, 2020., 2020, New York, NY, USA. Proceedings. . . Association for Computing Machinery, 2020. p. 637–652. (SIGMOD ’20).
+PENG, Y.; DU, M.; LI, F.; CHENG, R.; SONG, D. **FalconDB: blockchain-based collaborative database**. In: ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, 2020., 2020, New York, NY, USA. Proceedings. . . Association for Computing Machinery, 2020. p. 637–652. (SIGMOD ’20).
 https://dl.acm.org/doi/10.1145/3318464.3380594
 
-PEREZ, A. O.; DOMINGO-PALAOAG, T. Blockchain-based Model for Health Information Exchange: a case for simulated patient referrals using an electronic medical record. IOP Conference Series: Materials Science and Engineering, [S.l.], v. 1077, n. 1, p. 012059, feb 2021.
+PEREZ, A. O.; DOMINGO-PALAOAG, T. **Blockchain-based Model for Health Information Exchange: a case for simulated patient referrals using an electronic medical record**. IOP Conference Series: Materials Science and Engineering, [S.l.], v. 1077, n. 1, p. 012059, feb 2021.
 https://iopscience.iop.org/article/10.1088/1757-899X/1077/1/012059
 
-PRASHAR, D.; JHA, N.; JHA, S.; LEE, Y.; JOSHI, G. P. Blockchain-Based Traceability and Visibility for Agricultural Products: a decentralized way of ensuring food safety in india. Sustainability, [S.l.], v. 12, n. 8, 2020.
+PRASHAR, D.; JHA, N.; JHA, S.; LEE, Y.; JOSHI, G. P. **Blockchain-Based Traceability and Visibility for Agricultural Products: a decentralized way of ensuring food safety in india**. Sustainability, [S.l.], v. 12, n. 8, 2020.
 https://www.mdpi.com/2071-1050/12/8/3497
 
-PSARAS, Y.; SOARES, J. M.; DIAS, D. To the InterPlanetary File System–and Beyond!: peer-to-peer file sharing would make the internet far more efficient. IEEE Spectrum, [S.l.], v. 59, n. 11, p. 34–39, 2022.
+PSARAS, Y.; SOARES, J. M.; DIAS, D. **To the InterPlanetary File System–and Beyond!: peer-to-peer file sharing would make the internet far more efficient**. IEEE Spectrum, [S.l.], v. 59, n. 11, p. 34–39, 2022.
 https://ieeexplore.ieee.org/document/9941036
 
-PURBO, O.; SRIYANTO, S.; SUHENDRO, S.; RZ, A.; HERWANTO, R. Benchmark and comparison between hyperledger and MySQL. TELKOMNIKA (Telecommunication Computing Electronics and Control), [S.l.], v. 18, p. 705, 04 2020.
+PURBO, O.; SRIYANTO, S.; SUHENDRO, S.; RZ, A.; HERWANTO, R. **Benchmark and comparison between hyperledger and MySQL**. TELKOMNIKA (Telecommunication Computing Electronics and Control), [S.l.], v. 18, p. 705, 04 2020.
 https://pdfs.semanticscholar.org/fcd6/2761cfd48eb7974ae89b7953246d332f09a2.pdf
 
-RAUCHS, M.; GLIDDEN, A.; GORDON, B.; PIETERS, G.; RECANATINI, M.; ROSTAND, F.; VAGNEUR, K.; ZHANG, B. Distributed Ledger Technology Systems: a conceptual framework. SSRN Electronic Journal, [S.l.], 01 2018.
+RAUCHS, M.; GLIDDEN, A.; GORDON, B.; PIETERS, G.; RECANATINI, M.; ROSTAND, F.; VAGNEUR, K.; ZHANG, B. **Distributed Ledger Technology Systems: a conceptual framework**. SSRN Electronic Journal, [S.l.], 01 2018.
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3230013
 
-SA, R.; MOREIRA, L.; MACHADO, J. A modular approach to Hybrid Blockchain-based and Relational Database Architectures. In: ESTENDIDOS DO XXXVII SIMPóSIO BRASILEIRO DE BANCOS DE DADOS, 2022, Porto Alegre, RS, Brasil. Anais. . . SBC, 2022. p. 154–160.
+SA, R.; MOREIRA, L.; MACHADO, J. **A modular approach to Hybrid Blockchain-based and Relational Database Architectures**. In: ESTENDIDOS DO XXXVII SIMPóSIO BRASILEIRO DE BANCOS DE DADOS, 2022, Porto Alegre, RS, Brasil. Anais. . . SBC, 2022. p. 154–160.
 https://sol.sbc.org.br/index.php/sbbd_estendido/article/view/21858
 
-SADEQ, M. J.; RAYHAN KABIR, S.; AKTER, M.; FORHAT, R.; HAQUE, R.; AKHTARUZZAMAN, M. Integration of Blockchain and Remote Database Access Protocol-Based Database. In: FIFTH INTERNATIONAL CONGRESS ON INFORMATION AND COMMUNICATION TECHNOLOGY, 2021, Singapore. Proceedings. . . Springer Singapore, 2021. p. 533–539.
+SADEQ, M. J.; RAYHAN KABIR, S.; AKTER, M.; FORHAT, R.; HAQUE, R.; AKHTARUZZAMAN, M. **Integration of Blockchain and Remote Database Access Protocol-Based Database**. In: FIFTH INTERNATIONAL CONGRESS ON INFORMATION AND COMMUNICATION TECHNOLOGY, 2021, Singapore. Proceedings. . . Springer Singapore, 2021. p. 533–539.
 https://www.researchgate.net/publication/344194318_Integration_of_Blockchain_and_Remote_Database_Access_Protocol-based_Database
 
-SALAH, K.; REHMAN, M. H. U.; NIZAMUDDIN, N.; AL-FUQAHA, A. Blockchain for AI: review and open research challenges. IEEE Access, [S.l.], v. 7, p. 10127–10149, 2019.
+SALAH, K.; REHMAN, M. H. U.; NIZAMUDDIN, N.; AL-FUQAHA, A. **Blockchain for AI: review and open research challenges**. IEEE Access, [S.l.], v. 7, p. 10127–10149, 2019.
 https://ieeexplore.ieee.org/document/8598784
 
-SILVA, J. O. D. da; SANTOS, D. R. dos. Study of Blockchain Application in the Logistics Industry. Theoretical Economics Letters, [S.l.], v. 12, n. 2, p. 321–342, 4 2022.
+SILVA, J. O. D. da; SANTOS, D. R. dos. **Study of Blockchain Application in the Logistics Industry**. Theoretical Economics Letters, [S.l.], v. 12, n. 2, p. 321–342, 4 2022.
 https://www.scirp.org/journal/paperinformation.aspx?paperid=115674
 
-SINGH, A.; GUTUB, A.; NAYYAR, A.; KHAN, M. K. Redefining food safety traceability system through blockchain: findings, challenges and open issues. Multimedia Tools and Applications, [S.l.], Oct 2022.
+SINGH, A.; GUTUB, A.; NAYYAR, A.; KHAN, M. K. **Redefining food safety traceability system through blockchain: findings, challenges and open issues**. Multimedia Tools and Applications, [S.l.], Oct 2022.
 https://link.springer.com/article/10.1007/s11042-022-14006-4
 
-SINGH, N.; VARDHAN, M. Computing Optimal Block Size for Blockchain based Applications with Contradictory Objectives. Procedia Computer Science, [S.l.], v. 171, p. 1389–1398, 2020. Third International Conference on Computing and Network Communications (CoCoNet’19).
+SINGH, N.; VARDHAN, M. **Computing Optimal Block Size for Blockchain based Applications with Contradictory Objectives**. Procedia Computer Science, [S.l.], v. 171, p. 1389–1398, 2020. Third International Conference on Computing and Network Communications (CoCoNet’19).
 https://www.sciencedirect.com/science/article/pii/S1877050920311285
 
-SOLVEJ, K.; NATARAJAN, K.; HARISH, G.; LUSKIN, H. Distributed Ledger Technology (DLT) and blockchain. Washington, D.C., 2017.
+SOLVEJ, K.; NATARAJAN, K.; HARISH, G.; LUSKIN, H. **Distributed Ledger Technology (DLT) and blockchain**. Washington, D.C., 2017.
 https://openknowledge.worldbank.org/entities/publication/563eb421-4449-5319-953b-2ace8da058c0
 
-SULTAN, K.; RUHI, U.; LAKHANI, R. Conceptualizing Blockchains: characteristics & applications. CoRR, [S.l.], v. abs/1806.03693, 2018.
+SULTAN, K.; RUHI, U.; LAKHANI, R. *Conceptualizing Blockchains: characteristics & applications*. CoRR, [S.l.], v. abs/1806.03693, 2018.
 https://arxiv.org/abs/1806.03693
 
-SYLIM, P. G.; LIU, F.; MARCELO, A. B.; FONTELO, P. A. Blockchain Technology for Detecting Falsified and Substandard Drugs in Distribution: pharmaceutical supply chain intervention. JMIR Research Protocols, [S.l.], v. 7, 2018.
+SYLIM, P. G.; LIU, F.; MARCELO, A. B.; FONTELO, P. A. **Blockchain Technology for Detecting Falsified and Substandard Drugs in Distribution: pharmaceutical supply chain intervention**. JMIR Research Protocols, [S.l.], v. 7, 2018.
 https://pubmed.ncbi.nlm.nih.gov/30213780/
 
-SYSRFID: GENERATION OF SYNTHETIC DATA IN SUPPLY CHAINS, 2011, Rome, Italy. Anais. . . itAIS, 2011. p. 6.
+**SYSRFID: GENERATION OF SYNTHETIC DATA IN SUPPLY CHAINS**, 2011, Rome, Italy. Anais. . . itAIS, 2011. p. 6.
 http://www.itais.org/proceedings/itais2011/pdf/25.pdf
 
-TAN, E.; MAHULA, S.; CROMPVOETS, J. Blockchain governance in the public sector: a conceptual framework for public management. Government Information Quarterly, [S.l.], v. 39, p. 101625, 09 2021.
+TAN, E.; MAHULA, S.; CROMPVOETS, J. **Blockchain governance in the public sector: a conceptual framework for public management**. Government Information Quarterly, [S.l.], v. 39, p. 101625, 09 2021.
 https://www.sciencedirect.com/science/article/pii/S0740624X21000617
 
-TCU. TCU e BNDES lançam Rede Blockchain Brasil e definem próximos passos. 2022.
+TCU. **TCU e BNDES lançam Rede Blockchain Brasil e definem próximos passos**. 2022.
 https://portal.tcu.gov.br/imprensa/noticias/tcu-e-bndes-lancam-rede-blockchain-brasil-e-definem-proximos-passos.htm#:~:text=O%20Tribunal%20de%20Contas%20da,aplica%C3%A7%C3%A3o%20descentralizada%20ocorra%20em%202023.
 
-VIRIYASITAVAT, W.; HOONSOPON, D. Blockchain characteristics and consensus in modern business processes. Journal of Industrial Information Integration, [S.l.], v. 13, p. 32–39, 2019.
+VIRIYASITAVAT, W.; HOONSOPON, D. **Blockchain characteristics and consensus in modern business processes**. Journal of Industrial Information Integration, [S.l.], v. 13, p. 32–39, 2019.
 https://www.semanticscholar.org/paper/Blockchain-characteristics-and-consensus-in-modern-Viriyasitavat-Hoonsopon/cf58f0c53a2bd2c0a1ee7bec77920c3f80036ac2
 
-WANG, Z.; WANG, T.; HU, H.; GONG, J.; REN, X.; XIAO, Q. Blockchain-based framework for improving supply chain traceability and information sharing in precast construction. Automation in Construction, [S.l.], v. 111, p. 103063, 2020.
+WANG, Z.; WANG, T.; HU, H.; GONG, J.; REN, X.; XIAO, Q. **Blockchain-based framework for improving supply chain traceability and information sharing in precast construction**. Automation in Construction, [S.l.], v. 111, p. 103063, 2020.
 https://www.sciencedirect.com/science/article/abs/pii/S0926580519305059
 
-WORLDBANK. Blockchain & Distributed Ledger Technology (DLT). 2018. 1 p.
+WORLDBANK. **Blockchain & Distributed Ledger Technology (DLT)**. 2018. 1 p.
 https://openknowledge.worldbank.org/server/api/core/bitstreams/5166f335-35db-57d7-9c7e-110f7d018f79/content
 
-XU, S.; ZHAO, X.; LIU, Z. The impact of blockchain technology on the cost of food traceability supply chain. IOP Conference Series: Earth and Environmental Science, [S.l.], v. 615, n. 1, p. 012003, dec 2020.
+XU, S.; ZHAO, X.; LIU, Z. **The impact of blockchain technology on the cost of food traceability supply chain**. IOP Conference Series: Earth and Environmental Science, [S.l.], v. 615, n. 1, p. 012003, dec 2020.
 https://iopscience.iop.org/article/10.1088/1755-1315/615/1/012003/pdf
 
-XU, X.; LU, Q.; LIU, Y.; ZHU, L.; YAO, H.; VASILAKOS, A. V. Designing blockchain-based applications a case study for imported product traceability. Future Generation Computer Systems, [S.l.], v. 92, p. 399–406, 2019.
+XU, X.; LU, Q.; LIU, Y.; ZHU, L.; YAO, H.; VASILAKOS, A. V. **Designing blockchain-based applications a case study for imported product traceability**. Future Generation Computer Systems, [S.l.], v. 92, p. 399–406, 2019.
 https://www.sciencedirect.com/science/article/abs/pii/S0167739X18314298
 
-YADAV, J.; SHEVKAR, R. Performance-Based Analysis of Blockchain Scalability Metric. Tehnicki glasnik, [S.l.], v. 15, p. 133–142, 03 2021.
+YADAV, J.; SHEVKAR, R. **Performance-Based Analysis of Blockchain Scalability Metric**. Tehnicki glasnik, [S.l.], v. 15, p. 133–142, 03 2021.
 https://hrcak.srce.hr/file/367642
 
-YUE, K.-B.; CHANDRASEKAR, K.; AND, H. G. Storing and Querying Bitcoin Blockchain Using SQL Databases. Information Systems Education Journal (ISEDJ), Texas, USA, v. 8, 8 2019.
+YUE, K.-B.; CHANDRASEKAR, K.; AND, H. G. **Storing and Querying Bitcoin Blockchain Using SQL Databases**. Information Systems Education Journal (ISEDJ), Texas, USA, v. 8, 8 2019.
 https://files.eric.ed.gov/fulltext/EJ1219543.pdf
 
-ZAKARI, N.; AL-RAZGAN, M.; ALSAADI, A.; ALSHAREEF, H.; SAIGH, H. A.; ALASHAIKH, L.; ALHARBI, M.; ALOMAR, R.; ALOTAIBI, S. Blockchain technology in the pharmaceutical industry: a systematic review. PeerJ Comput. Sci., [S.l.], p. 26, 3 2022.
+ZAKARI, N.; AL-RAZGAN, M.; ALSAADI, A.; ALSHAREEF, H.; SAIGH, H. A.; ALASHAIKH, L.; ALHARBI, M.; ALOMAR, R.; ALOTAIBI, S. **Blockchain technology in the pharmaceutical industry: a systematic review**. PeerJ Comput. Sci., [S.l.], p. 26, 3 2022.
 https://peerj.com/articles/cs-840/
 
-ZHAO, F.; GUO, X.; CHAN, W. K. V. Individual Green Certificates on Blockchain: a simulation approach. Sustainability, [S.l.], v. 12, n. 9, 2020.
+ZHAO, F.; GUO, X.; CHAN, W. K. V. **Individual Green Certificates on Blockchain: a simulation approach**. Sustainability, [S.l.], v. 12, n. 9, 2020.
 https://www.mdpi.com/2071-1050/12/9/3942
 
-ZHAO, W.; LV, J.; YAO, X.; ZHAO, J.; JIN, Z.; QIANG, Y.; CHE, Z.; WEI, C. Consortium Blockchain-Based Microgrid Market Transaction Research. Energies, [S.l.], v. 12, n. 20, 2019.
+ZHAO, W.; LV, J.; YAO, X.; ZHAO, J.; JIN, Z.; QIANG, Y.; CHE, Z.; WEI, C. **Consortium Blockchain-Based Microgrid Market Transaction Research**. Energies, [S.l.], v. 12, n. 20, 2019.
 https://www.mdpi.com/1996-1073/12/20/3812
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
