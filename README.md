@@ -43,7 +43,8 @@ informação, programação e banco de dados.
     - [1.5.1. Gráfos acíclicos dirigidos](#151-gráfos-acíclicos-dirigidos)
       - [1.5.1.1. IOTA](#1511-iota)
       - [1.5.1.2. Hedera](#1512-hedera)
-      - [1.5.1.3. Obyte6](#1513-obyte6)
+      - [1.5.1.3. Obyte](#1513-obyte)
+    - [1.5.1.4. IPFS](#1514-ipfs)
     - [1.5.2. Blockchain](#152-blockchain)
       - [1.5.2.1. Exemplo em Python](#1521-exemplo-em-python)
     - [1.5.3. Diferentes tipos de DLT](#153-diferentes-tipos-de-dlt)
@@ -85,6 +86,7 @@ informação, programação e banco de dados.
   - [Aviso](#aviso)
   - [Licença](#licença)
 - [Estatísticas desta página](#estatísticas-desta-página)
+
 
 
 
