@@ -715,7 +715,7 @@ Em desenvolvimento.
 ---
 # 8. Reportagens e artigos
 
-## 8.1. Artigos sobre blockchain
+## 8.1. Sobre blockchain e bancos de dados
 
 [Blockchain by Example in SQL Server](https://benjaminsky.medium.com/blockchain-by-example-in-sql-server-8376b410128)
 
@@ -738,6 +738,13 @@ Em desenvolvimento.
 [Blockchain Platform Service](https://www.oracle.com/blockchain/cloud-platform/)
 
 [Blockchain Tables in Oracle Database 21c](https://oracle-base.com/articles/21c/blockchain-tables-21c)
+
+[Advancing Enterprise Blockchain with the Latest Generation of Oracle Blockchain Platform](https://blogs.oracle.com/blockchain/post/advancing-enterprise-blockchain-with-the-latest-generation-of-oracle-blockchain-platform)
+
+[Announcing Azure SQL Database ledger](https://techcommunity.microsoft.com/t5/azure-sql-blog/announcing-azure-sql-database-ledger/ba-p/2200401)
+
+[Distributed storage](https://fisco-bcos-documentation.readthedocs.io/en/latest/docs/manual/distributed_storage.html)
+
 
 
 ## 8.2. Artigos sobre criptomoedas
