@@ -196,7 +196,7 @@ https://www.iota.org/
 
 https://hedera.com/
 
-#### 1.5.1.3. Obyte6
+#### 1.5.1.3. Obyte
 
 https://obyte.org/technology
 
