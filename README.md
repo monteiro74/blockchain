@@ -776,6 +776,18 @@ Google trends usado para mostrar tendências:
 
 https://trends.google.com.br/trends/explore?date=today%205-y&q=blockchain,%2Fg%2F11g0g4sbp3,Ethereum&hl=pt-BR
 
+outro gráfico de tendência:
+
+https://trends.google.com.br/trends/explore?date=2020-04-10%202024-11-04&q=%2Fg%2F11g0g4sbp3,%2Fm%2F054_cb,NFT,blockchain,%2Fm%2F0vpj4_b&hl=pt-BR
+
+> [!WARNING]  
+> Se a página do Google Trends apresentar um erro é só recarregá-la novamente!
+
+
+
+![https://raw.githubusercontent.com/monteiro74/blockchain/refs/heads/main/figuras/tendencias.png](https://raw.githubusercontent.com/monteiro74/blockchain/refs/heads/main/figuras/tendencias.png)
+
+
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
 
