@@ -210,7 +210,7 @@ Obyte é uma plataforma descentralizada que utiliza uma estrutura de gráfico ac
 
 https://obyte.org/technology e https://wiki.obyte.org/Overview
 
-### 1.5.1.4. IPFS
+#### 1.5.1.4. IPFS
 
 O IPFS (InterPlanetary File System) é uma rede de armazenamento e compartilhamento de arquivos descentralizada que utiliza uma estrutura de gráfico acíclico direcionado (DAG) para organizar e distribuir dados. Em vez de depender de um servidor central, o IPFS permite que arquivos sejam divididos em pequenos blocos e armazenados de forma distribuída, onde cada bloco é identificado por uma “hash” exclusiva. Esse sistema facilita a recuperação de arquivos por meio de uma rede peer-to-peer, permitindo que o conteúdo seja acessado por sua identificação de hash, garantindo que ele permaneça imutável. Com o IPFS, é possível compartilhar e armazenar dados de forma segura, eficiente e resistente à censura, o que o torna útil para aplicações como o armazenamento de dados para blockchains, backup de arquivos e hospedagem de sites descentralizados.
 
