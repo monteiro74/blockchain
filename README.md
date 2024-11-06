@@ -190,17 +190,37 @@ Um exemplo de implementação de DAG é o sistema de arquivos interplanetário, 
 
 #### 1.5.1.1. IOTA
 
-https://www.iota.org/
+IOTA foi criada especificamente para a Internet das Coisas (IoT) e se diferencia das blockchains tradicionais por usar uma estrutura chamada Tangle em vez de blocos encadeados. O Tangle é um gráfico acíclico direcionado (DAG) que permite transações paralelas, eliminando a necessidade de mineradores e taxas de transação, tornando as operações rápidas e leves, ideais para dispositivos IoT com recursos limitados. Cada nova transação valida outras duas, promovendo a escalabilidade e evitando gargalos comuns em blockchains tradicionais. Essa arquitetura torna a IOTA uma solução promissora para ambientes de IoT, onde se espera uma grande quantidade de transações entre dispositivos conectados.
+
+![https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Tangleimage.jpg/600px-Tangleimage.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Tangleimage.jpg/600px-Tangleimage.jpg)
+
+Figura: Rede Tangle do IOTA.
+
+https://www.iota.org/ e https://wiki.iota.org/
 
 #### 1.5.1.2. Hedera
 
-https://hedera.com/
+A Hedera Hashgraph é uma rede distribuída que usa uma estrutura de gráfico acíclico direcionado (DAG) chamada Hashgraph, que se diferencia das blockchains convencionais por não organizar os dados em blocos sequenciais. Com o Hashgraph, as transações são processadas em paralelo e registradas por meio de um mecanismo de consenso assíncrono baseado em “gossip” (troca rápida de informações entre nós) e votação virtual. Esse modelo torna a Hedera altamente eficiente, com velocidade e capacidade de escalabilidade superiores à maioria das blockchains tradicionais, além de alcançar um consenso rápido e final sem a necessidade de mineração. Essas características fazem da Hedera uma plataforma robusta para aplicações que exigem alta taxa de transações, como pagamentos, tokenização de ativos, e autenticação de identidade.
+
+https://hedera.com/ e https://hedera.com/hh_whitepaper_v2.1-20200815.pdf
 
 #### 1.5.1.3. Obyte
 
-https://obyte.org/technology
+Obyte é uma plataforma descentralizada que utiliza uma estrutura de gráfico acíclico direcionado (DAG), permitindo transações sem a necessidade de blocos e mineradores, como ocorre em blockchains tradicionais. Nela, cada transação é um ponto no DAG que verifica duas transações anteriores, promovendo um modelo que elimina taxas de transação e facilita micropagamentos. Obyte também integra funcionalidades avançadas como contratos inteligentes, chamados de smart contracts, e oferece suporte para transações de dados confidenciais, mantendo a privacidade dos usuários. Sua arquitetura única a torna adequada para uma ampla gama de casos de uso, incluindo pagamentos, armazenamento seguro de dados e autenticação descentralizada, além de proporcionar uma rede eficiente e escalável sem depender de mineradores.
+
+https://obyte.org/technology e https://wiki.obyte.org/Overview
 
 ### 1.5.1.4. IPFS
+
+O IPFS (InterPlanetary File System) é uma rede de armazenamento e compartilhamento de arquivos descentralizada que utiliza uma estrutura de gráfico acíclico direcionado (DAG) para organizar e distribuir dados. Em vez de depender de um servidor central, o IPFS permite que arquivos sejam divididos em pequenos blocos e armazenados de forma distribuída, onde cada bloco é identificado por uma “hash” exclusiva. Esse sistema facilita a recuperação de arquivos por meio de uma rede peer-to-peer, permitindo que o conteúdo seja acessado por sua identificação de hash, garantindo que ele permaneça imutável. Com o IPFS, é possível compartilhar e armazenar dados de forma segura, eficiente e resistente à censura, o que o torna útil para aplicações como o armazenamento de dados para blockchains, backup de arquivos e hospedagem de sites descentralizados.
+
+![https://camo.githubusercontent.com/cd3b6a61e698bd1169dfca6ae4ea353908f4a0045fb5fd4739151085d46ad84d/68747470733a2f2f676174657761792e697066732e696f2f697066732f516d6156624259734542623334484d503159576545727253375833544236593974316951347342526e5476537761](https://camo.githubusercontent.com/cd3b6a61e698bd1169dfca6ae4ea353908f4a0045fb5fd4739151085d46ad84d/68747470733a2f2f676174657761792e697066732e696f2f697066732f516d6156624259734542623334484d503159576545727253375833544236593974316951347342526e5476537761)
+
+Figura: IPFS desktop, https://github.com/ipfs/ipfs-desktop.
+
+![https://camo.githubusercontent.com/d8fed8dcec620e69690c5378d13507be3605206890cb0373202203371460ed0b/68747470733a2f2f676174657761792e697066732e696f2f697066732f516d594875586974584d663578546a6951586d586471737a764d54414476724d357a413745716f446a3364335248](https://camo.githubusercontent.com/d8fed8dcec620e69690c5378d13507be3605206890cb0373202203371460ed0b/68747470733a2f2f676174657761792e697066732e696f2f697066732f516d594875586974584d663578546a6951586d586471737a764d54414476724d357a413745716f446a3364335248)
+
+Figura: IPFS desktop, https://github.com/ipfs/ipfs-desktop.
 
 https://ipfs.tech/
 
@@ -755,17 +775,21 @@ https://corda.net/
 # 3. Aplicabilidade 
 
 
-Desenvolvimento de criptomoedas
+1. Desenvolvimento de criptomoedas
 
-Comércio de ativos (NFT, tokens não fungíveis)
+2. Comércio de ativos (NFT, tokens não fungíveis)
 
-Rastreabilidade de transações, por exemplo em uma cadeia logística cada etapa (a cada saldo entre os players) pode ser feito um registro em uma blockchain, possibilitando a rastreabilidade dos ativos que estão em movimento:
+3. Rastreabilidade de transações, por exemplo em uma cadeia logística cada etapa (a cada saldo entre os players) pode ser feito um registro em uma blockchain, possibilitando a rastreabilidade dos ativos que estão em movimento:
 
 ![Cadeia logística](https://raw.githubusercontent.com/monteiro74/blockchain/main/figuras/fig6.png)
 
 Figura 10: Exemplo de cadeia logística.
 
-Registro imutável de informações
+4. Registro imutável de informações
+
+5. Ecônomia baseada em tokens
+
+6. Regulação em complience via blockchain.
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
@@ -943,6 +967,8 @@ https://trends.google.com.br/trends/explore?date=2020-04-10%202024-11-04&q=%2Fg%
 [Chegada do Drex e fim do dinheiro em espécie pode virar audiência pública na Câmara](https://livecoins.com.br/chegada-do-drex-e-fim-do-dinheiro-em-especie-pode-virar-audiencia-publica-na-camara/)
 
 [Dead Coins: Over 50% of Cryptocurrencies Have Failed](https://www.coingecko.com/research/publications/how-many-cryptocurrencies-failed)
+
+[Lista de blockchains](https://en.wikipedia.org/wiki/List_of_blockchains)
 
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
