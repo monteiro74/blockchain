@@ -830,7 +830,28 @@ Figura 14: Google trends, mundo, 2020-2024, todas as categorias, pesquisa na web
 
 [Bolsa Desiste de Blockchain e Investe em COBOL](https://www.youtube.com/watch?v=j89GXwU0E6A)
 
+
+## 5.1. Cripto games, NFT, NFT + Metaverso, outros videos relacionados
+
+Diversos videos com os 3 assuntos direta ou indiretamente relaiconados: NFT, Cripto e Metaverso.
+
 [The Embarrassing DOWNFALL of the Bored Ape Yacht Club](https://www.youtube.com/watch?v=IYS_uuUjQbY)
+
+[The "Web3" Metaverse: One Year Later](https://www.youtube.com/watch?v=cWcJejr3Fl4)
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
 
 
 
