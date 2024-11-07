@@ -79,7 +79,7 @@ Programa que implementa criptografia e assinatura de mensagem: https://www.openp
 
 ![https://upload.wikimedia.org/wikipedia/commons/0/01/Client_and_Server_Certificate.png](https://upload.wikimedia.org/wikipedia/commons/0/01/Client_and_Server_Certificate.png)
 
-Fonte da figura:
+Figura 1: Certificado digital do site Wikipedia. Fonte:
 https://pt.wikipedia.org/wiki/Certificado_digital#/media/Ficheiro:Client_and_Server_Certificate.png
 
 
@@ -95,7 +95,7 @@ Estrutura da ICP Brasil:
 
 ![https://www.gov.br/iti/pt-br/assuntos/icp-brasil/EcossistemaICPBrasil_2408221.png](https://www.gov.br/iti/pt-br/assuntos/icp-brasil/EcossistemaICPBrasil_2408221.png)
 
-Figura: Ecossistema da ICP-Brasil. Fonte da Figura: https://www.gov.br/iti/pt-br/assuntos/icp-brasil/ecossistema-icp-brasil).
+Figura 2: Ecossistema da ICP-Brasil. Fonte: https://www.gov.br/iti/pt-br/assuntos/icp-brasil/ecossistema-icp-brasil).
 
 [Navegação na Estrutura](https://estrutura.iti.gov.br/).
 
@@ -129,7 +129,7 @@ DLT podem ser divididas em duas classes:
 
 ![Exemplos de DLT](https://raw.githubusercontent.com/monteiro74/blockchain/main/figuras/fig1.png "Exemplos de DLT")
 
-Figura 1: As principais subdivisões e alguns exemplos.
+Figura 3: As principais subdivisões e alguns exemplos.
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
@@ -141,7 +141,7 @@ Cada transação no DAG é um vértice, cada vértice tem uma ou mais arestas em
  
 ![Exemplos de DAG](https://raw.githubusercontent.com/monteiro74/blockchain/main/figuras/fig2.png "Exemplos de DAG")
 
-Figura 2: Nós em um sistema distribuído.
+Figura 4: Nós em um sistema distribuído.
 
 São alguns exemplos de projetos que utilizam DAG: IOTA(é um DAG voltada para armazenar dados de IoT), NANO(é uma criptomoeda e uma plataforma para transação de valores ponto-a-ponto), Obyte(é uma DAG e criptomoeda), Hedera(é uma rede pública baseada em DAG e uma criptomoeda) e IPFS(é um sistema de arquivos distribuído, utilizado em uma rede ponto-a-ponto.). DAG é usada pelo IPFS onde cada identifcador tem um hash do conteúdo para um conteúdo, é usado para representar arquivos e diretórios, o IPFS quebra um arquivo em pedaços chamados de blocos, (IPFS, 2022).
 
@@ -157,7 +157,7 @@ IOTA foi criada especificamente para a Internet das Coisas (IoT) e se diferencia
 
 ![https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Tangleimage.jpg/600px-Tangleimage.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Tangleimage.jpg/600px-Tangleimage.jpg)
 
-Figura 3: Rede Tangle do IOTA.
+Figura 5: Rede Tangle do IOTA.
 
 https://www.iota.org/ e https://wiki.iota.org/
 
@@ -179,11 +179,11 @@ O IPFS (InterPlanetary File System) é uma rede de armazenamento e compartilhame
 
 ![https://camo.githubusercontent.com/cd3b6a61e698bd1169dfca6ae4ea353908f4a0045fb5fd4739151085d46ad84d/68747470733a2f2f676174657761792e697066732e696f2f697066732f516d6156624259734542623334484d503159576545727253375833544236593974316951347342526e5476537761](https://camo.githubusercontent.com/cd3b6a61e698bd1169dfca6ae4ea353908f4a0045fb5fd4739151085d46ad84d/68747470733a2f2f676174657761792e697066732e696f2f697066732f516d6156624259734542623334484d503159576545727253375833544236593974316951347342526e5476537761)
 
-Figura 4: IPFS desktop, https://github.com/ipfs/ipfs-desktop.
+Figura 6: IPFS desktop. Fonte: https://github.com/ipfs/ipfs-desktop.
 
 ![https://camo.githubusercontent.com/d8fed8dcec620e69690c5378d13507be3605206890cb0373202203371460ed0b/68747470733a2f2f676174657761792e697066732e696f2f697066732f516d594875586974584d663578546a6951586d586471737a764d54414476724d357a413745716f446a3364335248](https://camo.githubusercontent.com/d8fed8dcec620e69690c5378d13507be3605206890cb0373202203371460ed0b/68747470733a2f2f676174657761792e697066732e696f2f697066732f516d594875586974584d663578546a6951586d586471737a764d54414476724d357a413745716f446a3364335248)
 
-Figura 5: IPFS desktop, https://github.com/ipfs/ipfs-desktop.
+Figura 7: IPFS desktop. Fonte: https://github.com/ipfs/ipfs-desktop.
 
 https://ipfs.tech/
 
@@ -201,7 +201,7 @@ Em particular, as regras para a execução de transações ou operações são r
 
 ![Cadeia de blocos](https://raw.githubusercontent.com/monteiro74/blockchain/main/figuras/fig3.png "Cadeia de blocos")
 
-Figura 6: Exemplos de encadeamento de blocos.
+Figura 7: Exemplos de encadeamento de blocos.
 
 Artigo que iniciou com a ideia: [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf).
 
@@ -257,7 +257,7 @@ O exemplo acima rodando na IDE Spyder:
 
 ![https://raw.githubusercontent.com/monteiro74/blockchain/refs/heads/main/figuras/blockchain_python.png](https://raw.githubusercontent.com/monteiro74/blockchain/refs/heads/main/figuras/blockchain_python.png)
 
-Figura 7: Exemplo simplificado de conceitos em python.
+Figura 8: Exemplo simplificado de conceitos em python.
 
 
 ### 1.5.3. Diferentes tipos de DLT
@@ -279,7 +279,7 @@ Projetos de blockchain a partir do ano de criação até 2022: Hyperledger Fabri
 
 ![Alguns projetos de blockchain até 2022](https://raw.githubusercontent.com/monteiro74/blockchain/main/figuras/fig4.png)
 
-Figura 8: Linha do tempo de alguns projetos de blockchain.
+Figura 9: Linha do tempo de alguns projetos de blockchain.
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
@@ -397,7 +397,7 @@ Remix IDE:
 
 ![Remix IDE](https://raw.githubusercontent.com/monteiro74/blockchain/main/figuras/fig5.png)
 
-Figura 9: IDE Remix.
+Figura 10: IDE Remix.
 
 
 [Remix Ethereum](https://remix.ethereum.org/).
@@ -456,7 +456,7 @@ Carteira em software.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/512px-MetaMask_Fox.svg.png" alt="drawing" width="150"/>
 
-Figura 10: Logo do projeto Metamask, fonte da imagem: https://en.wikipedia.org/wiki/File:MetaMask_Fox.svg
+Figura 11: Logo do projeto Metamask, fonte da imagem: https://en.wikipedia.org/wiki/File:MetaMask_Fox.svg
 
 Metamask para [Google Chrome](https://chromewebstore.google.com/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn).
 
@@ -474,7 +474,7 @@ Metamask para [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ether-met
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Carteira-hardware-ledger.jpg/450px-Carteira-hardware-ledger.jpg" alt="drawing" width="200"/>
 
-Figura 11: Nano X, fonte da imagem: https://pt.wikipedia.org/wiki/Ficheiro:Carteira-hardware-ledger.jpg
+Figura 12: Nano X, fonte da imagem: https://pt.wikipedia.org/wiki/Ficheiro:Carteira-hardware-ledger.jpg
 
 * [Trezor One + Billfodl](https://www.amazon.com.br/Trezor-One-Billfodl-Cryptocoin-armazenamento/dp/B07ZK3QD5C).
 
@@ -681,7 +681,7 @@ Estrutura de uma rede Hyperledger Fabric:
 
 <img src="https://raw.githubusercontent.com/monteiro74/blockchain/main/figuras/fig7.png" alt="drawing" width="500"/>
 
-Figura 12: Exemplo de rede Hyperledger Fabric.
+Figura 13: Exemplo de rede Hyperledger Fabric.
 
 Fonte da figura: https://hyperledger-fabric.readthedocs.io/en/latest/network/network.html
 
@@ -746,7 +746,7 @@ https://corda.net/
 
 ![Cadeia logística](https://raw.githubusercontent.com/monteiro74/blockchain/main/figuras/fig6.png)
 
-Figura 13: Exemplo de cadeia logística.
+Figura 14: Exemplo de cadeia logística.
 
 4. Registro imutável de informações
 
@@ -774,7 +774,7 @@ https://trends.google.com.br/trends/explore?date=2020-04-10%202024-11-04&q=%2Fg%
 
 ![https://raw.githubusercontent.com/monteiro74/blockchain/refs/heads/main/figuras/tendencias.png](https://raw.githubusercontent.com/monteiro74/blockchain/refs/heads/main/figuras/tendencias.png)
 
-Figura 14: Google trends, mundo, 2020-2024, todas as categorias, pesquisa na web.
+Figura 15: Google trends, mundo, 2020-2024, todas as categorias, pesquisa na web. Captura em Novembro/2024.
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
