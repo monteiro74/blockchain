@@ -854,8 +854,9 @@ Figura 14: Google trends, mundo, 2020-2024, todas as categorias, pesquisa na web
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
----
 
+
+---
 # 6. Treinamentos
 
 [Get started with blockchain development](https://learn.microsoft.com/en-us/training/paths/ethereum-blockchain-development/)
@@ -872,6 +873,7 @@ Figura 14: Google trends, mundo, 2020-2024, todas as categorias, pesquisa na web
 
 [Blockchain Free learning and resources](https://skillsbuild.org/students/course-catalog/blockchain)
 
+[Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
 ---
 # 7. Reportagens e artigos
@@ -906,7 +908,7 @@ Figura 14: Google trends, mundo, 2020-2024, todas as categorias, pesquisa na web
 
 [Distributed storage](https://fisco-bcos-documentation.readthedocs.io/en/latest/docs/manual/distributed_storage.html)
 
-
+[Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
 ## 7.2. Artigos sobre criptomoedas, mineração e outros
 
@@ -983,7 +985,6 @@ Figura 14: Google trends, mundo, 2020-2024, todas as categorias, pesquisa na web
 [Dead Coins: Over 50% of Cryptocurrencies Have Failed](https://www.coingecko.com/research/publications/how-many-cryptocurrencies-failed)
 
 [Lista de blockchains](https://en.wikipedia.org/wiki/List_of_blockchains)
-
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
