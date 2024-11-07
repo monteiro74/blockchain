@@ -842,8 +842,11 @@ Figura 14: Google trends, mundo, 2020-2024, todas as categorias, pesquisa na web
 
 [The FTX Collapse Explained in 99 Seconds](https://www.youtube.com/watch?v=Ow-MN7qJnIY)
 
-[]()
+[FTX Collapsed…Here’s Why](https://www.youtube.com/watch?v=l3HfrRjWilQ)
 
+[Justiça determina que ‘Faraó dos Bitcoins’ pague R$ 19 bilhões para ressarcir vítimas](https://www.youtube.com/watch?v=C-4S4gFLyx0)
+
+[Mulher do "Faraó dos Bitcoins" é presa nos Estados Unidos | SBT Brasil (26/01/24)](https://www.youtube.com/watch?v=Rhk4sWnymxQ)
 
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
