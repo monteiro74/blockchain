@@ -30,6 +30,63 @@ informação, programação e banco de dados.
 ---
 # Sumário
 
+- [Sobre Blockchain e livros razão](#sobre-blockchain-e-livros-razão)
+      - [Objetivos:](#objetivos)
+      - [Observações:](#observações)
+- [Sumário](#sumário)
+- [1 Conceitos](#1-conceitos)
+  - [1.1. O problema de double spending](#11-o-problema-de-double-spending)
+  - [1.2. Criptografia de chave privada](#12-criptografia-de-chave-privada)
+  - [1.3. Critografia de chave pública](#13-critografia-de-chave-pública)
+  - [1.4. Certificado digital](#14-certificado-digital)
+  - [1.4.1. ICP Brasil](#141-icp-brasil)
+  - [1.5. Tecnologias de livro razão](#15-tecnologias-de-livro-razão)
+    - [1.5.1. Gráfos acíclicos dirigidos](#151-gráfos-acíclicos-dirigidos)
+      - [1.5.1.1. IOTA](#1511-iota)
+      - [1.5.1.2. Hedera](#1512-hedera)
+      - [1.5.1.3. Obyte](#1513-obyte)
+      - [1.5.1.4. IPFS](#1514-ipfs)
+    - [1.5.2. Blockchain](#152-blockchain)
+      - [1.5.2.1. Exemplo em Python](#1521-exemplo-em-python)
+    - [1.5.3. Diferentes tipos de DLT](#153-diferentes-tipos-de-dlt)
+    - [1.5.4. Alguns projetos de blockchain desde o surgimento até 2022](#154-alguns-projetos-de-blockchain-desde-o-surgimento-até-2022)
+  - [1.6. Ethereum](#16-ethereum)
+    - [1.6.1. EVM](#161-evm)
+    - [1.6.2. Smart contracts](#162-smart-contracts)
+    - [1.6.3. ETH](#163-eth)
+    - [1.6.4. Gas fee](#164-gas-fee)
+    - [1.6.5. IDE para programar com Ethereum](#165-ide-para-programar-com-ethereum)
+  - [1.7. Wallets](#17-wallets)
+    - [1.7.1. Carteiras, Contas, Chaves e Endereços no Ethereum](#171-carteiras-contas-chaves-e-endereços-no-ethereum)
+    - [1.7.2. Metamask](#172-metamask)
+    - [1.7.3. Carteira em hardware](#173-carteira-em-hardware)
+  - [1.8. Mining (mineração)](#18-mining-mineração)
+  - [1.9. Consenso](#19-consenso)
+    - [1.9.1. PoW](#191-pow)
+    - [1.9.2. PoS](#192-pos)
+    - [1.9.3. PoA](#193-poa)
+    - [1.9.4. Comparações PoW, PoS e PoA](#194-comparações-pow-pos-e-poa)
+  - [1.10. DeFi](#110-defi)
+  - [1.11. Blockchain Oracle](#111-blockchain-oracle)
+  - [1.14. NFT](#114-nft)
+  - [1.15. Stable Coin](#115-stable-coin)
+- [2. Blockchains privadas](#2-blockchains-privadas)
+  - [2.1. Multhichain blockchain](#21-multhichain-blockchain)
+  - [2.2. Hyperledger Fabric](#22-hyperledger-fabric)
+  - [2.3. Hyperledger Besu](#23-hyperledger-besu)
+  - [2.4. Corda](#24-corda)
+- [3. Aplicabilidade](#3-aplicabilidade)
+- [4. Tendências](#4-tendências)
+- [5. Videos](#5-videos)
+- [6. Treinamentos](#6-treinamentos)
+- [7. Reportagens e artigos](#7-reportagens-e-artigos)
+  - [7.1. Sobre blockchain e bancos de dados](#71-sobre-blockchain-e-bancos-de-dados)
+  - [7.2. Artigos sobre criptomoedas, mineração e outros](#72-artigos-sobre-criptomoedas-mineração-e-outros)
+- [8. Fontes e referências diversas](#8-fontes-e-referências-diversas)
+- [Avisos \& licença](#avisos--licença)
+  - [Aviso](#aviso)
+  - [Licença](#licença)
+- [Estatísticas desta página](#estatísticas-desta-página)
 
 
 
@@ -673,7 +730,11 @@ Outras referências:
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
-## 2.2. Hyperledger Fabric
+## 2.2. Hyperledger
+
+Hyperledger foi absorvida por https://www.lfdecentralizedtrust.org/about
+
+### 2.2.1. Hyperledger Fabric
 
 Hyperledger é um projeto open source de blockchain mantido pela Linux Foundation (seu principal patrocinador é a IBM). É uma blockchain permissionada. 
 
@@ -694,9 +755,7 @@ Fonte da figura: https://hyperledger-fabric.readthedocs.io/en/latest/network/net
 * Todas as 3 organizações possuem autoridades certificadoras CA0, CA1 e CA2.
 * S5 é um chaincode (é um smart contract) instalado nos peers P1 e P2.
 
-**Pergunta para o ChatGPT**:
-
-"*Hyperledger é uma cripto moeda ou um ambiente para execução de app distribuídas ?*"
+**Pergunta para o ChatGPT**: "*Hyperledger é uma cripto moeda ou um ambiente para execução de app distribuídas ?*"
 
 **Resposta**:
 
@@ -723,14 +782,16 @@ Outras referências:
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
-## 2.3. Hyperledger Besu
+### 2.2.2. Hyperledger Besu
 
 Besu é um DLT para que possam ser criadas blockchains privadas.
 
 Documentação https://besu.hyperledger.org/private-networks
 
 
-## 2.4. Corda 
+## 2.3. Corda 
+
+Corda é uma plataforma de blockchain desenvolvida especialmente para ambientes empresariais, focada em fornecer soluções descentralizadas para empresas que precisam de privacidade e segurança em transações. Diferente de blockchains públicas, onde todos os dados são visíveis para todos os participantes, a Corda usa um modelo de transação onde apenas as partes diretamente envolvidas têm acesso aos dados, o que é crucial para setores como finanças, saúde e supply chain. A Corda adota uma abordagem de consenso flexível, permitindo que as empresas escolham como e quando validar transações, o que aumenta a eficiência sem comprometer a segurança. Suas funcionalidades incluem contratos inteligentes personalizados e suporte a tokens, oferecendo uma estrutura robusta e escalável para a automação e otimização de processos interorganizacionais.
 
 https://corda.net/
 
