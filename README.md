@@ -30,11 +30,14 @@ informação, programação e banco de dados.
 ---
 # Sumário
 
+
+
+
 - [Sobre Blockchain e livros razão](#sobre-blockchain-e-livros-razão)
       - [Objetivos:](#objetivos)
       - [Observações:](#observações)
 - [Sumário](#sumário)
-- [1 Conceitos](#1-conceitos)
+- [1. Conceitos](#1-conceitos)
   - [1.1. O problema de double spending](#11-o-problema-de-double-spending)
   - [1.2. Criptografia de chave privada](#12-criptografia-de-chave-privada)
   - [1.3. Critografia de chave pública](#13-critografia-de-chave-pública)
@@ -46,16 +49,23 @@ informação, programação e banco de dados.
       - [1.5.1.2. Hedera](#1512-hedera)
       - [1.5.1.3. Obyte](#1513-obyte)
       - [1.5.1.4. IPFS](#1514-ipfs)
+      - [1.5.1.5 Projeto Swarm](#1515-projeto-swarm)
     - [1.5.2. Blockchain](#152-blockchain)
       - [1.5.2.1. Exemplo em Python](#1521-exemplo-em-python)
     - [1.5.3. Diferentes tipos de DLT](#153-diferentes-tipos-de-dlt)
     - [1.5.4. Alguns projetos de blockchain desde o surgimento até 2022](#154-alguns-projetos-de-blockchain-desde-o-surgimento-até-2022)
   - [1.6. Ethereum](#16-ethereum)
     - [1.6.1. EVM](#161-evm)
+      - [1.6.1.1. Ethereum nodes](#1611-ethereum-nodes)
+      - [1.6.1.1.1. Full nodes](#16111-full-nodes)
+      - [1.6.1.1.2. Archive nodes](#16112-archive-nodes)
+      - [1.6.1.1.3. Light nodes](#16113-light-nodes)
     - [1.6.2. Smart contracts](#162-smart-contracts)
     - [1.6.3. ETH](#163-eth)
     - [1.6.4. Gas fee](#164-gas-fee)
     - [1.6.5. IDE para programar com Ethereum](#165-ide-para-programar-com-ethereum)
+      - [1.6.5.1. dApps](#1651-dapps)
+      - [1.6.5.2. Arquitetura de uma aplicação Web3 (dapp)](#1652-arquitetura-de-uma-aplicação-web3-dapp)
   - [1.7. Wallets](#17-wallets)
     - [1.7.1. Carteiras, Contas, Chaves e Endereços no Ethereum](#171-carteiras-contas-chaves-e-endereços-no-ethereum)
     - [1.7.2. Metamask](#172-metamask)
@@ -70,11 +80,14 @@ informação, programação e banco de dados.
   - [1.11. Blockchain Oracle](#111-blockchain-oracle)
   - [1.14. NFT](#114-nft)
   - [1.15. Stable Coin](#115-stable-coin)
+  - [1.16. Block explorers](#116-block-explorers)
+  - [1.17. Dapps](#117-dapps)
 - [2. Blockchains privadas](#2-blockchains-privadas)
   - [2.1. Multhichain blockchain](#21-multhichain-blockchain)
-  - [2.2. Hyperledger Fabric](#22-hyperledger-fabric)
-  - [2.3. Hyperledger Besu](#23-hyperledger-besu)
-  - [2.4. Corda](#24-corda)
+  - [2.2. Hyperledger](#22-hyperledger)
+    - [2.2.1. Hyperledger Fabric](#221-hyperledger-fabric)
+    - [2.2.2. Hyperledger Besu](#222-hyperledger-besu)
+  - [2.3. Corda](#23-corda)
 - [3. Aplicabilidade](#3-aplicabilidade)
 - [4. Tendências](#4-tendências)
 - [5. Videos](#5-videos)
@@ -91,8 +104,9 @@ informação, programação e banco de dados.
 
 
 
+
 ---
-# 1 Conceitos
+# 1. Conceitos
 
 
 ## 1.1. O problema de double spending
@@ -244,6 +258,15 @@ Figura 7: IPFS desktop. Fonte: https://github.com/ipfs/ipfs-desktop.
 
 https://ipfs.tech/
 
+
+
+#### 1.5.1.5 Projeto Swarm
+
+O projeto Swarm, da Ethereum, não é exatamente uma blockchain nem uma DAG. Ele é uma rede descentralizada de armazenamento e distribuição de dados que funciona como um sistema de arquivos distribuído. Swarm é projetado para ser uma plataforma de infraestrutura Web3, permitindo que dados e conteúdos sejam armazenados e distribuídos sem depender de servidores centralizados. Embora utilize uma arquitetura que permite que os nós compartilhem e repliquem dados de forma distribuída, Swarm se integra à blockchain da Ethereum para contratos inteligentes e tokens, mas não usa diretamente uma estrutura de blockchain ou DAG para organizar suas transações de dados.
+
+https://www.ethswarm.org/
+
+
 ### 1.5.2. Blockchain
 
 
@@ -386,8 +409,65 @@ Em resumo, o Ethereum é uma plataforma blockchain versátil que permite que
 
 A Máquina Virtual Ethereum é o computador virtual global cujo estado todos os participantes (nós) da rede Ethereum armazenam (seu estado) e concordam. Qualquer participante pode solicitar a execução de código arbitrário na EVM; a execução do código (via smart contract) altera o estado do EVM. 
 
+![https://ethereum.org/content/developers/docs/evm/evm.png](https://ethereum.org/content/developers/docs/evm/evm.png)
+
+https://ethereum.org/en/developers/docs/evm/
+
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
+#### 1.6.1.1. Ethereum nodes
+
+São 3 tipos:
+
+#### 1.6.1.1.1. Full nodes
+
+```
+Os nós completos fazem uma validação bloco por bloco do blockchain, incluindo o download
+e a verificação do corpo do bloco e dos dados de estado de cada bloco. Existem diferentes
+classes de full node – alguns começam no bloco gênese e verificam cada bloco em toda a
+história do blockchain. Outros iniciam sua verificação em um bloco mais recente que eles
+confiam ser válido (por exemplo, 'snap sync' de Geth). Independentemente de onde a 
+verificação começa, os nós completos mantêm apenas uma cópia local dos dados relativamente
+recentes (normalmente os 128 blocos mais recentes), permitindo que os dados mais antigos 
+sejam excluídos para economizar espaço em disco. Dados mais antigos podem ser regenerados
+quando necessário.
+
+Armazena dados completos do blockchain (embora isso seja periodicamente removido para que 
+um nó completo não armazene todos os dados de estado desde a gênese)
+
+Participa da validação de blocos, verifica todos os blocos e estados.
+
+Todos os estados podem ser recuperados do armazenamento local ou regenerados a partir 
+de 'instantâneos' por um nó completo.
+
+Atende a rede e fornece dados mediante solicitação.
+```
+
+Fonte: https://ethereum.org/en/developers/docs/nodes-and-clients/
+
+#### 1.6.1.1.2. Archive nodes
+
+```
+Os nós de arquivo são nós completos que verificam cada bloco desde o genesis e nunca 
+excluem nenhum dos dados baixados.
+
+Armazena tudo o que é mantido no nó completo e cria um arquivo de estados históricos
+```
+
+Fonte: https://ethereum.org/en/developers/docs/nodes-and-clients/
+
+#### 1.6.1.1.3. Light nodes
+
+```
+Em vez de baixar cada bloco, os nós leves baixam apenas os cabeçalhos dos blocos. 
+Esses cabeçalhos contêm informações resumidas sobre o conteúdo dos blocos. Qualquer outra 
+informação que o nó leve exija é solicitada de um nó completo. O nó leve pode então verificar 
+independentemente os dados que recebe em relação às raízes de estado nos cabeçalhos do bloco. 
+Os nós leves permitem que os usuários participem da rede Ethereum sem o hardware poderoso 
+ou a alta largura de banda necessária para executar nós completos.
+```
+
+Fonte: https://ethereum.org/en/developers/docs/nodes-and-clients/
 
 ### 1.6.2. Smart contracts
 
@@ -485,7 +565,13 @@ Simulador local de Ethereum para desenvolvimento [Ganache](https://trufflesuite.
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
+#### 1.6.5.1. dApps
 
+Um aplicativo descentralizado (dapp) é um aplicativo construído em uma rede descentralizada que combina um contrato inteligente e uma interface de usuário frontend. No Ethereum, os contratos inteligentes são acessíveis e transparentes – como APIs abertas – então seu dapp pode até incluir um contrato inteligente escrito por outra pessoa.
+
+#### 1.6.5.2. Arquitetura de uma aplicação Web3 (dapp)
+
+https://www.preethikasireddy.com/post/the-architecture-of-a-web-3-0-application
 
 ## 1.7. Wallets
 
@@ -644,6 +730,25 @@ São um tipo de criptomoeda que possui um valor atrelado a um ativo de referênc
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
+
+## 1.16. Block explorers
+
+Os exploradores de blocos são o seu portal para os dados do Ethereum. Você pode usá-los para ver dados em tempo real sobre blocos, transações, validadores, contas e outras atividades na rede.
+
+* [Etherscan](https://etherscan.io/)
+
+* [Blockchair](https://blockchair.com/ethereum)
+
+* [Ethernow](https://www.ethernow.xyz/)
+
+* [Ethplorer](https://ethplorer.io/)
+
+## 1.17. Dapps 
+
+Um aplicativo descentralizado (dapp) é um aplicativo construído em uma rede descentralizada que combina um contrato inteligente e uma interface de usuário frontend. No Ethereum, os contratos inteligentes são acessíveis e transparentes, assim um Dapp pode até incluir um contrato inteligente escrito por outra pessoa.
+
+Video sobre Dapps [What is a dApp? Decentralized Application on the Blockchain](https://www.youtube.com/watch?v=F50OrwV6Uk8&t).
+
 # 2. Blockchains privadas
 
 ## 2.1. Multhichain blockchain
@@ -733,6 +838,8 @@ Outras referências:
 ## 2.2. Hyperledger
 
 Hyperledger foi absorvida por https://www.lfdecentralizedtrust.org/about
+
+Lista de todos os projetos Hyperledger: https://www.lfdecentralizedtrust.org/project-matrix
 
 ### 2.2.1. Hyperledger Fabric
 
@@ -849,6 +956,8 @@ Figura 15: Google trends, mundo, 2020-2024, todas as categorias, pesquisa na web
 [Lançamento da Rede Blockchain Brasil (RBB)](https://www.youtube.com/watch?v=Mhm8buV3lVs)
 
 [Entre desilusão e esperança, bitcoin completa um ano em El Salvador | AFP](https://www.youtube.com/watch?v=rcmLhDYK3lg)
+
+[What is a dApp? Decentralized Application on the Blockchain](https://www.youtube.com/watch?v=F50OrwV6Uk8&t).
 
 [How I hacked a hardware crypto wallet and recovered $2 million](https://www.youtube.com/watch?v=dT9y-KQbqi4)
 
