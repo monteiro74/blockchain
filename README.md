@@ -142,7 +142,7 @@ Programa que implementa criptografia e assinatura de mensagem: https://www.openp
 
 ## 1.4. Certificado digital
 
-É um documento eletrônico usado para comprovar a validade de uma chave pública.[1][2] O certificado inclui a chave pública e informações sobre ela, informações sobre a identidade de seu proprietário (chamado de sujeito) e a assinatura digital de uma entidade que verificou o conteúdo do certificado (chamado de emissor). Fonte: https://en.wikipedia.org/wiki/Public_key_certificate
+É um documento eletrônico usado para comprovar a validade de uma chave pública. O certificado inclui a chave pública e informações sobre ela, informações sobre a identidade de seu proprietário (chamado de sujeito) e a assinatura digital de uma entidade que verificou o conteúdo do certificado (chamado de emissor). Fonte: https://en.wikipedia.org/wiki/Public_key_certificate
 
 ![https://upload.wikimedia.org/wikipedia/commons/0/01/Client_and_Server_Certificate.png](https://upload.wikimedia.org/wikipedia/commons/0/01/Client_and_Server_Certificate.png)
 
@@ -234,11 +234,15 @@ A Hedera Hashgraph é uma rede distribuída que usa uma estrutura de gráfico ac
 
 https://hedera.com/ e https://hedera.com/hh_whitepaper_v2.1-20200815.pdf
 
+[Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
+
 #### 1.5.1.3. Obyte
 
 Obyte é uma plataforma descentralizada que utiliza uma estrutura de gráfico acíclico direcionado (DAG), permitindo transações sem a necessidade de blocos e mineradores, como ocorre em blockchains tradicionais. Nela, cada transação é um ponto no DAG que verifica duas transações anteriores, promovendo um modelo que elimina taxas de transação e facilita micropagamentos. Obyte também integra funcionalidades avançadas como contratos inteligentes, chamados de smart contracts, e oferece suporte para transações de dados confidenciais, mantendo a privacidade dos usuários. Sua arquitetura única a torna adequada para uma ampla gama de casos de uso, incluindo pagamentos, armazenamento seguro de dados e autenticação descentralizada, além de proporcionar uma rede eficiente e escalável sem depender de mineradores.
 
 https://obyte.org/technology e https://wiki.obyte.org/Overview
+
+[Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
 #### 1.5.1.4. IPFS
 
@@ -254,7 +258,7 @@ Figura 7: IPFS desktop. Fonte: https://github.com/ipfs/ipfs-desktop.
 
 https://ipfs.tech/
 
-
+[Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
 #### 1.5.1.5 Projeto Swarm
 
@@ -262,6 +266,7 @@ O projeto Swarm, da Ethereum, não é exatamente uma blockchain nem uma DAG. Ele
 
 https://www.ethswarm.org/
 
+[Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
 ### 1.5.2. Blockchain
 
@@ -335,6 +340,7 @@ O exemplo acima rodando na IDE Spyder:
 
 Figura 8: Exemplo simplificado de conceitos em python.
 
+[Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
 ### 1.5.3. Diferentes tipos de DLT
 
@@ -673,6 +679,8 @@ Fonte: https://www.investopedia.com/terms/b/bitcoin-mining.asp
 
 * PoA (Proof of Authority): Prova de autoridade (PoA) é um tipo de mecanismo de consenso usado em alguns blockchains para decidir qual participante adicionará o próximo bloco de transações. Ao contrário da Prova de Trabalho do Bitcoin, onde os mineiros competem para resolver quebra-cabeças complexos, ou da Prova de Participação, onde a chance de adicionar um bloco depende de quanta criptomoeda uma pessoa possui, o PoA tem tudo a ver com identidade e reputação.
 
+[Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
+
 ### 1.9.4. Comparações PoW, PoS e PoA
 
 
@@ -722,7 +730,7 @@ Exemplo:
 
 ### 1.10.1. DAO 
 
-Uma DAO (Organização Autônoma Descentralizada) é uma organização governada por regras codificadas em contratos inteligentes, permitindo que membros tomem decisões coletivas sem a necessidade de uma estrutura hierárquica tradicional. Em uma DAO, as regras e operações são transparentes e imutáveis, pois ficam registradas em uma blockchain. Geralmente, os membros de uma DAO possuem tokens de governança que lhes conferem poder de voto sobre decisões, como alocação de fundos, desenvolvimento de projetos, ou atualização das regras.
+Uma DAO (Organização Autônoma Descentralizada) é uma **organização governada por regras codificadas em contratos inteligentes**, permitindo que membros tomem decisões coletivas sem a necessidade de uma estrutura hierárquica tradicional. Em uma DAO, as regras e operações são transparentes e imutáveis, pois ficam registradas em uma blockchain. Geralmente, os membros de uma DAO possuem tokens de governança que lhes conferem poder de voto sobre decisões, como alocação de fundos, desenvolvimento de projetos, ou atualização das regras.
 
 O objetivo de uma DAO é promover uma gestão transparente e democrática, onde os membros participam de forma direta e colaborativa. Um exemplo de DAO é o MakerDAO. O MakerDAO é uma organização descentralizada responsável pela criação e governança da stablecoin DAI, que mantém seu valor atrelado ao dólar. Outro exemplo [MolochDAO](https://molochdao.com/).
 
@@ -732,7 +740,7 @@ O objetivo de uma DAO é promover uma gestão transparente e democrática, onde 
 
 ## 1.11. Blockchain Oracle
 
-São sistemas que conectam blockchains a sistemas externos, permitindo que os smart contracts possam de acordo com parâmetros externos. Desta forma sistema pré-existentes (ou legados) possam se conectar (via WEB3) com as blockchains. Os oracles podem receber dados do mundo externo (qualquer tipo de dados, por exemplo: dados de sensor de temperatura) e envia estes dados para a blockchain. Permite que ecossistemas decentralizados possam ter acessoa fontes de dados externas. 
+São **sistemas que conectam blockchains a sistemas externos**, permitindo que os smart contracts possam de acordo com parâmetros externos. Desta forma sistema pré-existentes (ou legados) possam se conectar (via WEB3) com as blockchains. Os oracles podem receber dados do mundo externo (qualquer tipo de dados, por exemplo: dados de sensor de temperatura) e envia estes dados para a blockchain. Permite que ecossistemas decentralizados possam ter acessoa fontes de dados externas. 
 
 
 :warning: **Atenção**: Não confundir os dois termos abaixo!
@@ -751,7 +759,7 @@ São sistemas que conectam blockchains a sistemas externos, permitindo que os sm
 
 ## 1.14. NFT
 
-NFT significa Non-Fungible Token, são ativos que podem ser tokenizados por uma blockchain (ou seja, pode receber uma representação virtual como um objeto dentro de uma blockchain). Estes ativos podem representar qualquer coisa do mundo real como: obras de arte, carros, terrenos, etc. Recebem um código único de identificação e metadados que os descrevem (incluindo quantidade e valor). Os NFTs podem ser comprados e vendidos/trocados usando cripto moedas em determinadas plataformas. 
+NFT significa Non-Fungible Token, **são ativos que podem ser tokenizados por uma blockchain** (ou seja, podem receber uma *representação virtual como um objeto dentro de uma blockchain*). Estes ativos podem representar qualquer coisa do mundo real como: obras de arte, carros, terrenos, etc. Recebem um código único de identificação e metadados que os descrevem (incluindo quantidade e valor). Os NFTs podem ser comprados e vendidos/trocados usando cripto moedas em determinadas plataformas. 
 
 Exemplo de NFT são os Bored Ape Yacht Club Galeria dos [BAYC](https://boredapeyachtclub.com/#/gallery) NFT (notícias sobre: https://www.coindesk.com/web3/2023/07/03/bored-ape-yacht-club-nft-collection-floor-price-sinks-to-20-month-low/ e  https://www.theguardian.com/artanddesign/2022/jan/04/bored-ape-nft-art-eminem). Outro exemplo de market place de NFT é o site [Criptokitties](https://www.cryptokitties.co/).
 
@@ -760,9 +768,9 @@ Exemplo de NFT são os Bored Ape Yacht Club Galeria dos [BAYC](https://boredapey
 
 ## 1.15. Stable Coin
 
-São um tipo de criptomoeda que possui um valor atrelado a um ativo de referência que pode ser uma commodities, bens materiais, ouro ou outra moeda física. A ideia é ter uma relação 1:1, no qual a criptomeda stable coin tem seu valor indexado por uma outra moeda. Desta forma seu valor tende a não ter tanda volatilidade. Esta opção é mais atrativa pois permite a conversibilidade da moeda em outros bens.
+São um tipo de criptomoeda que possui um valor atrelado a um ativo de referência que pode ser uma commodities, bens materiais, ouro ou outra moeda física. A ideia é ter uma **relação 1:1**, no qual a criptomeda stable coin tem seu valor indexado por uma outra moeda. Desta forma seu valor tende a não ter tanda volatilidade. Esta opção é mais atrativa pois permite a conversibilidade da moeda em outros bens.
 
-Um exemplo de stablecoin é o Tether (USDT). Ela é projetada para manter seu valor atrelado ao dólar americano, sendo respaldada por reservas em dólares ou ativos equivalentes, o que ajuda a manter a estabilidade de seu preço. Stablecoins como o Tether são amplamente utilizadas para facilitar transações em exchanges de criptomoedas, oferecendo uma opção menos volátil em comparação com outras criptomoedas como Bitcoin ou Ethereum. Dois exemplos de stablecoins são o Tether (USDT) e o USD Coin (USDC). Ambas são vinculadas ao dólar americano
+Um exemplo de stablecoin é o [Tether (USDT)](https://tether.to/en/). Ela é projetada para manter seu valor atrelado ao dólar americano, sendo respaldada por reservas em dólares ou ativos equivalentes, o que ajuda a manter a estabilidade de seu preço. Stablecoins como o Tether são amplamente utilizadas para facilitar transações em exchanges de criptomoedas, oferecendo uma opção menos volátil em comparação com outras criptomoedas como Bitcoin ou Ethereum. Dois exemplos de stablecoins são o Tether (USDT) e o [USD Coin (USDC)](https://www.circle.com/pt-br/usdc). Ambas são vinculadas ao dólar americano.
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
