@@ -31,8 +31,6 @@ informação, programação e banco de dados.
 # Sumário
 
 
-
-
 - [Sobre Blockchain e livros razão](#sobre-blockchain-e-livros-razão)
       - [Objetivos:](#objetivos)
       - [Observações:](#observações)
@@ -56,10 +54,10 @@ informação, programação e banco de dados.
     - [1.5.4. Alguns projetos de blockchain desde o surgimento até 2022](#154-alguns-projetos-de-blockchain-desde-o-surgimento-até-2022)
   - [1.6. Ethereum](#16-ethereum)
     - [1.6.1. EVM](#161-evm)
-      - [1.6.1.1. Ethereum nodes](#1611-ethereum-nodes)
-      - [1.6.1.1.1. Full nodes](#16111-full-nodes)
-      - [1.6.1.1.2. Archive nodes](#16112-archive-nodes)
-      - [1.6.1.1.3. Light nodes](#16113-light-nodes)
+      - [1.6.2 Ethereum nodes](#162-ethereum-nodes)
+      - [1.6.2.1. Full nodes](#1621-full-nodes)
+      - [1.6.2.2. Archive nodes](#1622-archive-nodes)
+      - [1.6.2.3. Light nodes](#1623-light-nodes)
     - [1.6.2. Smart contracts](#162-smart-contracts)
     - [1.6.3. ETH](#163-eth)
     - [1.6.4. Gas fee](#164-gas-fee)
@@ -100,7 +98,6 @@ informação, programação e banco de dados.
   - [Aviso](#aviso)
   - [Licença](#licença)
 - [Estatísticas desta página](#estatísticas-desta-página)
-
 
 
 
@@ -415,11 +412,11 @@ https://ethereum.org/en/developers/docs/evm/
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
-#### 1.6.1.1. Ethereum nodes
+#### 1.6.2 Ethereum nodes
 
 São 3 tipos:
 
-#### 1.6.1.1.1. Full nodes
+#### 1.6.2.1. Full nodes
 
 ```
 Os nós completos fazem uma validação bloco por bloco do blockchain, incluindo o download
@@ -445,7 +442,7 @@ Atende a rede e fornece dados mediante solicitação.
 
 Fonte: https://ethereum.org/en/developers/docs/nodes-and-clients/
 
-#### 1.6.1.1.2. Archive nodes
+#### 1.6.2.2. Archive nodes
 
 ```
 Os nós de arquivo são nós completos que verificam cada bloco desde o genesis e nunca 
@@ -456,7 +453,7 @@ Armazena tudo o que é mantido no nó completo e cria um arquivo de estados hist
 
 Fonte: https://ethereum.org/en/developers/docs/nodes-and-clients/
 
-#### 1.6.1.1.3. Light nodes
+#### 1.6.2.3. Light nodes
 
 ```
 Em vez de baixar cada bloco, os nós leves baixam apenas os cabeçalhos dos blocos. 
@@ -715,6 +712,16 @@ A proposta DeFi pode ter surgido como uma ideia nas quais pessoas poderiam fazer
 ## 1.11. Blockchain Oracle
 
 São sistemas que conectam blockchains a sistemas externos, permitindo que os smart contracts possam de acordo com parâmetros externos. Desta forma sistema pré-existentes (ou legados) possam se conectar (via WEB3) com as blockchains. Os oracles podem receber dados do mundo externo (qualquer tipo de dados, por exemplo: dados de sensor de temperatura) e envia estes dados para a blockchain. Permite que ecossistemas decentralizados possam ter acessoa fontes de dados externas. 
+
+
+
+| Termo                | Descrição                                                                                                                                            | Exemplo                         |
+|----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|
+| **Blockchain Oracle** | Tecnologia ou serviço que conecta blockchains com dados externos, permitindo que contratos inteligentes usem informações do mundo real.              | [Chainlink](https://chain.link/education/blockchain-oracles)                       |
+| **Oracle Blockchain** | Plataforma de blockchain oferecida pela empresa Oracle, focada em soluções empresariais para criar e gerenciar redes blockchain privadas e seguras. | [Oracle Blockchain Platform](https://www.oracle.com/br/blockchain/)      |
+
+
+
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
