@@ -29,6 +29,7 @@ informação, programação e banco de dados.
 ---
 # Sumário
 
+
 - [Sobre Blockchain e livros razão](#sobre-blockchain-e-livros-razão)
       - [Objetivos:](#objetivos)
       - [Observações:](#observações)
@@ -90,13 +91,15 @@ informação, programação e banco de dados.
 - [5. Videos](#5-videos)
 - [6. Treinamentos](#6-treinamentos)
 - [7. Reportagens e artigos](#7-reportagens-e-artigos)
-  - [7.1. Sobre blockchain e bancos de dados](#71-sobre-blockchain-e-bancos-de-dados)
+  - [7.1. Sobre blockchain](#71-sobre-blockchain)
   - [7.2. Artigos sobre criptomoedas, mineração e outros](#72-artigos-sobre-criptomoedas-mineração-e-outros)
 - [8. Fontes e referências diversas](#8-fontes-e-referências-diversas)
 - [Avisos \& licença](#avisos--licença)
   - [Aviso](#aviso)
   - [Licença](#licença)
 - [Estatísticas desta página](#estatísticas-desta-página)
+
+
 
 
 
