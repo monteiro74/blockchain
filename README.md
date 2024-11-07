@@ -469,6 +469,10 @@ ou a alta largura de banda necessária para executar nós completos.
 
 Fonte: https://ethereum.org/en/developers/docs/nodes-and-clients/
 
+Maiores detalhes sobre a arquitetura dos nós: https://ethereum.org/en/developers/docs/nodes-and-clients/node-architecture/
+
+[Voltar ao início](#sobre-blockchain-e-livros-razão)
+
 ### 1.6.2. Smart contracts
 
 Contratos inteligentes são programas de computador que estão e rodam na blockchain Ethereum. Transações acionam smart contracts. São acionados por aplicativos de usuários. Nick Szabo cunhou o termo "smart contract“, em 1994. Szabo idealizou um mercado virtual onde negócios automáticos e criptografados permitissem que transações ocorressem sem intermediários confiáveis.
