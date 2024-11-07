@@ -12,14 +12,13 @@
 4. Este não é um guia definitivo, mas um pequeno tutorial compilado para auxiliar
  alunos e devs. 
 5. Este material esta em construção.
-6. Mantido por Prof. Dr. Monteiro.
 ```
 
 ---
 #### Observações:
 ```
-1. Este material pode ser usado como suporte às disciplinas de: banco de dados e 
-projeto de sistemas.
+1. Este material pode ser usado como suporte às disciplinas de: banco de dados, 
+engenharia de software e projeto de sistemas.
 2. Este material foi ou poderá ser usado em sala de aula/laboratório/EAD.
 3. É um prerequisito conhecimentos básicos de, segurança da 
 informação, programação e banco de dados.
@@ -777,7 +776,9 @@ Um exemplo de stablecoin é o [Tether (USDT)](https://tether.to/en/). Ela é pro
 
 ## 1.16. Block explorers
 
-Os exploradores de blocos são o seu portal para os dados do Ethereum. Você pode usá-los para ver dados em tempo real sobre blocos, transações, validadores, contas e outras atividades na rede.
+Os exploradores (explorers) de blocos são o seu portal para os dados do Ethereum. Você pode usá-los para ver dados em tempo real sobre blocos, transações, validadores, contas e outras atividades na rede.
+
+Alguns exemplos:
 
 * [Etherscan](https://etherscan.io/)
 
