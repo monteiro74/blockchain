@@ -30,7 +30,6 @@ informação, programação e banco de dados.
 ---
 # Sumário
 
-
 - [Sobre Blockchain e livros razão](#sobre-blockchain-e-livros-razão)
       - [Objetivos:](#objetivos)
       - [Observações:](#observações)
@@ -75,6 +74,7 @@ informação, programação e banco de dados.
     - [1.9.3. PoA](#193-poa)
     - [1.9.4. Comparações PoW, PoS e PoA](#194-comparações-pow-pos-e-poa)
   - [1.10. DeFi](#110-defi)
+    - [1.10.1. DAO](#1101-dao)
   - [1.11. Blockchain Oracle](#111-blockchain-oracle)
   - [1.14. NFT](#114-nft)
   - [1.15. Stable Coin](#115-stable-coin)
@@ -98,7 +98,6 @@ informação, programação e banco de dados.
   - [Aviso](#aviso)
   - [Licença](#licença)
 - [Estatísticas desta página](#estatísticas-desta-página)
-
 
 
 
@@ -699,11 +698,33 @@ Mais info... https://cleartax.in/s/consensus-in-blockchain
 
 ## 1.10. DeFi
 
-Significa Decentralized Finance (DeFi). É um conceito que visa trazer os serviços financeiros tradicionais para o universo das criptomoedas usando blockchains e "ledgers" distribuídas. Um atrativo para o uso de DeFi seria a não existência de taxas bancárias entre as transações.  O usuários destes serviços poderiam manter dinheiro digital em uma carteira (wallets) de forma segura (pelo uso de criptografia) e realizar transferências de fundos (cripto ativos) entre outros usuários deste ecossistema via Internet se unidades centrais de controle ou bancos tradicionais para intervir neste processo.
+Significa **Decentralized Finance** (DeFi). É um conceito que visa trazer os serviços financeiros tradicionais para o universo das criptomoedas usando blockchains e "ledgers" distribuídas. Um atrativo para o uso de DeFi seria a não existência de taxas bancárias entre as transações.  O usuários destes serviços poderiam manter dinheiro digital em uma carteira (wallets) de forma segura (pelo uso de criptografia) e realizar transferências de fundos (cripto ativos) entre outros usuários deste ecossistema via Internet se unidades centrais de controle ou bancos tradicionais para intervir neste processo.
 
 Redes ponto a ponto financeiras seriam os locais onde os serviços DeFi existiriam, os usuários destes serviços se conectariam via wallets, vendedores e compradores realizaram as transações dentro desta rede distribuída. Esta rede financeira estaria presente em qualquer lugar (desde que haja internet). É importante observar que DeFi não tem como objetivo fornecer serviço de anonimização, pelo contrário, espera-se que instituições financeiras tradicionais(CeFi - Centralizes Finance), comercios reais e pessoas físicas e jurídicas possam fazer uso dessa tecnologia da mesma forma como se usa os meios financeiros tradicionais centralizados. Inclusive as transações financeiras que se estabelecerão nas redes DeFi esperá-se que sejam todas rastreáveis.
 
 A proposta DeFi pode ter surgido como uma ideia nas quais pessoas poderiam fazer transações entre si sem pagar taxas, mas é necessário uma infraestrutura para a computação e operação de redes de comptuadores custosa, instituições financeiras podem participar cobrando taxas bancárias muito baixas, mais atrativas que no sistema tradicional. 
+
+Projetos DeFi permitem que usuários realizem atividades financeiras tradicionais, como trocas, empréstimos e poupança, de forma descentralizada e sem intermediários tradicionais, utilizando contratos inteligentes.
+
+Exemplo:
+
+* [Uniswap](https://app.uniswap.org/) – Uma exchange descentralizada que permite a negociação de tokens sem intermediários, usando pools de liquidez e um modelo de market maker automatizado (AMM).
+
+* [Aave](https://aave.com/) – Um protocolo de empréstimos descentralizado onde usuários podem emprestar e tomar emprestado criptomoedas, além de ganhar juros ao fornecer liquidez.
+
+* [MakerDAO](https://makerdao.com/) – Uma plataforma de stablecoin que usa o token DAI, vinculado ao dólar americano, e permite a criação de empréstimos descentralizados com colaterais em criptomoedas.
+
+* [Compound](https://app.compound.finance/markets) – Outro protocolo de empréstimo que permite aos usuários emprestar e tomar emprestado ativos digitais e ganhar juros, com um mercado de taxas de juros flutuantes.
+
+* [Synthetix](https://synthetix.io/) – Um protocolo de ativos sintéticos que permite a criação e negociação de ativos digitais que representam ativos do mundo real, como ações, moedas e commodities.
+
+[Voltar ao início](#sobre-blockchain-e-livros-razão)
+
+### 1.10.1. DAO 
+
+Uma DAO (Organização Autônoma Descentralizada) é uma organização governada por regras codificadas em contratos inteligentes, permitindo que membros tomem decisões coletivas sem a necessidade de uma estrutura hierárquica tradicional. Em uma DAO, as regras e operações são transparentes e imutáveis, pois ficam registradas em uma blockchain. Geralmente, os membros de uma DAO possuem tokens de governança que lhes conferem poder de voto sobre decisões, como alocação de fundos, desenvolvimento de projetos, ou atualização das regras.
+
+O objetivo de uma DAO é promover uma gestão transparente e democrática, onde os membros participam de forma direta e colaborativa. Um exemplo de DAO é o MakerDAO. O MakerDAO é uma organização descentralizada responsável pela criação e governança da stablecoin DAI, que mantém seu valor atrelado ao dólar. Outro exemplo [MolochDAO](https://molochdao.com/).
 
 
 
@@ -714,9 +735,11 @@ A proposta DeFi pode ter surgido como uma ideia nas quais pessoas poderiam fazer
 São sistemas que conectam blockchains a sistemas externos, permitindo que os smart contracts possam de acordo com parâmetros externos. Desta forma sistema pré-existentes (ou legados) possam se conectar (via WEB3) com as blockchains. Os oracles podem receber dados do mundo externo (qualquer tipo de dados, por exemplo: dados de sensor de temperatura) e envia estes dados para a blockchain. Permite que ecossistemas decentralizados possam ter acessoa fontes de dados externas. 
 
 
+:warning: **Atenção**: Não confundir os dois termos abaixo!
 
-| Termo                | Descrição                                                                                                                                            | Exemplo                         |
-|----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|
+
+| Termo   | Descrição   | Exemplo                         |
+|-----|---|-------------|
 | **Blockchain Oracle** | Tecnologia ou serviço que conecta blockchains com dados externos, permitindo que contratos inteligentes usem informações do mundo real.              | [Chainlink](https://chain.link/education/blockchain-oracles)                       |
 | **Oracle Blockchain** | Plataforma de blockchain oferecida pela empresa Oracle, focada em soluções empresariais para criar e gerenciar redes blockchain privadas e seguras. | [Oracle Blockchain Platform](https://www.oracle.com/br/blockchain/)      |
 
@@ -738,6 +761,8 @@ Exemplo de NFT são os Bored Ape Yacht Club Galeria dos [BAYC](https://boredapey
 ## 1.15. Stable Coin
 
 São um tipo de criptomoeda que possui um valor atrelado a um ativo de referência que pode ser uma commodities, bens materiais, ouro ou outra moeda física. A ideia é ter uma relação 1:1, no qual a criptomeda stable coin tem seu valor indexado por uma outra moeda. Desta forma seu valor tende a não ter tanda volatilidade. Esta opção é mais atrativa pois permite a conversibilidade da moeda em outros bens.
+
+Um exemplo de stablecoin é o Tether (USDT). Ela é projetada para manter seu valor atrelado ao dólar americano, sendo respaldada por reservas em dólares ou ativos equivalentes, o que ajuda a manter a estabilidade de seu preço. Stablecoins como o Tether são amplamente utilizadas para facilitar transações em exchanges de criptomoedas, oferecendo uma opção menos volátil em comparação com outras criptomoedas como Bitcoin ou Ethereum. Dois exemplos de stablecoins são o Tether (USDT) e o USD Coin (USDC). Ambas são vinculadas ao dólar americano
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
