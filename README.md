@@ -75,14 +75,29 @@ Programa que implementa criptografia e assinatura de mensagem: https://www.openp
 
 ## 1.4. Certificado digital
 
+É um documento eletrônico usado para comprovar a validade de uma chave pública.[1][2] O certificado inclui a chave pública e informações sobre ela, informações sobre a identidade de seu proprietário (chamado de sujeito) e a assinatura digital de uma entidade que verificou o conteúdo do certificado (chamado de emissor). Fonte: https://en.wikipedia.org/wiki/Public_key_certificate
 
-![https://pt.wikipedia.org/wiki/Certificado_digital#/media/Ficheiro:Client_and_Server_Certificate.png](https://pt.wikipedia.org/wiki/Certificado_digital#/media/Ficheiro:Client_and_Server_Certificate.png)
+![https://upload.wikimedia.org/wikipedia/commons/0/01/Client_and_Server_Certificate.png](https://upload.wikimedia.org/wikipedia/commons/0/01/Client_and_Server_Certificate.png)
 
 Fonte da figura:
 https://pt.wikipedia.org/wiki/Certificado_digital#/media/Ficheiro:Client_and_Server_Certificate.png
 
-## 
 
+## 1.4.1. ICP Brasil
+
+A Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil) é uma cadeia hierárquica de confiança que viabiliza a emissão de certificados digitais para identificação virtual do cidadão.
+
+Observa-se que o modelo adotado pelo Brasil foi o de certificação com raiz única, sendo que o ITI, além de desempenhar o papel de Autoridade Certificadora Raiz (AC-Raiz), também tem o papel de credenciar e descredenciar os demais participantes da cadeia, supervisionar e fazer auditoria dos processos.
+
+Infra Estrutura de Chaves Pública Brasil https://www.gov.br/iti/pt-br/assuntos/icp-brasil
+
+Estrutura da ICP Brasil:
+
+![https://www.gov.br/iti/pt-br/assuntos/icp-brasil/EcossistemaICPBrasil_2408221.png](https://www.gov.br/iti/pt-br/assuntos/icp-brasil/EcossistemaICPBrasil_2408221.png)
+
+Figura: Ecossistema da ICP-Brasil. Fonte da Figura: https://www.gov.br/iti/pt-br/assuntos/icp-brasil/ecossistema-icp-brasil).
+
+[Navegação na Estrutura](https://estrutura.iti.gov.br/).
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
