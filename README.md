@@ -1047,7 +1047,6 @@ Figura 17: Google trends, mundo, 2020-2024, todas as categorias, pesquisa na web
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
 
-
 ---
 # 6. Treinamentos
 
@@ -1070,7 +1069,10 @@ Figura 17: Google trends, mundo, 2020-2024, todas as categorias, pesquisa na web
 ---
 # 7. Reportagens e artigos
 
-## 7.1. Sobre blockchain e bancos de dados
+Referências em blogs e revistas comerciais com reportagens diversas para o público em geral.
+Algunas referências desta seção não revistas científicas.
+
+## 7.1. Sobre blockchain
 
 [Blockchain by Example in SQL Server](https://benjaminsky.medium.com/blockchain-by-example-in-sql-server-8376b410128)
 
@@ -1092,7 +1094,7 @@ Figura 17: Google trends, mundo, 2020-2024, todas as categorias, pesquisa na web
 
 [Blockchain Platform Service](https://www.oracle.com/blockchain/cloud-platform/)
 
-[Blockchain Tables in Oracle Database 21c](https://oracle-base.com/articles/21c/blockchain-tables-21c)
+[Blockchain Oracle](https://oracle-base.com/articles/21c/blockchain-tables-21c)
 
 [Advancing Enterprise Blockchain with the Latest Generation of Oracle Blockchain Platform](https://blogs.oracle.com/blockchain/post/advancing-enterprise-blockchain-with-the-latest-generation-of-oracle-blockchain-platform)
 
@@ -1103,7 +1105,6 @@ Figura 17: Google trends, mundo, 2020-2024, todas as categorias, pesquisa na web
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
 ## 7.2. Artigos sobre criptomoedas, mineração e outros
-
 
 [Chegada do DREX e o fim do dinheiro em espécie](https://livecoins.com.br/chegada-do-drex-e-fim-do-dinheiro-em-especie-pode-virar-audiencia-publica-na-camara/).
 
@@ -1184,7 +1185,7 @@ Figura 17: Google trends, mundo, 2020-2024, todas as categorias, pesquisa na web
 ---
 # 8. Fontes e referências diversas
 
-Diversas fontes de pesquisa sobre blockchain:
+Diversas fontes de pesquisa sobre blockchain, principalmente revistas científicas:
 
 [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
 
