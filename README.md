@@ -848,9 +848,11 @@ Figura 14: Google trends, mundo, 2020-2024, todas as categorias, pesquisa na web
 
 [Mulher do "Faraó dos Bitcoins" é presa nos Estados Unidos | SBT Brasil (26/01/24)](https://www.youtube.com/watch?v=Rhk4sWnymxQ)
 
+[Mulher do "Faraó dos Bitcoins" é presa nos Estados Unidos | SBT Brasil (26/01/24)](https://www.youtube.com/watch?v=Rhk4sWnymxQ)
+
+[Golpe Financeiro: 'faraó dos bitcoins' pode ter enganado quase 70 mil pessoas](https://www.youtube.com/watch?v=umgqsLvbKGk)
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
-
 
 ---
 
