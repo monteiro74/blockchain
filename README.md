@@ -993,12 +993,21 @@ Besu é um DLT para que possam ser criadas blockchains privadas.
 
 Documentação https://besu.hyperledger.org/private-networks
 
+[Voltar ao início](#sobre-blockchain-e-livros-razão)
+
+### 2.2.3. Solução b-cadastro
+
+O b-cadastro é um produto do Serpro para órgãos públics realizarem consultas de CPF e CNPJ, utiliza a rede [Hyperledger fabric](https://www.lfdecentralizedtrust.org/projects/fabric).
+
+[Voltar ao início](#sobre-blockchain-e-livros-razão)
 
 ## 2.3. Corda 
 
 Corda é uma plataforma de blockchain desenvolvida especialmente para ambientes empresariais, focada em fornecer soluções descentralizadas para empresas que precisam de privacidade e segurança em transações. Diferente de blockchains públicas, onde todos os dados são visíveis para todos os participantes, a Corda usa um modelo de transação onde apenas as partes diretamente envolvidas têm acesso aos dados, o que é crucial para setores como finanças, saúde e supply chain. A Corda adota uma abordagem de consenso flexível, permitindo que as empresas escolham como e quando validar transações, o que aumenta a eficiência sem comprometer a segurança. Suas funcionalidades incluem contratos inteligentes personalizados e suporte a tokens, oferecendo uma estrutura robusta e escalável para a automação e otimização de processos interorganizacionais.
 
 https://corda.net/
+
+[Voltar ao início](#sobre-blockchain-e-livros-razão)
 
 --- 
 # 3. Aplicabilidade 
