@@ -826,11 +826,12 @@ Video sobre Dapps [What is a dApp? Decentralized Application on the Blockchain](
 | **Ideal Para**          | Reduzir congestionamento na blockchain principal, aumentando a escalabilidade e velocidade.              | Aplicações complexas que exigem transações diversificadas ou customizações, como operações de maior valor.|
 
 
-
 > :warning: Um "peg" bidirecional é um mecanismo que permite a transferência de ativos (como criptomoedas) entre a blockchain principal e uma sidechain de forma segura. Esse sistema vincula o ativo na blockchain principal, "bloqueando-o" para que ele não seja usado enquanto uma versão equivalente é "desbloqueada" na sidechain, e vice-versa. O "peg" inicial refere-se ao primeiro processo de transferência, onde ativos da blockchain principal são transferidos pela primeira vez para a sidechain, criando o vínculo entre ambas.
 
 
 Dica: [O que são sidechains e como funcionam?](https://www.bity.com.br/blog/o-que-sao-sidechains-e-como-funcionam/#:~:text=A%20intera%C3%A7%C3%A3o%20entre%20a%20blockchain,ativos%20entre%20ambas%20as%20redes.).
+
+Críticas: [Lightning Network has Failed](https://www.youtube.com/watch?v=5Cq0C0SpbkY).
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
