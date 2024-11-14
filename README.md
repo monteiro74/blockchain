@@ -622,11 +622,17 @@ Metamask para [Google Chrome](https://chromewebstore.google.com/detail/metamask/
 
 Metamask para [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ether-metamask/).
 
+
+
 ![https://github.com/monteiro74/blockchain/blob/main/figuras/metamask1.png](https://github.com/monteiro74/blockchain/blob/main/figuras/metamask1.png)
+
+Figura 14: Instalação do Metamask no Firefox.
 
 
 ![https://github.com/monteiro74/blockchain/blob/main/figuras/metamask4.png](https://github.com/monteiro74/blockchain/blob/main/figuras/metamask4.png)
 
+
+Figura 15: Metamask já instalado e rodando no Firefox.
 
 
 ### 1.7.3. Carteira em hardware
