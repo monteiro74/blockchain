@@ -29,7 +29,6 @@ informação, programação e banco de dados.
 ---
 # Sumário
 
-
 - [Sobre Blockchain e livros razão](#sobre-blockchain-e-livros-razão)
       - [Objetivos:](#objetivos)
       - [Observações:](#observações)
@@ -80,6 +79,7 @@ informação, programação e banco de dados.
   - [1.15. Stable Coin](#115-stable-coin)
   - [1.16. Block explorers](#116-block-explorers)
   - [1.17. Dapps](#117-dapps)
+  - [1.18. Soluções de 2º camada x Sidechains](#118-soluções-de-2º-camada-x-sidechains)
 - [2. Blockchains privadas](#2-blockchains-privadas)
   - [2.1. Multhichain blockchain](#21-multhichain-blockchain)
   - [2.2. Hyperledger](#22-hyperledger)
@@ -98,7 +98,6 @@ informação, programação e banco de dados.
   - [Aviso](#aviso)
   - [Licença](#licença)
 - [Estatísticas desta página](#estatísticas-desta-página)
-
 
 
 
