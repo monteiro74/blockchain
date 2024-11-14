@@ -801,11 +801,38 @@ Alguns exemplos:
 
 * [Ethplorer](https://ethplorer.io/)
 
+
+[Voltar ao início](#sobre-blockchain-e-livros-razão)
+
+
 ## 1.17. Dapps 
 
 Um aplicativo descentralizado (dapp) é um aplicativo construído em uma rede descentralizada que combina um contrato inteligente e uma interface de usuário frontend. No Ethereum, os contratos inteligentes são acessíveis e transparentes, assim um Dapp pode até incluir um contrato inteligente escrito por outra pessoa.
 
 Video sobre Dapps [What is a dApp? Decentralized Application on the Blockchain](https://www.youtube.com/watch?v=F50OrwV6Uk8&t).
+
+[Voltar ao início](#sobre-blockchain-e-livros-razão)
+
+## 1.18. Soluções de 2º camada x Sidechains
+
+| Critério                | Soluções de Segunda Camada                                       | Sidechains                                               |
+|-------------------------|------------------------------------------------------------------|----------------------------------------------------------|
+| **Estrutura**           | Construídas como uma camada extra sobre a blockchain principal, processando transações fora da primeira camada. | Blockchains independentes que operam em paralelo à  blockchain principal, conectadas a ela por um “peg” bidirecional.      |
+| **Exemplos**            | [Lightning Network (Bitcoin)](https://lightning.network/#intro), [Plasma (Ethereum)](https://ethereum.org/pt-br/developers/docs/scaling/plasma/)                  | [Liquid Network (Bitcoin)](https://liquid.net/), [Polygon (Ethereum)](https://polygon.technology/) |
+| **Mecanismo de Segurança** | Usa a segurança da blockchain principal,com validação periódica das transações.                    | Possui seu próprio mecanismo de consenso e segurança, podendo ter regras e parâmetros específicos.   |
+| **Tipo de Transação**   | Focada em transações rápidas e de baixo valor, omo micropagamentos ou trocas frequentes de ativos.                  | Permite transações variadas, incluindo operações complexas, com suporte a contratos inteligentes e tokens.         |
+| **Interdependência**    | Altamente dependente da blockchain principal para segurança e integridade das transações.  | Menos dependente da blockchain principal, funcionando de forma independente, embora conectada a ela. |
+| **Flexibilidade de Uso**| Menos flexível, pois herda as restrições da blockchain principal e é específica para determinados tipos de transações. | Mais flexível, com regras, taxas e funcionalidades  customizáveis para atender diferentes necessidades.      |
+| **Ideal Para**          | Reduzir congestionamento na blockchain principal, aumentando a escalabilidade e velocidade.              | Aplicações complexas que exigem transações diversificadas ou customizações, como operações de maior valor.|
+
+
+
+> :warning: Um "peg" bidirecional é um mecanismo que permite a transferência de ativos (como criptomoedas) entre a blockchain principal e uma sidechain de forma segura. Esse sistema vincula o ativo na blockchain principal, "bloqueando-o" para que ele não seja usado enquanto uma versão equivalente é "desbloqueada" na sidechain, e vice-versa. O "peg" inicial refere-se ao primeiro processo de transferência, onde ativos da blockchain principal são transferidos pela primeira vez para a sidechain, criando o vínculo entre ambas.
+
+
+Dica: [O que são sidechains e como funcionam?](https://www.bity.com.br/blog/o-que-sao-sidechains-e-como-funcionam/#:~:text=A%20intera%C3%A7%C3%A3o%20entre%20a%20blockchain,ativos%20entre%20ambas%20as%20redes.).
+
+[Voltar ao início](#sobre-blockchain-e-livros-razão)
 
 # 2. Blockchains privadas
 
