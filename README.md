@@ -897,7 +897,7 @@ Críticas: [Lightning Network has Failed](https://www.youtube.com/watch?v=5Cq0C0
 * Não possui limitações de nós por rede.
 * O blocktime (é o tempo de bloqueio é o tempo que leva para criar um novo bloco ou arquivo em uma cadeia de criptomoeda) é menor que 2 segundos.
 
-### 2.1.2. Multichain Streams
+### 2.1.2. Multichain streams
 
 * O streams é uma abstração para o armazenamento de dados, indexação e recuperação de dados.
 * É possível ter vários streams.
@@ -922,7 +922,7 @@ Críticas: [Lightning Network has Failed](https://www.youtube.com/watch?v=5Cq0C0
 * Como os blocos são encadeados é possível saltá-los para consultar o bloco desejado.
 * As consultas detalhadas de um bloco exigem que se use o hash do bloco.
 
-### 2.1.4. MultichainSmart Filters
+### 2.1.4. Multichain smart filters
 
 * Smart filters são códigos!
 * Smart filters são funções que possibilitam verificações nas transações que são disparadas para a blockchain.
