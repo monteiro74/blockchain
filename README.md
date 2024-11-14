@@ -29,6 +29,11 @@ informação, programação e banco de dados.
 ---
 # Sumário
 
+
+
+
+
+
 - [Sobre Blockchain e livros razão](#sobre-blockchain-e-livros-razão)
       - [Objetivos:](#objetivos)
       - [Observações:](#observações)
@@ -82,9 +87,15 @@ informação, programação e banco de dados.
   - [1.18. Soluções de 2º camada x Sidechains](#118-soluções-de-2º-camada-x-sidechains)
 - [2. Blockchains privadas](#2-blockchains-privadas)
   - [2.1. Multhichain blockchain](#21-multhichain-blockchain)
+    - [2.1.1. Resumo sobre Multichain blockchain:](#211-resumo-sobre-multichain-blockchain)
+    - [2.1.2. Multichain Streams](#212-multichain-streams)
+    - [2.1.3. Multichain ativos](#213-multichain-ativos)
+    - [2.1.4. MultichainSmart Filters](#214-multichainsmart-filters)
+    - [2.1.5. Multichain outras referências](#215-multichain-outras-referências)
   - [2.2. Hyperledger](#22-hyperledger)
     - [2.2.1. Hyperledger Fabric](#221-hyperledger-fabric)
     - [2.2.2. Hyperledger Besu](#222-hyperledger-besu)
+    - [2.2.3. Solução b-cadastro](#223-solução-b-cadastro)
   - [2.3. Corda](#23-corda)
 - [3. Aplicabilidade](#3-aplicabilidade)
 - [4. Tendências](#4-tendências)
@@ -851,7 +862,7 @@ Críticas: [Lightning Network has Failed](https://www.youtube.com/watch?v=5Cq0C0
 
 ## 2.1. Multhichain blockchain
 
-Resumo sobre [Multichain blockchain](https://www.multichain.com/):
+### 2.1.1. Resumo sobre [Multichain blockchain](https://www.multichain.com/):
 
 * Foi criada pela Coin Sciences, uma empresa britânica.
 * É um fork do projeto bitcoin.
@@ -886,7 +897,8 @@ Resumo sobre [Multichain blockchain](https://www.multichain.com/):
 * Não possui limitações de nós por rede.
 * O blocktime (é o tempo de bloqueio é o tempo que leva para criar um novo bloco ou arquivo em uma cadeia de criptomoeda) é menor que 2 segundos.
 
-Streams:
+### 2.1.2. Multichain Streams
+
 * O streams é uma abstração para o armazenamento de dados, indexação e recuperação de dados.
 * É possível ter vários streams.
 * Cada stream pode estar aberto para escrita por todos ou apenas para alguns.
@@ -895,7 +907,8 @@ Streams:
 * Para que um dados seja publicado na stream é necessário permissão de escrita na stream alvo.
 * Uma consulta só pode ser feita em uma stream se foi feita uma assinatura (subscription) na referida stream.
 
-Ativos: 
+### 2.1.3. Multichain ativos
+
 * Os ativos tem uma função semelhante ao conceito de moeda.
 * Os ativos recebem uma quantidade inicial ao serem criados.
 * Este ativo pode ser dividido em partes menores (fracionado).
@@ -909,7 +922,8 @@ Ativos:
 * Como os blocos são encadeados é possível saltá-los para consultar o bloco desejado.
 * As consultas detalhadas de um bloco exigem que se use o hash do bloco.
 
-Smart Filters: 
+### 2.1.4. MultichainSmart Filters
+
 * Smart filters são códigos!
 * Smart filters são funções que possibilitam verificações nas transações que são disparadas para a blockchain.
 * Parecidos com triggers em bancos de dados.
@@ -925,7 +939,7 @@ B) Se recebe um valor diferente de vazio, a transação ou objeto é aceito.
 C) Somente com permissões é possível criar smart filters
 D) Streams podem ser ativadas ou desativadas.
 
-Outras referências:
+### 2.1.5. Multichain outras referências
 
 * Site principal da [Multichain blockchain](https://www.multichain.com/).
 * [Documentação da MultiChain](https://www.multichain.com/developers/).
