@@ -622,6 +622,13 @@ Metamask para [Google Chrome](https://chromewebstore.google.com/detail/metamask/
 
 Metamask para [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ether-metamask/).
 
+![https://github.com/monteiro74/blockchain/blob/main/figuras/metamask1.png](https://github.com/monteiro74/blockchain/blob/main/figuras/metamask1.png)
+
+
+![https://github.com/monteiro74/blockchain/blob/main/figuras/metamask4.png](https://github.com/monteiro74/blockchain/blob/main/figuras/metamask4.png)
+
+
+
 ### 1.7.3. Carteira em hardware
 
 * [Safepal S1](https://www.amazon.com.br/Carteira-criptomoeda-armazenamento-multicriptomoeda-seguran%C3%A7a/dp/B07L83HND8).
