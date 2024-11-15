@@ -1175,6 +1175,8 @@ Algunas referências desta seção não revistas científicas.
 
 [Bitcoin Lightning Network Explained: How it Actually Works](https://www.youtube.com/watch?v=yKdK-7AtAMQ)
 
+[Crypto: The World’s Greatest Scam.](https://www.youtube.com/watch?v=ORdWE_ffirg)
+
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
 ## 7.2. Artigos sobre criptomoedas, mineração e outros
