@@ -856,6 +856,9 @@ Dica: [O que são sidechains e como funcionam?](https://www.bity.com.br/blog/o-q
 
 Críticas: [Lightning Network has Failed](https://www.youtube.com/watch?v=5Cq0C0SpbkY).
 
+[Bitcoin Lightning Network Explained: How it Actually Works](https://www.youtube.com/watch?v=yKdK-7AtAMQ)
+
+
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
 # 2. Blockchains privadas
@@ -1167,6 +1170,10 @@ Algunas referências desta seção não revistas científicas.
 [Announcing Azure SQL Database ledger](https://techcommunity.microsoft.com/t5/azure-sql-blog/announcing-azure-sql-database-ledger/ba-p/2200401)
 
 [Distributed storage](https://fisco-bcos-documentation.readthedocs.io/en/latest/docs/manual/distributed_storage.html)
+
+[Lightning Network has Failed](https://www.youtube.com/watch?v=5Cq0C0SpbkY).
+
+[Bitcoin Lightning Network Explained: How it Actually Works](https://www.youtube.com/watch?v=yKdK-7AtAMQ)
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
