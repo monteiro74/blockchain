@@ -294,7 +294,7 @@ Em particular, as regras para a execução de transações ou operações são r
 
 ![Cadeia de blocos](https://raw.githubusercontent.com/monteiro74/blockchain/main/figuras/fig3.png "Cadeia de blocos")
 
-Figura 7: Exemplos de encadeamento de blocos.
+Figura 8: Exemplos de encadeamento de blocos.
 
 Artigo que iniciou com a ideia: [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf).
 
@@ -350,7 +350,7 @@ O exemplo acima rodando na IDE Spyder:
 
 ![https://raw.githubusercontent.com/monteiro74/blockchain/refs/heads/main/figuras/blockchain_python.png](https://raw.githubusercontent.com/monteiro74/blockchain/refs/heads/main/figuras/blockchain_python.png)
 
-Figura 8: Exemplo simplificado de conceitos em python.
+Figura 9: Exemplo simplificado de conceitos em python.
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
@@ -369,11 +369,11 @@ Figura 8: Exemplo simplificado de conceitos em python.
 
 ### 1.5.4. Alguns projetos de blockchain desde o surgimento até 2022
 
-Projetos de blockchain a partir do ano de criação até 2022: Hyperledger Fabric, Multichain blockchain, SAP blockchain, Hyperledger Besu, Oracle blockchain, [Hathor](https://hathor.network/), VMware VMBC, Azure Confidential Ledger, XO-DEX, Nano, Dragonchain, Openchain, GoQuorum. Estes projetos de blockchain apresentam características de custo zero de transação (ou taxa zero), as quais podem ser explorada por blockchain privadas.
+Projetos de blockchain a partir do ano de criação até 2022: Hyperledger Fabric, Multichain blockchain, SAP blockchain, Hyperledger Besu, Oracle blockchain, [Hathor](https://hathor.network/), VMware VMBC, Azure Confidential Ledger, XO-DEX, Nano, Dragonchain, [Openchain](https://github.com/openchain), GoQuorum. Estes projetos de blockchain apresentam características de custo zero de transação (ou taxa zero), as quais podem ser explorada por blockchain privadas.
 
 ![Alguns projetos de blockchain até 2022](https://raw.githubusercontent.com/monteiro74/blockchain/main/figuras/fig4.png)
 
-Figura 9: Linha do tempo de alguns projetos de blockchain.
+Figura 10: Linha do tempo de alguns projetos de blockchain.
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
@@ -424,6 +424,8 @@ Em resumo, o Ethereum é uma plataforma blockchain versátil que permite que
 A Máquina Virtual Ethereum é o computador virtual global cujo estado todos os participantes (nós) da rede Ethereum armazenam (seu estado) e concordam. Qualquer participante pode solicitar a execução de código arbitrário na EVM; a execução do código (via smart contract) altera o estado do EVM. 
 
 ![https://ethereum.org/content/developers/docs/evm/evm.png](https://ethereum.org/content/developers/docs/evm/evm.png)
+
+Figura 11: Máquina virtual Etehreum, fonte da figura: https://ethereum.org/en/developers/docs/evm/
 
 https://ethereum.org/en/developers/docs/evm/
 
@@ -552,7 +554,7 @@ Remix IDE:
 
 ![Remix IDE](https://raw.githubusercontent.com/monteiro74/blockchain/main/figuras/fig5.png)
 
-Figura 10: IDE Remix.
+Figura 12: IDE Remix.
 
 
 [Remix Ethereum](https://remix.ethereum.org/).
@@ -591,11 +593,11 @@ Um aplicativo descentralizado (dapp) é um aplicativo construído em uma rede de
 
 ![https://raw.githubusercontent.com/monteiro74/trab_tecnicas_prog/refs/heads/main/arquitetura.jpg](https://raw.githubusercontent.com/monteiro74/trab_tecnicas_prog/refs/heads/main/arquitetura.jpg)
 
-Figura 11: Arquetura de uma dapp.
+Figura 13: Arquetura de uma dapp.
 
 ![https://raw.githubusercontent.com/monteiro74/trab_tecnicas_prog/refs/heads/main/tela6.jpg](https://raw.githubusercontent.com/monteiro74/trab_tecnicas_prog/refs/heads/main/tela6.jpg)
 
-Figura 12: Exemplo da app rodando e o log console.
+Figura 14: Exemplo da app rodando e o log console.
 
 Um exemplo simples aqui: https://github.com/monteiro74/trab_tecnicas_prog
 
@@ -627,7 +629,7 @@ Carteira em software.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/512px-MetaMask_Fox.svg.png" alt="drawing" width="150"/>
 
-Figura 13: Logo do projeto Metamask, fonte da imagem: https://en.wikipedia.org/wiki/File:MetaMask_Fox.svg
+Figura 15: Logo do projeto Metamask, fonte da imagem: https://en.wikipedia.org/wiki/File:MetaMask_Fox.svg
 
 Metamask para [Google Chrome](https://chromewebstore.google.com/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn).
 
@@ -637,13 +639,13 @@ Metamask para [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ether-met
 
 ![https://github.com/monteiro74/blockchain/blob/main/figuras/metamask1.png](https://github.com/monteiro74/blockchain/blob/main/figuras/metamask1.png)
 
-Figura 14: Instalação do Metamask no Firefox.
+Figura 16: Instalação do Metamask no Firefox.
 
 
 ![https://github.com/monteiro74/blockchain/blob/main/figuras/metamask4.png](https://github.com/monteiro74/blockchain/blob/main/figuras/metamask4.png)
 
 
-Figura 15: Metamask já instalado e rodando no Firefox.
+Figura 17: Metamask já instalado e rodando no Firefox.
 
 
 ### 1.7.3. Carteira em hardware
@@ -658,7 +660,7 @@ Figura 15: Metamask já instalado e rodando no Firefox.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Carteira-hardware-ledger.jpg/450px-Carteira-hardware-ledger.jpg" alt="drawing" width="200"/>
 
-Figura 14: Nano X, fonte da imagem: https://pt.wikipedia.org/wiki/Ficheiro:Carteira-hardware-ledger.jpg
+Figura 18: Nano X, fonte da imagem: https://pt.wikipedia.org/wiki/Ficheiro:Carteira-hardware-ledger.jpg
 
 * [Trezor One + Billfodl](https://www.amazon.com.br/Trezor-One-Billfodl-Cryptocoin-armazenamento/dp/B07ZK3QD5C).
 
@@ -966,7 +968,7 @@ Estrutura de uma rede Hyperledger Fabric:
 
 <img src="https://raw.githubusercontent.com/monteiro74/blockchain/main/figuras/fig7.png" alt="drawing" width="500"/>
 
-Figura 15: Exemplo de rede Hyperledger Fabric.
+Figura 19: Exemplo de rede Hyperledger Fabric.
 
 Fonte da figura: https://hyperledger-fabric.readthedocs.io/en/latest/network/network.html
 
@@ -1040,7 +1042,7 @@ https://corda.net/
 
 ![Cadeia logística](https://raw.githubusercontent.com/monteiro74/blockchain/main/figuras/fig6.png)
 
-Figura 16: Exemplo de cadeia logística.
+Figura 20: Exemplo de cadeia logística.
 
 4. Registro imutável de informações
 
@@ -1068,7 +1070,7 @@ https://trends.google.com.br/trends/explore?date=2020-04-10%202024-11-04&q=%2Fg%
 
 ![https://raw.githubusercontent.com/monteiro74/blockchain/refs/heads/main/figuras/tendencias.png](https://raw.githubusercontent.com/monteiro74/blockchain/refs/heads/main/figuras/tendencias.png)
 
-Figura 17: Google trends, mundo, 2020-2024, todas as categorias, pesquisa na web. Captura em Novembro/2024.
+Figura 21: Google trends, mundo, 2020-2024, todas as categorias, pesquisa na web. Captura em Novembro/2024.
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
