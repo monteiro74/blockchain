@@ -732,17 +732,13 @@ Redes ponto a ponto financeiras seriam os locais onde os serviços DeFi existiri
 
 A proposta DeFi pode ter surgido como uma ideia nas quais pessoas poderiam fazer transações entre si sem pagar taxas, mas é necessário uma infraestrutura para a computação e operação de redes de comptuadores custosa, instituições financeiras podem participar cobrando taxas bancárias muito baixas, mais atrativas que no sistema tradicional. 
 
-Exemplo: unisawp, aave, makerdao, etc.
-
 > :warning: Projetos de DeFi em muitos paises não são regulamentadas pelos respectivos governos. É importante que se entenda quais são as garantias de transferências de cada plataforma, muitas DeFi ainda não são projetos consolidados. Sobre o uso de cripto nos sistemas de pagamentos [Why Crypto Will Never Fix Payments (feat. Patrick McKenzie) - Episode 143](https://www.youtube.com/watch?v=tEJ-7dAquwg).
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
 ### 1.10.1. DAO 
 
-Uma DAO (Organização Autônoma Descentralizada) é uma **organização governada por regras codificadas em contratos inteligentes**, permitindo que membros tomem decisões coletivas sem a necessidade de uma estrutura hierárquica tradicional. Em uma DAO, as regras e operações são transparentes e imutáveis, pois ficam registradas em uma blockchain. Geralmente, os membros de uma DAO possuem tokens de governança que lhes conferem poder de voto sobre decisões, como alocação de fundos, desenvolvimento de projetos, ou atualização das regras.
-
-O objetivo de uma DAO é promover uma gestão transparente e democrática, onde os membros participam de forma direta e colaborativa. Um exemplo de DAO é o MakerDAO. O MakerDAO é uma organização descentralizada responsável pela criação e governança da stablecoin DAI, que mantém seu valor atrelado ao dólar. Outro exemplo [MolochDAO](https://molochdao.com/).
+Uma DAO (Organização Autônoma Descentralizada) é uma **organização governada por regras codificadas em contratos inteligentes**, permitindo que membros tomem decisões coletivas sem a necessidade de uma estrutura hierárquica tradicional. Em uma DAO, as regras e operações são transparentes e imutáveis, pois ficam registradas em uma blockchain. Geralmente, os membros de uma DAO possuem tokens de governança que lhes conferem poder de voto sobre decisões, como alocação de fundos, desenvolvimento de projetos, ou atualização das regras. O objetivo de uma DAO é promover uma gestão transparente e democrática, onde os membros participam de forma direta e colaborativa. 
 
 > :warning: Projetos de DeFi inclusive de DAO, como comentado anteriormente ainda não tem respaldo legal nos seus países de origem, alguns projetos é difícil achar o pais sede do projeto, DAO e DeFi ainda tem uma estrada longa para se provarem práticos como meios de pagamento. Sobre o uso de cripto nos sistemas de pagamentos [Why Crypto Will Never Fix Payments (feat. Patrick McKenzie) - Episode 143](https://www.youtube.com/watch?v=tEJ-7dAquwg).
 
