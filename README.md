@@ -31,9 +31,6 @@ informação, programação e banco de dados.
 
 
 
-
-
-
 - [Sobre Blockchain e livros razão](#sobre-blockchain-e-livros-razão)
       - [Objetivos:](#objetivos)
       - [Observações:](#observações)
@@ -88,9 +85,9 @@ informação, programação e banco de dados.
 - [2. Blockchains privadas](#2-blockchains-privadas)
   - [2.1. Multhichain blockchain](#21-multhichain-blockchain)
     - [2.1.1. Resumo sobre Multichain blockchain:](#211-resumo-sobre-multichain-blockchain)
-    - [2.1.2. Multichain Streams](#212-multichain-streams)
+    - [2.1.2. Multichain streams](#212-multichain-streams)
     - [2.1.3. Multichain ativos](#213-multichain-ativos)
-    - [2.1.4. MultichainSmart Filters](#214-multichainsmart-filters)
+    - [2.1.4. Multichain smart filters](#214-multichain-smart-filters)
     - [2.1.5. Multichain outras referências](#215-multichain-outras-referências)
   - [2.2. Hyperledger](#22-hyperledger)
     - [2.2.1. Hyperledger Fabric](#221-hyperledger-fabric)
