@@ -732,19 +732,9 @@ Redes ponto a ponto financeiras seriam os locais onde os serviços DeFi existiri
 
 A proposta DeFi pode ter surgido como uma ideia nas quais pessoas poderiam fazer transações entre si sem pagar taxas, mas é necessário uma infraestrutura para a computação e operação de redes de comptuadores custosa, instituições financeiras podem participar cobrando taxas bancárias muito baixas, mais atrativas que no sistema tradicional. 
 
-Projetos DeFi permitem que usuários realizem atividades financeiras tradicionais, como trocas, empréstimos e poupança, de forma descentralizada e sem intermediários tradicionais, utilizando contratos inteligentes.
+Exemplo: unisawp, aave, makerdao, etc.
 
-Exemplo:
-
-* [Uniswap](https://app.uniswap.org/) – Uma exchange descentralizada que permite a negociação de tokens sem intermediários, usando pools de liquidez e um modelo de market maker automatizado (AMM).
-
-* [Aave](https://aave.com/) – Um protocolo de empréstimos descentralizado onde usuários podem emprestar e tomar emprestado criptomoedas, além de ganhar juros ao fornecer liquidez.
-
-* [MakerDAO](https://makerdao.com/) – Uma plataforma de stablecoin que usa o token DAI, vinculado ao dólar americano, e permite a criação de empréstimos descentralizados com colaterais em criptomoedas.
-
-* [Compound](https://app.compound.finance/markets) – Outro protocolo de empréstimo que permite aos usuários emprestar e tomar emprestado ativos digitais e ganhar juros, com um mercado de taxas de juros flutuantes.
-
-* [Synthetix](https://synthetix.io/) – Um protocolo de ativos sintéticos que permite a criação e negociação de ativos digitais que representam ativos do mundo real, como ações, moedas e commodities.
+> :warning: Projetos de DeFi em muitos paises não são regulamentadas pelos respectivos governos. É importante que se entenda quais são as garantias de transferências de cada plataforma, muitas DeFi ainda não são projetos consolidados. Sobre o uso de cripto nos sistemas de pagamentos [Why Crypto Will Never Fix Payments (feat. Patrick McKenzie) - Episode 143](https://www.youtube.com/watch?v=tEJ-7dAquwg).
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
@@ -754,7 +744,7 @@ Uma DAO (Organização Autônoma Descentralizada) é uma **organização governa
 
 O objetivo de uma DAO é promover uma gestão transparente e democrática, onde os membros participam de forma direta e colaborativa. Um exemplo de DAO é o MakerDAO. O MakerDAO é uma organização descentralizada responsável pela criação e governança da stablecoin DAI, que mantém seu valor atrelado ao dólar. Outro exemplo [MolochDAO](https://molochdao.com/).
 
-
+> :warning: Projetos de DeFi inclusive de DAO, como comentado anteriormente ainda não tem respaldo legal nos seus países de origem, alguns projetos é difícil achar o pais sede do projeto, DAO e DeFi ainda tem uma estrada longa para se provarem práticos como meios de pagamento. Sobre o uso de cripto nos sistemas de pagamentos [Why Crypto Will Never Fix Payments (feat. Patrick McKenzie) - Episode 143](https://www.youtube.com/watch?v=tEJ-7dAquwg).
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
@@ -792,7 +782,7 @@ São um tipo de criptomoeda que possui um valor atrelado a um ativo de referênc
 
 Um exemplo de stablecoin é o [Tether (USDT)](https://tether.to/en/). Ela é projetada para manter seu valor atrelado ao dólar americano, sendo respaldada por reservas em dólares ou ativos equivalentes, o que ajuda a manter a estabilidade de seu preço. Stablecoins como o Tether são amplamente utilizadas para facilitar transações em exchanges de criptomoedas, oferecendo uma opção menos volátil em comparação com outras criptomoedas como Bitcoin ou Ethereum. Dois exemplos de stablecoins são o Tether (USDT) e o [USD Coin (USDC)](https://www.circle.com/pt-br/usdc). Ambas são vinculadas ao dólar americano.
 
-**Investigação** sobre Tether... Exposing Tether - Bitcoin's Biggest Secret. Outros problemas com as Stable Coins comentados neste vídeo: [Which Stablecoins Are Safe to Use? (USDC, USDT, DAI, etc.)](https://www.youtube.com/watch?v=6OqvW-XbRPI).
+> :warning: **Investigação** sobre Tether... Exposing Tether - Bitcoin's Biggest Secret. Outros problemas com as Stable Coins comentados neste vídeo: [Which Stablecoins Are Safe to Use? (USDC, USDT, DAI, etc.)](https://www.youtube.com/watch?v=6OqvW-XbRPI).
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
