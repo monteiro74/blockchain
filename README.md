@@ -807,6 +807,8 @@ São um tipo de criptomoeda que possui um valor atrelado a um ativo de referênc
 
 Um exemplo de stablecoin é o [Tether (USDT)](https://tether.to/en/). Ela é projetada para manter seu valor atrelado ao dólar americano, sendo respaldada por reservas em dólares ou ativos equivalentes, o que ajuda a manter a estabilidade de seu preço. Stablecoins como o Tether são amplamente utilizadas para facilitar transações em exchanges de criptomoedas, oferecendo uma opção menos volátil em comparação com outras criptomoedas como Bitcoin ou Ethereum. Dois exemplos de stablecoins são o Tether (USDT) e o [USD Coin (USDC)](https://www.circle.com/pt-br/usdc). Ambas são vinculadas ao dólar americano.
 
+**Investigação** sobre Tether... [Exposing Tether - Bitcoin's Biggest Secret](https://www.youtube.com/watch?v=-whuXHSL1Pg) <<-- Este vídeo pode ser considerado FUD (Fear Uncertainty Doubt)? Outros problemas com as Stable Coins comentados neste vídeo: [Which Stablecoins Are Safe to Use? (USDC, USDT, DAI, etc.)](https://www.youtube.com/watch?v=6OqvW-XbRPI).
+
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
 
