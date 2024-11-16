@@ -767,7 +767,7 @@ São **sistemas que conectam blockchains a sistemas externos**, permitindo que o
 
 NFT significa Non-Fungible Token, **são ativos que podem ser tokenizados por uma blockchain** (ou seja, podem receber uma *representação virtual como um objeto dentro de uma blockchain*). Estes ativos podem representar qualquer coisa do mundo real como: obras de arte, carros, terrenos, etc. Recebem um código único de identificação e metadados que os descrevem (incluindo quantidade e valor). Os NFTs podem ser comprados e vendidos/trocados usando cripto moedas em determinadas plataformas. 
 
-Exemplo de NFT são os Bored Ape Yacht Club Galeria dos [BAYC](https://boredapeyachtclub.com/#/gallery) NFT (notícias sobre: https://www.coindesk.com/web3/2023/07/03/bored-ape-yacht-club-nft-collection-floor-price-sinks-to-20-month-low/ e  https://www.theguardian.com/artanddesign/2022/jan/04/bored-ape-nft-art-eminem). Outro exemplo de market place de NFT é o site [Criptokitties](https://www.cryptokitties.co/).
+Exemplo de NFT são os Bored Ape Yacht Club Galeria dos [BAYC](https://boredapeyachtclub.com/#/gallery) NFT (notícias sobre: https://www.coindesk.com/web3/2023/07/03/bored-ape-yacht-club-nft-collection-floor-price-sinks-to-20-month-low/ e  https://www.theguardian.com/artanddesign/2022/jan/04/bored-ape-nft-art-eminem). 
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
@@ -776,7 +776,7 @@ Exemplo de NFT são os Bored Ape Yacht Club Galeria dos [BAYC](https://boredapey
 
 São um tipo de criptomoeda que possui um valor atrelado a um ativo de referência que pode ser uma commodities, bens materiais, ouro ou outra moeda física. A ideia é ter uma **relação 1:1**, no qual a criptomeda stable coin tem seu valor indexado por uma outra moeda. Desta forma seu valor tende a não ter tanda volatilidade. Esta opção é mais atrativa pois permite a conversibilidade da moeda em outros bens.
 
-Um exemplo de stablecoin é o [Tether (USDT)](https://tether.to/en/). Ela é projetada para manter seu valor atrelado ao dólar americano, sendo respaldada por reservas em dólares ou ativos equivalentes, o que ajuda a manter a estabilidade de seu preço. Stablecoins como o Tether são amplamente utilizadas para facilitar transações em exchanges de criptomoedas, oferecendo uma opção menos volátil em comparação com outras criptomoedas como Bitcoin ou Ethereum. Dois exemplos de stablecoins são o Tether (USDT) e o [USD Coin (USDC)](https://www.circle.com/pt-br/usdc). Ambas são vinculadas ao dólar americano.
+Um exemplo de stablecoin é o Tether USDT. Ela é projetada para manter seu valor atrelado ao dólar americano, sendo respaldada por reservas em dólares ou ativos equivalentes, o que ajuda a manter a estabilidade de seu preço. Stablecoins como o Tether são amplamente utilizadas para facilitar transações em exchanges de criptomoedas, oferecendo uma opção menos volátil em comparação com outras criptomoedas como Bitcoin ou Ethereum.
 
 > :warning: **Investigação** sobre Tether... Exposing Tether - Bitcoin's Biggest Secret. Outros problemas com as Stable Coins comentados neste vídeo: [Which Stablecoins Are Safe to Use? (USDC, USDT, DAI, etc.)](https://www.youtube.com/watch?v=6OqvW-XbRPI).
 
@@ -814,7 +814,7 @@ Video sobre Dapps [What is a dApp? Decentralized Application on the Blockchain](
 | Critério                | Soluções de Segunda Camada                                       | Sidechains                                               |
 |-------------------------|------------------------------------------------------------------|----------------------------------------------------------|
 | **Estrutura**           | Construídas como uma camada extra sobre a blockchain principal, processando transações fora da primeira camada. | Blockchains independentes que operam em paralelo à  blockchain principal, conectadas a ela por um “peg” bidirecional.      |
-| **Exemplos**            | [Lightning Network (Bitcoin)](https://lightning.network/#intro), [Plasma (Ethereum)](https://ethereum.org/pt-br/developers/docs/scaling/plasma/)                  | [Liquid Network (Bitcoin)](https://liquid.net/), [Polygon (Ethereum)](https://polygon.technology/) |
+| **Exemplos**            | Lightning Network roda sobre Bitcoin, Plasma roda sobre Ethereum                 | Liquid Network roda sobre Bitcoin, Polygon roda sobre Ethereum |
 | **Mecanismo de Segurança** | Usa a segurança da blockchain principal,com validação periódica das transações.                    | Possui seu próprio mecanismo de consenso e segurança, podendo ter regras e parâmetros específicos.   |
 | **Tipo de Transação**   | Focada em transações rápidas e de baixo valor, omo micropagamentos ou trocas frequentes de ativos.                  | Permite transações variadas, incluindo operações complexas, com suporte a contratos inteligentes e tokens.         |
 | **Interdependência**    | Altamente dependente da blockchain principal para segurança e integridade das transações.  | Menos dependente da blockchain principal, funcionando de forma independente, embora conectada a ela. |
@@ -827,7 +827,7 @@ Video sobre Dapps [What is a dApp? Decentralized Application on the Blockchain](
 
 Dica: [O que são sidechains e como funcionam?](https://www.bity.com.br/blog/o-que-sao-sidechains-e-como-funcionam/#:~:text=A%20intera%C3%A7%C3%A3o%20entre%20a%20blockchain,ativos%20entre%20ambas%20as%20redes.).
 
-Críticas: [Lightning Network has Failed](https://www.youtube.com/watch?v=5Cq0C0SpbkY).
+> :warning: Críticas: [Lightning Network has Failed](https://www.youtube.com/watch?v=5Cq0C0SpbkY).
 
 [Bitcoin Lightning Network Explained: How it Actually Works](https://www.youtube.com/watch?v=yKdK-7AtAMQ)
 
