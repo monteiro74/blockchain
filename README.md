@@ -68,19 +68,20 @@ informação, programação e banco de dados.
     - [1.7.2. Metamask](#172-metamask)
     - [1.7.3. Carteira em hardware](#173-carteira-em-hardware)
   - [1.8. Mining (mineração)](#18-mining-mineração)
-  - [1.9. Consenso](#19-consenso)
-    - [1.9.1. PoW](#191-pow)
-    - [1.9.2. PoS](#192-pos)
-    - [1.9.3. PoA](#193-poa)
-    - [1.9.4. Comparações PoW, PoS e PoA](#194-comparações-pow-pos-e-poa)
-  - [1.10. DeFi](#110-defi)
-    - [1.10.1. DAO](#1101-dao)
-  - [1.11. Blockchain Oracle](#111-blockchain-oracle)
-  - [1.14. NFT](#114-nft)
-  - [1.15. Stable Coin](#115-stable-coin)
-  - [1.16. Block explorers](#116-block-explorers)
-  - [1.17. Dapps](#117-dapps)
-  - [1.18. Soluções de 2º camada x Sidechains](#118-soluções-de-2º-camada-x-sidechains)
+  - [1.9. Nonce](#19-nonce)
+  - [1.10. Consenso](#110-consenso)
+    - [1.10.1. PoW](#1101-pow)
+    - [1.10.2. PoS](#1102-pos)
+    - [1.10.3. PoA](#1103-poa)
+    - [1.10.4. Comparações PoW, PoS e PoA](#1104-comparações-pow-pos-e-poa)
+  - [1.11. DeFi](#111-defi)
+    - [1.11.1. DAO](#1111-dao)
+  - [1.12. Blockchain Oracle](#112-blockchain-oracle)
+  - [1.13. NFT](#113-nft)
+  - [1.14. Stable Coin](#114-stable-coin)
+  - [1.15. Block explorers](#115-block-explorers)
+  - [1.16. Dapps](#116-dapps)
+  - [1.17. Soluções de 2º camada x Sidechains](#117-soluções-de-2º-camada-x-sidechains)
 - [2. Blockchains privadas](#2-blockchains-privadas)
   - [2.1. Multhichain blockchain](#21-multhichain-blockchain)
     - [2.1.1. Resumo sobre Multichain blockchain:](#211-resumo-sobre-multichain-blockchain)
@@ -686,7 +687,8 @@ Fonte: https://www.investopedia.com/terms/b/bitcoin-mining.asp
 
 Definição de [Investopédia](https://www.investopedia.com/terms/n/nonce.asp#:~:text=%E2%80%9CNonce%E2%80%9D%20combines%20the%20phrase%20%E2%80%9C,value%20when%20mining%20a%20block.):
 ```
-“Nonce” combina a frase “número usado uma vez”. Ele é usado pelo blockchain Bitcoin para ajudar a gerar um valor hash ao minerar um bloco.
+“Nonce” combina a frase “número usado uma vez”. Ele é usado pelo blockchain Bitcoin 
+para ajudar a gerar um valor hash ao minerar um bloco.
 ```
 
 Definição de [Geeksforgeeks](https://www.geeksforgeeks.org/what-is-a-nonce-in-blockchain/)
@@ -719,25 +721,25 @@ tornando proibitivamente alto o esforço computacional necessário para tais alt
 ```
 
 
-## 1.9. Consenso
+## 1.10. Consenso
 
 É um sistema que valida uma transação e a marca como autêntica. Este mecanismo lista todas as transações válidas de uma moeda em uma blockchain para construir confiança na moeda entre os comerciantes. Diversas moedas, como Bitcoin, Ethereum etc, utilizam este sistema (também chamado de "protocolo de consenso").
 
-### 1.9.1. PoW
+### 1.10.1. PoW
 
 * PoW (Proof of Work): ‘Prova’ refere-se à solução de um problema altamente complexo, e ‘trabalho’ refere-se ao processo de resolução do mesmo. Os mineradores de moedas criptográficas competem para resolver o problema e ganhar o direito de processar a transação. O solucionador mais rápido recebe uma taxa de mineração dos comerciantes dessas moedas.
 
-### 1.9.2. PoS
+### 1.10.2. PoS
 
 * PoS (Proof of Stake): Este mecanismo escolhe aleatoriamente um proprietário máximo de moedas para validar uma transação. Também permite ao proprietário criar um bloco para a mesma moeda. Este mecanismo requer comparativamente menos energia, tempo de transação e uma taxa mais baixa. Moedas como Etherium 2.0
 
-### 1.9.3. PoA
+### 1.10.3. PoA
 
 * PoA (Proof of Authority): Prova de autoridade (PoA) é um tipo de mecanismo de consenso usado em alguns blockchains para decidir qual participante adicionará o próximo bloco de transações. Ao contrário da Prova de Trabalho do Bitcoin, onde os mineiros competem para resolver quebra-cabeças complexos, ou da Prova de Participação, onde a chance de adicionar um bloco depende de quanta criptomoeda uma pessoa possui, o PoA tem tudo a ver com identidade e reputação.
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
-### 1.9.4. Comparações PoW, PoS e PoA
+### 1.10.4. Comparações PoW, PoS e PoA
 
 
 | Característica                 | Proof of Work (PoW)                      | Proof of Stake (PoS)                         | Proof of Authority (PoA)                     |
@@ -760,7 +762,7 @@ Mais info... https://cleartax.in/s/consensus-in-blockchain
 
 
 
-## 1.10. DeFi
+## 1.11. DeFi
 
 Significa **Decentralized Finance** (DeFi). É um conceito que visa trazer os serviços financeiros tradicionais para o universo das criptomoedas usando blockchains e "ledgers" distribuídas. Um atrativo para o uso de DeFi seria a não existência de taxas bancárias entre as transações.  O usuários destes serviços poderiam manter dinheiro digital em uma carteira (wallets) de forma segura (pelo uso de criptografia) e realizar transferências de fundos (cripto ativos) entre outros usuários deste ecossistema via Internet se unidades centrais de controle ou bancos tradicionais para intervir neste processo.
 
@@ -772,7 +774,7 @@ A proposta DeFi pode ter surgido como uma ideia nas quais pessoas poderiam fazer
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
-### 1.10.1. DAO 
+### 1.11.1. DAO 
 
 Uma DAO (Organização Autônoma Descentralizada) é uma **organização governada por regras codificadas em contratos inteligentes**, permitindo que membros tomem decisões coletivas sem a necessidade de uma estrutura hierárquica tradicional. Em uma DAO, as regras e operações são transparentes e imutáveis, pois ficam registradas em uma blockchain. Geralmente, os membros de uma DAO possuem tokens de governança que lhes conferem poder de voto sobre decisões, como alocação de fundos, desenvolvimento de projetos, ou atualização das regras. O objetivo de uma DAO é promover uma gestão transparente e democrática, onde os membros participam de forma direta e colaborativa. 
 
@@ -780,7 +782,7 @@ Uma DAO (Organização Autônoma Descentralizada) é uma **organização governa
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
-## 1.11. Blockchain Oracle
+## 1.12. Blockchain Oracle
 
 São **sistemas que conectam blockchains a sistemas externos**, permitindo que os smart contracts possam de acordo com parâmetros externos. Desta forma sistema pré-existentes (ou legados) possam se conectar (via WEB3) com as blockchains. Os oracles podem receber dados do mundo externo (qualquer tipo de dados, por exemplo: dados de sensor de temperatura) e envia estes dados para a blockchain. Permite que ecossistemas decentralizados possam ter acessoa fontes de dados externas. 
 
@@ -799,7 +801,7 @@ São **sistemas que conectam blockchains a sistemas externos**, permitindo que o
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
 
-## 1.14. NFT
+## 1.13. NFT
 
 NFT significa Non-Fungible Token, **são ativos que podem ser tokenizados por uma blockchain** (ou seja, podem receber uma *representação virtual como um objeto dentro de uma blockchain*). Estes ativos podem representar qualquer coisa do mundo real como: obras de arte, carros, terrenos, etc. Recebem um código único de identificação e metadados que os descrevem (incluindo quantidade e valor). Os NFTs podem ser comprados e vendidos/trocados usando cripto moedas em determinadas plataformas. 
 
@@ -808,7 +810,7 @@ Exemplo de NFT são os Bored Ape Yacht Club Galeria dos [BAYC](https://boredapey
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
 
-## 1.15. Stable Coin
+## 1.14. Stable Coin
 
 São um tipo de criptomoeda que possui um valor atrelado a um ativo de referência que pode ser uma commodities, bens materiais, ouro ou outra moeda física. A ideia é ter uma **relação 1:1**, no qual a criptomeda stable coin tem seu valor indexado por uma outra moeda. Desta forma seu valor tende a não ter tanda volatilidade. Esta opção é mais atrativa pois permite a conversibilidade da moeda em outros bens.
 
@@ -819,7 +821,7 @@ Um exemplo de stablecoin é o Tether USDT. Ela é projetada para manter seu valo
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
 
-## 1.16. Block explorers
+## 1.15. Block explorers
 
 Os exploradores (explorers) de blocos são o seu portal para os dados do Ethereum. Você pode usá-los para ver dados em tempo real sobre blocos, transações, validadores, contas e outras atividades na rede.
 
@@ -837,7 +839,7 @@ Alguns exemplos:
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
 
-## 1.17. Dapps 
+## 1.16. Dapps 
 
 Um aplicativo descentralizado (dapp) é um aplicativo construído em uma rede descentralizada que combina um contrato inteligente e uma interface de usuário frontend. No Ethereum, os contratos inteligentes são acessíveis e transparentes, assim um Dapp pode até incluir um contrato inteligente escrito por outra pessoa.
 
@@ -845,7 +847,7 @@ Video sobre Dapps [What is a dApp? Decentralized Application on the Blockchain](
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
-## 1.18. Soluções de 2º camada x Sidechains
+## 1.17. Soluções de 2º camada x Sidechains
 
 | Critério                | Soluções de Segunda Camada                                       | Sidechains                                               |
 |-------------------------|------------------------------------------------------------------|----------------------------------------------------------|
