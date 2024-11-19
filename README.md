@@ -1037,6 +1037,74 @@ https://corda.net/
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
+## 2.4. DLT em bancos de dados
+
+### 2.4.1. Oracle blockchain
+
+[Oracle Database native Blockchain and Immutable Tables](https://blogs.oracle.com/coretec/post/blockchain-or-immutable-tables)
+
+Citado da documentação oficial:
+
+Tabelas imutáveis:
+```
+Immutable tables are read-only tables that prevent unauthorized data modifications 
+by insiders and accidental data modifications resulting from human errors.
+```
+
+Tabelas blockchain:
+```
+Blockchain tables are insert-only tables that organize rows into a number of chains. 
+Each row in a chain, except the first row, is chained to the previous row in the 
+chain by using a cryptographic hash.
+```
+
+Comparativo:
+
+
+| **Aspecto**                              | **Immutable Tables**                                                              | **Blockchain Tables**                                                                                  |
+|------------------------------------------|----------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| **Prevenção de alterações não autorizadas** | Prevenção de alterações por insiders mal-intencionados com acesso a credenciais.   | Além da prevenção de alterações por insiders mal-intencionados, detecta alterações não autorizadas feitas fora do Oracle Database. |
+| **Impersonação de usuários**             | Não mencionado.                                                                  | Detecta a inserção de dados em nome de um usuário sem sua autorização.                                |
+| **Garantia de integridade dos dados**    | Não mencionado.                                                                  | Previne adulteração e garante que os dados foram realmente inseridos na tabela.                      |
+| **Encadeamento de linhas**               | Linhas não são encadeadas.                                                       | Cada linha (exceto a primeira) é encadeada à anterior usando um hash criptográfico.                   |
+| **Quebra do encadeamento**               | Não aplicável.                                                                   | Modificações em uma linha quebram o encadeamento, indicando adulteração.                              |
+| **Processamento adicional no commit**    | Não requer processamento adicional no momento do commit.                         | Requer processamento adicional no momento do commit para encadear as linhas.                          |
+
+
+Fonte: https://docs.oracle.com/en/database/oracle/oracle-database/19/admin/managing-tables.html#GUID-F537DD20-58ED-450A-837C-372E3BDA12F9
+
+[Voltar ao início](#sobre-blockchain-e-livros-razão)
+
+### 2.4.2. SQL Server Ledger table
+
+
+[Ledger overview](https://learn.microsoft.com/en-us/sql/relational-databases/security/ledger/ledger-overview?view=sql-server-ver16)
+
+![https://learn.microsoft.com/en-us/sql/relational-databases/security/ledger/media/ledger/ledger-table-architecture.png?view=sql-server-ver16](https://learn.microsoft.com/en-us/sql/relational-databases/security/ledger/media/ledger/ledger-table-architecture.png?view=sql-server-ver16)
+
+### 2.4.3. Outros bancos de dados + Blockchain
+
+[Blockchain baseadas em blockchain](https://blog.logrocket.com/top-7-blockchain-based-databases/)
+ 
+[OurSQL — tool to replicate MySQL databases using blockchain](https://medium.com/@gelembjuk/oursql-tool-to-replicate-mysql-databases-using-blockchain-5ae509636435)
+
+[Bitcoin Blockchain SQL Schema for MySQL](https://crypto.bi/schema/)
+
+[RBaaS: A Robust Blockchain as a Service Paradigm in Cloud-Edge Collaborative Environment](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9740132)
+
+[Integration of Blockchain and Remote Database Access Protocol-based Database](https://www.researchgate.net/publication/344194318_Integration_of_Blockchain_and_Remote_Database_Access_Protocol-based_Database)
+
+[Blockchain Based Charity System Using PHP/MySQL](https://www.irjet.net/archives/V9/i5/IRJET-V9I555.pdf)
+
+[Building a Blockchain Inside PostgreSQL](https://postgresconf.org/conferences/2021_Postgres_Conference_Webinars/program/proposals/building-a-blockchain-inside-postgresql)
+
+[PostgreSQL and Blockchain: Storing Blockchain Data](https://reintech.io/blog/postgresql-and-blockchain-storing-data)
+
+[Blockchain PG: Enabling Authenticated Query and Trace Query in Database](https://link.springer.com/chapter/10.1007/978-3-030-60290-1_41)
+
+[Voltar ao início](#sobre-blockchain-e-livros-razão)
+
+
 --- 
 # 3. Aplicabilidade 
 
