@@ -1,6 +1,7 @@
 # Sobre Blockchain e livros razão
 
 
+
 ---
 #### Objetivos: 
 ```
@@ -13,6 +14,9 @@
  alunos e devs. 
 5. Este material esta em construção.
 ```
+
+
+
 
 ---
 #### Observações:
@@ -30,6 +34,88 @@ informação, programação e banco de dados.
 # Sumário
 
 
+
+- [Sobre Blockchain e livros razão](#sobre-blockchain-e-livros-razão)
+      - [Objetivos:](#objetivos)
+      - [Observações:](#observações)
+- [Sumário](#sumário)
+- [1. Conceitos](#1-conceitos)
+  - [1.1. O problema de double spending](#11-o-problema-de-double-spending)
+  - [1.2. Criptografia de chave privada](#12-criptografia-de-chave-privada)
+  - [1.3. Critografia de chave pública](#13-critografia-de-chave-pública)
+  - [1.4. Certificado digital](#14-certificado-digital)
+  - [1.4.1. ICP Brasil](#141-icp-brasil)
+  - [1.5. Tecnologias de livro razão](#15-tecnologias-de-livro-razão)
+    - [1.5.1. Gráfos acíclicos dirigidos](#151-gráfos-acíclicos-dirigidos)
+      - [1.5.1.1. IOTA](#1511-iota)
+      - [1.5.1.2. Hedera](#1512-hedera)
+      - [1.5.1.3. Obyte](#1513-obyte)
+      - [1.5.1.4. IPFS](#1514-ipfs)
+      - [1.5.1.5 Projeto Swarm](#1515-projeto-swarm)
+    - [1.5.2. Blockchain](#152-blockchain)
+      - [1.5.2.1. Exemplo em Python](#1521-exemplo-em-python)
+    - [1.5.3. Diferentes tipos de DLT](#153-diferentes-tipos-de-dlt)
+    - [1.5.4. Alguns projetos de blockchain desde o surgimento até 2022](#154-alguns-projetos-de-blockchain-desde-o-surgimento-até-2022)
+  - [1.6. Ethereum](#16-ethereum)
+    - [1.6.1. EVM](#161-evm)
+      - [1.6.2 Ethereum nodes](#162-ethereum-nodes)
+      - [1.6.2.1. Full nodes](#1621-full-nodes)
+      - [1.6.2.2. Archive nodes](#1622-archive-nodes)
+      - [1.6.2.3. Light nodes](#1623-light-nodes)
+    - [1.6.2. Smart contracts](#162-smart-contracts)
+    - [1.6.3. ETH](#163-eth)
+    - [1.6.4. Gas fee](#164-gas-fee)
+    - [1.6.5. IDE para programar com Ethereum](#165-ide-para-programar-com-ethereum)
+      - [1.6.5.1. dApps](#1651-dapps)
+      - [1.6.5.2. Arquitetura de uma aplicação Web3 (dapp)](#1652-arquitetura-de-uma-aplicação-web3-dapp)
+  - [1.7. Wallets](#17-wallets)
+    - [1.7.1. Carteiras, Contas, Chaves e Endereços no Ethereum](#171-carteiras-contas-chaves-e-endereços-no-ethereum)
+    - [1.7.2. Metamask](#172-metamask)
+    - [1.7.3. Carteira em hardware](#173-carteira-em-hardware)
+  - [1.8. Mining (mineração)](#18-mining-mineração)
+  - [1.9. Nonce](#19-nonce)
+  - [1.10. Consenso](#110-consenso)
+    - [1.10.1. PoW](#1101-pow)
+    - [1.10.2. PoS](#1102-pos)
+    - [1.10.3. PoA](#1103-poa)
+    - [1.10.4. Comparações PoW, PoS e PoA](#1104-comparações-pow-pos-e-poa)
+  - [1.11. DeFi](#111-defi)
+    - [1.11.1. DAO](#1111-dao)
+  - [1.12. Blockchain Oracle](#112-blockchain-oracle)
+  - [1.13. NFT](#113-nft)
+  - [1.14. Stable Coin](#114-stable-coin)
+  - [1.15. Block explorers](#115-block-explorers)
+  - [1.16. Dapps](#116-dapps)
+  - [1.17. Soluções de 2º camada x Sidechains](#117-soluções-de-2º-camada-x-sidechains)
+- [2. Blockchains privadas](#2-blockchains-privadas)
+  - [2.1. Multhichain blockchain](#21-multhichain-blockchain)
+    - [2.1.1. Resumo sobre Multichain blockchain:](#211-resumo-sobre-multichain-blockchain)
+    - [2.1.2. Multichain streams](#212-multichain-streams)
+    - [2.1.3. Multichain ativos](#213-multichain-ativos)
+    - [2.1.4. Multichain smart filters](#214-multichain-smart-filters)
+    - [2.1.5. Multichain outras referências](#215-multichain-outras-referências)
+  - [2.2. Hyperledger](#22-hyperledger)
+    - [2.2.1. Hyperledger Fabric](#221-hyperledger-fabric)
+    - [2.2.2. Hyperledger Besu](#222-hyperledger-besu)
+    - [2.2.3. Solução b-cadastro](#223-solução-b-cadastro)
+  - [2.3. Corda](#23-corda)
+  - [2.4. DLT em bancos de dados](#24-dlt-em-bancos-de-dados)
+    - [2.4.1. Oracle blockchain](#241-oracle-blockchain)
+    - [2.4.2. SQL Server Ledger table](#242-sql-server-ledger-table)
+    - [2.4.3. Outros bancos de dados + Blockchain](#243-outros-bancos-de-dados--blockchain)
+- [3. Aplicabilidade](#3-aplicabilidade)
+- [4. Tendências](#4-tendências)
+  - [4.1. Situação de alguns projetos](#41-situação-de-alguns-projetos)
+- [5. Videos](#5-videos)
+- [6. Treinamentos](#6-treinamentos)
+- [7. Reportagens e artigos](#7-reportagens-e-artigos)
+  - [7.1. Sobre blockchain](#71-sobre-blockchain)
+  - [7.2. Artigos sobre criptomoedas, mineração e outros](#72-artigos-sobre-criptomoedas-mineração-e-outros)
+- [8. Fontes e referências diversas](#8-fontes-e-referências-diversas)
+- [Avisos \& licença](#avisos--licença)
+  - [Aviso](#aviso)
+  - [Licença](#licença)
+- [Estatísticas desta página](#estatísticas-desta-página)
 
 
 ---
@@ -969,15 +1055,15 @@ Citado da documentação oficial:
 
 Tabelas imutáveis:
 ```
-Immutable tables are read-only tables that prevent unauthorized data modifications 
-by insiders and accidental data modifications resulting from human errors.
+Tabelas imutáveis ​​são tabelas somente leitura que evitam modificações não autorizadas de dados 
+por pessoas internas e modificações acidentais de dados resultantes de erros humanos.
 ```
 
 Tabelas blockchain:
 ```
-Blockchain tables are insert-only tables that organize rows into a number of chains. 
-Each row in a chain, except the first row, is chained to the previous row in the 
-chain by using a cryptographic hash.
+As tabelas Blockchain são tabelas somente de inserção que organizam as linhas em várias cadeias. 
+Cada linha de uma cadeia, exceto a primeira linha, é encadeada à linha anterior da cadeia. 
+cadeia usando um hash criptográfico.
 ```
 
 Comparativo:
