@@ -681,6 +681,43 @@ Fonte: https://www.investopedia.com/terms/b/bitcoin-mining.asp
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
 
+## 1.9. Nonce 
+
+
+Definição de [Investopédia](https://www.investopedia.com/terms/n/nonce.asp#:~:text=%E2%80%9CNonce%E2%80%9D%20combines%20the%20phrase%20%E2%80%9C,value%20when%20mining%20a%20block.):
+```
+“Nonce” combina a frase “número usado uma vez”. Ele é usado pelo blockchain Bitcoin para ajudar a gerar um valor hash ao minerar um bloco.
+```
+
+Definição de [Geeksforgeeks](https://www.geeksforgeeks.org/what-is-a-nonce-in-blockchain/)
+```
+é um número aleatório ou semi-aleatório gerado pelos mineiros quando criam um novo bloco na blockchain.
+
+A palavra “nonce” deriva do latim e significa “número usado uma vez”. Isto quer dizer que este número 
+deve ser usado apenas uma vez neste caso específico.
+Os nonces são de importância central para o modelo do mecanismo de consenso de prova de trabalho, que 
+é uma forma bem conhecida de operar em muitos blockchains, como Bitcoin e Ethereum.
+Os Nonces fornecem a capacidade de provar o envolvimento no processo de mineração de um problema 
+matemático complexo e a exigência de adicionar um novo bloco ao blockchain
+```
+
+Definição de [Cointelegraph](https://cointelegraph.com/explained/what-is-a-nonce-in-blockchain-explained):
+```
+Um nonce, abreviação de “número usado uma vez”, é um número especial atribuído a um bloco em uma 
+blockchain durante o processo de mineração. É uma parte essencial do mecanismo de consenso de prova 
+de trabalho (PoW). 
+
+O nonce, servindo como um quebra-cabeça criptográfico, é uma variável que os mineradores manipulam 
+para produzir um valor hash que satisfaça requisitos específicos. Os mineradores continuam alterando 
+o nonce até encontrarem um hash que possua as propriedades necessárias, que geralmente são um 
+determinado número de zeros à esquerda. Este processo iterativo, conhecido como mineração, 
+garante a segurança do blockchain.
+
+O nonce correto é essencial para validar a legitimidade de um bloco e desempenha um papel 
+fundamental na criação de um bloco. Ele evita que atores mal-intencionados adulterem os dados, 
+tornando proibitivamente alto o esforço computacional necessário para tais alterações.
+```
+
 
 ## 1.9. Consenso
 
