@@ -1037,9 +1037,17 @@ https://trends.google.com.br/trends/explore?date=2020-04-10%202024-11-04&q=%2Fg%
 
 
 
+
 ![https://raw.githubusercontent.com/monteiro74/blockchain/refs/heads/main/figuras/tendencias.png](https://raw.githubusercontent.com/monteiro74/blockchain/refs/heads/main/figuras/tendencias.png)
 
 Figura 21: Google trends, mundo, 2020-2024, todas as categorias, pesquisa na web. Captura em Novembro/2024.
+
+
+## 4.1. Situação de alguns projetos
+
+> [!WARNING]  
+> https://www.web3isgoinggreat.com/
+
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
