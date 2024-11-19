@@ -30,7 +30,6 @@ informação, programação e banco de dados.
 # Sumário
 
 
-
 - [Sobre Blockchain e livros razão](#sobre-blockchain-e-livros-razão)
       - [Objetivos:](#objetivos)
       - [Observações:](#observações)
@@ -96,6 +95,7 @@ informação, programação e banco de dados.
   - [2.3. Corda](#23-corda)
 - [3. Aplicabilidade](#3-aplicabilidade)
 - [4. Tendências](#4-tendências)
+  - [4.1. Situação de alguns projetos](#41-situação-de-alguns-projetos)
 - [5. Videos](#5-videos)
 - [6. Treinamentos](#6-treinamentos)
 - [7. Reportagens e artigos](#7-reportagens-e-artigos)
@@ -106,7 +106,6 @@ informação, programação e banco de dados.
   - [Aviso](#aviso)
   - [Licença](#licença)
 - [Estatísticas desta página](#estatísticas-desta-página)
-
 
 
 
