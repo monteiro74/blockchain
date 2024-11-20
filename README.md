@@ -1365,6 +1365,8 @@ Algunas referências desta seção não revistas científicas.
 
 [Dead Coins: Over 50% of Cryptocurrencies Have Failed](https://www.coingecko.com/research/publications/how-many-cryptocurrencies-failed)
 
+[Squid Game But It's a Crypto Scam](https://www.youtube.com/watch?v=YoFQcU3_-p4)
+
 [Lista de blockchains](https://en.wikipedia.org/wiki/List_of_blockchains)
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
