@@ -1124,6 +1124,10 @@ Fonte: https://docs.oracle.com/en/database/oracle/oracle-database/19/admin/manag
 
 [Blockchain PG: Enabling Authenticated Query and Trace Query in Database](https://link.springer.com/chapter/10.1007/978-3-030-60290-1_41)
 
+[Blockchain Database: A Comprehensive Guide](https://www.mongodb.com/resources/basics/databases/blockchain-database)
+
+[Blockchain-based Database to Ensure Data Integrity in Cloud Computing Environments](https://ceur-ws.org/Vol-1816/paper-15.pdf)
+
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
 
