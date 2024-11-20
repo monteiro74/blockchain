@@ -56,7 +56,7 @@ informação, programação e banco de dados.
       - [1.5.2.2. Exemplo em Python](#1522-exemplo-em-python)
     - [1.5.3. Diferentes tipos de DLT](#153-diferentes-tipos-de-dlt)
     - [1.5.4. Alguns projetos de blockchain desde o surgimento até 2022](#154-alguns-projetos-de-blockchain-desde-o-surgimento-até-2022)
-  - [1.6. Ethereum](#16-ethereum)
+  - [1.6. Ethereum blockchain](#16-ethereum-blockchain)
     - [1.6.1. EVM](#161-evm)
       - [1.6.2 Ethereum nodes](#162-ethereum-nodes)
       - [1.6.2.1. Full nodes](#1621-full-nodes)
@@ -99,7 +99,7 @@ informação, programação e banco de dados.
     - [2.2.2. Hyperledger Besu](#222-hyperledger-besu)
     - [2.2.3. Solução b-cadastro](#223-solução-b-cadastro)
   - [2.3. Corda](#23-corda)
-  - [2.4. DLT em bancos de dados](#24-dlt-em-bancos-de-dados)
+  - [2.4. DLT (distributed ledger technology) em bancos de dados](#24-dlt-distributed-ledger-technology-em-bancos-de-dados)
     - [2.4.1. Oracle blockchain](#241-oracle-blockchain)
     - [2.4.2. SQL Server Ledger table](#242-sql-server-ledger-table)
     - [2.4.3. Outros bancos de dados + Blockchain](#243-outros-bancos-de-dados--blockchain)
@@ -116,6 +116,7 @@ informação, programação e banco de dados.
   - [Aviso](#aviso)
   - [Licença](#licença)
 - [Estatísticas desta página](#estatísticas-desta-página)
+
 
 
 ---
