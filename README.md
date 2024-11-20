@@ -395,7 +395,7 @@ Figura 10: Linha do tempo de alguns projetos de blockchain.
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
-## 1.6. Ethereum 
+## 1.6. Ethereum blockchain
 
 Ethereum é uma rede de computadores em todo o mundo que segue um conjunto de regras do chamado protocolo Ethereum.
 
@@ -1058,7 +1058,7 @@ https://corda.net/
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
-## 2.4. DLT em bancos de dados
+## 2.4. DLT (distributed ledger technology) em bancos de dados
 
 ### 2.4.1. Oracle blockchain
 
