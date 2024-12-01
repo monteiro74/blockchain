@@ -1106,7 +1106,7 @@ Fonte: https://docs.oracle.com/en/database/oracle/oracle-database/19/admin/manag
 
 ### 2.4.3. Outros bancos de dados + Blockchain
 
-[Blockchain baseadas em blockchain](https://blog.logrocket.com/top-7-blockchain-based-databases/)
+[Blockchain baseadas em bancos de dados](https://blog.logrocket.com/top-7-blockchain-based-databases/)
  
 [OurSQL — tool to replicate MySQL databases using blockchain](https://medium.com/@gelembjuk/oursql-tool-to-replicate-mysql-databases-using-blockchain-5ae509636435)
 
