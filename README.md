@@ -197,7 +197,8 @@ Programa que implementa criptografia e assinatura de mensagem: https://www.openp
 
 É um documento eletrônico usado para comprovar a validade de uma chave pública. O certificado inclui a chave pública e informações sobre ela, informações sobre a identidade de seu proprietário (chamado de sujeito) e a assinatura digital de uma entidade que verificou o conteúdo do certificado (chamado de emissor). Fonte: https://en.wikipedia.org/wiki/Public_key_certificate
 
-![https://upload.wikimedia.org/wikipedia/commons/0/01/Client_and_Server_Certificate.png](https://upload.wikimedia.org/wikipedia/commons/0/01/Client_and_Server_Certificate.png)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Client_and_Server_Certificate.png" alt="Certificado digital do site Wikipedia" width="500"/>
 
 Figura 1: Certificado digital do site Wikipedia. Fonte:
 https://pt.wikipedia.org/wiki/Certificado_digital#/media/Ficheiro:Client_and_Server_Certificate.png
@@ -213,7 +214,8 @@ Infra Estrutura de Chaves Pública Brasil https://www.gov.br/iti/pt-br/assuntos/
 
 Estrutura da ICP Brasil:
 
-![https://www.gov.br/iti/pt-br/assuntos/icp-brasil/EcossistemaICPBrasil_2408221.png](https://www.gov.br/iti/pt-br/assuntos/icp-brasil/EcossistemaICPBrasil_2408221.png)
+
+<img src="https://www.gov.br/iti/pt-br/assuntos/icp-brasil/EcossistemaICPBrasil_2408221.png" alt="Estrutura da ICP Brasil" width="700"/>
 
 Figura 2: Ecossistema da ICP-Brasil. Fonte: https://www.gov.br/iti/pt-br/assuntos/icp-brasil/ecossistema-icp-brasil).
 
@@ -477,7 +479,7 @@ Em resumo, o Ethereum é uma plataforma blockchain versátil que permite que
 
 A Máquina Virtual Ethereum é o computador virtual global cujo estado todos os participantes (nós) da rede Ethereum armazenam (seu estado) e concordam. Qualquer participante pode solicitar a execução de código arbitrário na EVM; a execução do código (via smart contract) altera o estado do EVM. 
 
-![https://ethereum.org/content/developers/docs/evm/evm.png](https://ethereum.org/content/developers/docs/evm/evm.png)
+<img src="https://ethereum.org/content/developers/docs/evm/evm.png" alt="Estrutura da EVM" width="500"/>
 
 Figura 11: Máquina virtual Etehreum, fonte da figura: https://ethereum.org/en/developers/docs/evm/
 
@@ -1134,10 +1136,9 @@ Fonte: https://docs.oracle.com/en/database/oracle/oracle-database/19/admin/manag
 
 ### 2.4.2. SQL Server Ledger table
 
+<img src="https://learn.microsoft.com/en-us/sql/relational-databases/security/ledger/media/ledger/ledger-table-architecture.png?view=sql-server-ver16" alt="Ledger overview" width="400">
 
-[Ledger overview](https://learn.microsoft.com/en-us/sql/relational-databases/security/ledger/ledger-overview?view=sql-server-ver16)
-
-![https://learn.microsoft.com/en-us/sql/relational-databases/security/ledger/media/ledger/ledger-table-architecture.png?view=sql-server-ver16](https://learn.microsoft.com/en-us/sql/relational-databases/security/ledger/media/ledger/ledger-table-architecture.png?view=sql-server-ver16)
+Figura 20: Ledger overview, Microsoft.
 
 ### 2.4.3. Outros bancos de dados + Blockchain
 
@@ -1234,7 +1235,7 @@ Fonte: https://docs.oracle.com/en/database/oracle/oracle-database/19/admin/manag
 
 ![Cadeia logística](https://raw.githubusercontent.com/monteiro74/blockchain/main/figuras/fig6.png)
 
-Figura 20: Exemplo de cadeia logística.
+Figura 21: Exemplo de cadeia logística.
 
 4. Registro imutável de informações
 
@@ -1342,7 +1343,7 @@ https://trends.google.com.br/trends/explore?date=2020-04-10%202024-11-04&q=%2Fg%
 
 ![https://raw.githubusercontent.com/monteiro74/blockchain/refs/heads/main/figuras/tendencias.png](https://raw.githubusercontent.com/monteiro74/blockchain/refs/heads/main/figuras/tendencias.png)
 
-Figura 21: Google trends, mundo, 2020-2024, todas as categorias, pesquisa na web. Captura em Novembro/2024.
+Figura 22: Google trends, mundo, 2020-2024, todas as categorias, pesquisa na web. Captura em Novembro/2024.
 
 
 ## 4.1. Situação de alguns projetos
@@ -1556,7 +1557,6 @@ https://dl.acm.org/doi/abs/10.1145/3448016.3457558
 
 BASSILIOS, J. **OECD adopts recommendations on blockchain and other DLT**. Accessed: 2022-10-20.
 https://www.oecd.org/daf/blockchain/oecd-recommendation-on-blockchain-and-other-dlt.htm
-
 
 BERAWI, M. A.; REYES, G.; SARI, M.; SAROJI, G. **Developing Public-Private Partnership Model with Blockchain-Based Crowdfunding Concept for Port City Project**. In: ASSOCIATION FOR COMPUTING MACHINERY, 2021, New York, NY, USA. Anais. Association for Computing Machinery, 2021. (SPBPU IDE ’20).
 https://dl.acm.org/doi/abs/10.1145/3444465.3444476
