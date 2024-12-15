@@ -34,6 +34,7 @@ informação, programação e banco de dados.
 # Sumário
 
 
+
 - [Sobre Blockchain e livros razão](#sobre-blockchain-e-livros-razão)
       - [Objetivos:](#objetivos)
       - [Observações:](#observações)
@@ -103,7 +104,40 @@ informação, programação e banco de dados.
     - [2.4.1. Oracle blockchain](#241-oracle-blockchain)
     - [2.4.2. SQL Server Ledger table](#242-sql-server-ledger-table)
     - [2.4.3. Outros bancos de dados + Blockchain](#243-outros-bancos-de-dados--blockchain)
-- [3. Aplicabilidade](#3-aplicabilidade)
+- [3. Escalabilidade e performance em blockchains](#3-escalabilidade-e-performance-em-blockchains)
+  - [3.1 Soluções como sharding, rollups e canais de estado.](#31-soluções-como-sharding-rollups-e-canais-de-estado)
+  - [3.2. Comparação de soluções Layer 1 e Layer 2.](#32-comparação-de-soluções-layer-1-e-layer-2)
+- [4. Interoperabilidade entre blockchains](#4-interoperabilidade-entre-blockchains)
+  - [4.1. Protocolos como Polkadot e Cosmos.](#41-protocolos-como-polkadot-e-cosmos)
+  - [4.2. Pontes (bridges) e desafios de interoperabilidade.](#42-pontes-bridges-e-desafios-de-interoperabilidade)
+- [5. Impactos ambientais do blockchain](#5-impactos-ambientais-do-blockchain)
+  - [5.1. Consumo energético do Proof of Work (PoW).](#51-consumo-energético-do-proof-of-work-pow)
+  - [5.2. Alternativas sustentáveis como Proof of Stake (PoS).](#52-alternativas-sustentáveis-como-proof-of-stake-pos)
+  - [5.3. Propostas de blockchain verdes e projetos relacionados.](#53-propostas-de-blockchain-verdes-e-projetos-relacionados)
+- [6. Segurança em blockchain](#6-segurança-em-blockchain)
+  - [6.1. Ataques conhecidos (51%, Sybil, Re-entrancy).](#61-ataques-conhecidos-51-sybil-re-entrancy)
+  - [6.2. Análise de vulnerabilidades em contratos inteligentes.](#62-análise-de-vulnerabilidades-em-contratos-inteligentes)
+  - [6.3. Ferramentas de auditoria de contratos (ex.: MythX, Slither).](#63-ferramentas-de-auditoria-de-contratos-ex-mythx-slither)
+- [7. Aplicabilidade](#7-aplicabilidade)
+  - [7.1. Aplicações em identidade digital e verificação de credenciais (SSI - Self-Sovereign Identity).](#71-aplicações-em-identidade-digital-e-verificação-de-credenciais-ssi---self-sovereign-identity)
+  - [7.2. Blockchain no setor público (governo, saúde, votações).](#72-blockchain-no-setor-público-governo-saúde-votações)
+  - [7.3. Aplicações em logística e rastreamento de cadeias de suprimento.](#73-aplicações-em-logística-e-rastreamento-de-cadeias-de-suprimento)
+- [8. Tokenomics (Economia de Tokens)](#8-tokenomics-economia-de-tokens)
+  - [8.1. Modelagem econômica de criptoativos.](#81-modelagem-econômica-de-criptoativos)
+  - [8.2. Diferenças entre utility tokens, security tokens e governance tokens.](#82-diferenças-entre-utility-tokens-security-tokens-e-governance-tokens)
+- [9. Blockchain e inteligência artificial](#9-blockchain-e-inteligência-artificial)
+  - [9.1. Usos de blockchain na validação de dados para IA.](#91-usos-de-blockchain-na-validação-de-dados-para-ia)
+  - [9.2. Propostas de descentralização de modelos de IA (ex.: Ocean Protocol).](#92-propostas-de-descentralização-de-modelos-de-ia-ex-ocean-protocol)
+- [10. Blockchain em metaversos](#10-blockchain-em-metaversos)
+  - [10.1. Tokens não fungíveis (NFTs) e a economia do metaverso.](#101-tokens-não-fungíveis-nfts-e-a-economia-do-metaverso)
+  - [10.2. Interação entre Web3 e mundos virtuais.](#102-interação-entre-web3-e-mundos-virtuais)
+- [11. Evolução técnica e novos paradigmas](#11-evolução-técnica-e-novos-paradigmas)
+  - [11.1 Arquiteturas emergentes como blockchain modular.](#111-arquiteturas-emergentes-como-blockchain-modular)
+  - [11.2. Tendências em zero-knowledge proofs (ZKPs) e privacidade.](#112-tendências-em-zero-knowledge-proofs-zkps-e-privacidade)
+- [12. Regulamentação e desafios legais](#12-regulamentação-e-desafios-legais)
+  - [12.1. Regulamentação de criptomoedas e blockchain no mundo.](#121-regulamentação-de-criptomoedas-e-blockchain-no-mundo)
+  - [12.2. Governança de DAOs e implicações legais.](#122-governança-de-daos-e-implicações-legais)
+  - [12.3. Proteção ao consumidor e segurança de dados em blockchains públicas.](#123-proteção-ao-consumidor-e-segurança-de-dados-em-blockchains-públicas)
 - [4. Tendências](#4-tendências)
   - [4.1. Situação de alguns projetos](#41-situação-de-alguns-projetos)
 - [5. Videos](#5-videos)
@@ -116,6 +150,8 @@ informação, programação e banco de dados.
   - [Aviso](#aviso)
   - [Licença](#licença)
 - [Estatísticas desta página](#estatísticas-desta-página)
+
+
 
 
 
@@ -1130,9 +1166,44 @@ Fonte: https://docs.oracle.com/en/database/oracle/oracle-database/19/admin/manag
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
+# 3. Escalabilidade e performance em blockchains
+
+## 3.1 Soluções como sharding, rollups e canais de estado.
+
+## 3.2. Comparação de soluções Layer 1 e Layer 2.
+
+[Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
+
+# 4. Interoperabilidade entre blockchains
+
+## 4.1. Protocolos como Polkadot e Cosmos.
+
+## 4.2. Pontes (bridges) e desafios de interoperabilidade.
+
+[Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
+
+# 5. Impactos ambientais do blockchain
+
+## 5.1. Consumo energético do Proof of Work (PoW).
+
+## 5.2. Alternativas sustentáveis como Proof of Stake (PoS).
+
+## 5.3. Propostas de blockchain verdes e projetos relacionados.
+
+[Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
+
+# 6. Segurança em blockchain
+
+## 6.1. Ataques conhecidos (51%, Sybil, Re-entrancy).
+
+## 6.2. Análise de vulnerabilidades em contratos inteligentes.
+
+## 6.3. Ferramentas de auditoria de contratos (ex.: MythX, Slither).
+
+[Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
 --- 
-# 3. Aplicabilidade 
+# 7. Aplicabilidade 
 
 
 1. Desenvolvimento de criptomoedas
@@ -1150,6 +1221,58 @@ Figura 20: Exemplo de cadeia logística.
 5. Ecônomia baseada em tokens
 
 6. Regulação em complience via blockchain.
+
+[Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
+
+## 7.1. Aplicações em identidade digital e verificação de credenciais (SSI - Self-Sovereign Identity).
+
+## 7.2. Blockchain no setor público (governo, saúde, votações).
+
+## 7.3. Aplicações em logística e rastreamento de cadeias de suprimento.
+
+[Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
+
+# 8. Tokenomics (Economia de Tokens)
+
+## 8.1. Modelagem econômica de criptoativos.
+
+## 8.2. Diferenças entre utility tokens, security tokens e governance tokens.
+
+[Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
+
+# 9. Blockchain e inteligência artificial
+
+## 9.1. Usos de blockchain na validação de dados para IA.
+
+## 9.2. Propostas de descentralização de modelos de IA (ex.: Ocean Protocol).
+
+[Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
+
+# 10. Blockchain em metaversos
+
+## 10.1. Tokens não fungíveis (NFTs) e a economia do metaverso.
+
+## 10.2. Interação entre Web3 e mundos virtuais.
+
+[Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
+
+# 11. Evolução técnica e novos paradigmas
+
+## 11.1 Arquiteturas emergentes como blockchain modular.
+
+## 11.2. Tendências em zero-knowledge proofs (ZKPs) e privacidade.
+
+[Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
+
+
+# 12. Regulamentação e desafios legais
+
+
+## 12.1. Regulamentação de criptomoedas e blockchain no mundo.
+
+## 12.2. Governança de DAOs e implicações legais.
+
+## 12.3. Proteção ao consumidor e segurança de dados em blockchains públicas.
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
