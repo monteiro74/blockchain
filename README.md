@@ -1,7 +1,6 @@
 # Sobre Blockchain e livros razão
 
 
-
 ---
 #### Objetivos: 
 ```
@@ -9,14 +8,10 @@
 2. Exemplos que podem ser citados e comentados nas disciplinas que necessitam do apoio
  de uma banco de dados e projeto de sistemas. 
 3. Este material é extremamente resumido e supõe que o leitor tem conhecimento básico
- de programação ou banco de dados. 
+ de programação, sistemas distribuídos e banco de dados. 
 4. Este não é um guia definitivo, mas um pequeno tutorial compilado para auxiliar
  alunos e devs. 
-5. Este material esta em construção.
 ```
-
-
-
 
 ---
 #### Observações:
@@ -27,12 +22,16 @@ engenharia de software e projeto de sistemas.
 3. É um prerequisito conhecimentos básicos de, segurança da 
 informação, programação e banco de dados.
 4. Esta página poderá passar por atualizações sem aviso prévio.
+5. Este material não tem foco em criptomoedas nem em inidicações de investimentos.
+6. Este material visa abordar aspectos tecnológicos sobre DLT, não tem intenção de 
+abordar criptmoedas, apesar as blockchains suportarem esse tipo de desenvolvimento, 
+eventualmente poderão ser mencionadas aqui.
+7. Este material esta em construção.
 ```
 
 
 ---
 # Sumário
-
 
 
 - [Sobre Blockchain e livros razão](#sobre-blockchain-e-livros-razão)
@@ -1142,27 +1141,27 @@ Fonte: https://docs.oracle.com/en/database/oracle/oracle-database/19/admin/manag
 
 ### 2.4.3. Outros bancos de dados + Blockchain
 
-[Blockchain baseadas em bancos de dados](https://blog.logrocket.com/top-7-blockchain-based-databases/)
+1. [Blockchain baseadas em bancos de dados](https://blog.logrocket.com/top-7-blockchain-based-databases/)
  
-[OurSQL — tool to replicate MySQL databases using blockchain](https://medium.com/@gelembjuk/oursql-tool-to-replicate-mysql-databases-using-blockchain-5ae509636435)
+2. [OurSQL — tool to replicate MySQL databases using blockchain](https://medium.com/@gelembjuk/oursql-tool-to-replicate-mysql-databases-using-blockchain-5ae509636435)
 
-[Bitcoin Blockchain SQL Schema for MySQL](https://crypto.bi/schema/)
+3. [Bitcoin Blockchain SQL Schema for MySQL](https://crypto.bi/schema/)
 
-[RBaaS: A Robust Blockchain as a Service Paradigm in Cloud-Edge Collaborative Environment](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9740132)
+4. [RBaaS: A Robust Blockchain as a Service Paradigm in Cloud-Edge Collaborative Environment](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9740132)
 
-[Integration of Blockchain and Remote Database Access Protocol-based Database](https://www.researchgate.net/publication/344194318_Integration_of_Blockchain_and_Remote_Database_Access_Protocol-based_Database)
+5. [Integration of Blockchain and Remote Database Access Protocol-based Database](https://www.researchgate.net/publication/344194318_Integration_of_Blockchain_and_Remote_Database_Access_Protocol-based_Database)
 
-[Blockchain Based Charity System Using PHP/MySQL](https://www.irjet.net/archives/V9/i5/IRJET-V9I555.pdf)
+6. [Blockchain Based Charity System Using PHP/MySQL](https://www.irjet.net/archives/V9/i5/IRJET-V9I555.pdf)
 
-[Building a Blockchain Inside PostgreSQL](https://postgresconf.org/conferences/2021_Postgres_Conference_Webinars/program/proposals/building-a-blockchain-inside-postgresql)
+7. [Building a Blockchain Inside PostgreSQL](https://postgresconf.org/conferences/2021_Postgres_Conference_Webinars/program/proposals/building-a-blockchain-inside-postgresql)
 
-[PostgreSQL and Blockchain: Storing Blockchain Data](https://reintech.io/blog/postgresql-and-blockchain-storing-data)
+8. [PostgreSQL and Blockchain: Storing Blockchain Data](https://reintech.io/blog/postgresql-and-blockchain-storing-data)
 
-[Blockchain PG: Enabling Authenticated Query and Trace Query in Database](https://link.springer.com/chapter/10.1007/978-3-030-60290-1_41)
+9. [Blockchain PG: Enabling Authenticated Query and Trace Query in Database](https://link.springer.com/chapter/10.1007/978-3-030-60290-1_41)
 
-[Blockchain Database: A Comprehensive Guide](https://www.mongodb.com/resources/basics/databases/blockchain-database)
+10. [Blockchain Database: A Comprehensive Guide](https://www.mongodb.com/resources/basics/databases/blockchain-database)
 
-[Blockchain-based Database to Ensure Data Integrity in Cloud Computing Environments](https://ceur-ws.org/Vol-1816/paper-15.pdf)
+11. [Blockchain-based Database to Ensure Data Integrity in Cloud Computing Environments](https://ceur-ws.org/Vol-1816/paper-15.pdf)
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
@@ -1170,7 +1169,12 @@ Fonte: https://docs.oracle.com/en/database/oracle/oracle-database/19/admin/manag
 
 ## 3.1 Soluções como sharding, rollups e canais de estado.
 
+> :warning: Aviso: Material em construção.
+
+
 ## 3.2. Comparação de soluções Layer 1 e Layer 2.
+
+> :warning: Aviso: Material em construção.
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
@@ -1178,7 +1182,11 @@ Fonte: https://docs.oracle.com/en/database/oracle/oracle-database/19/admin/manag
 
 ## 4.1. Protocolos como Polkadot e Cosmos.
 
+> :warning: Aviso: Material em construção.
+
 ## 4.2. Pontes (bridges) e desafios de interoperabilidade.
+
+> :warning: Aviso: Material em construção.
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
@@ -1186,9 +1194,15 @@ Fonte: https://docs.oracle.com/en/database/oracle/oracle-database/19/admin/manag
 
 ## 5.1. Consumo energético do Proof of Work (PoW).
 
+> :warning: Aviso: Material em construção.
+
 ## 5.2. Alternativas sustentáveis como Proof of Stake (PoS).
 
+> :warning: Aviso: Material em construção.
+
 ## 5.3. Propostas de blockchain verdes e projetos relacionados.
+
+> :warning: Aviso: Material em construção.
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
@@ -1196,9 +1210,15 @@ Fonte: https://docs.oracle.com/en/database/oracle/oracle-database/19/admin/manag
 
 ## 6.1. Ataques conhecidos (51%, Sybil, Re-entrancy).
 
+> :warning: Aviso: Material em construção.
+
 ## 6.2. Análise de vulnerabilidades em contratos inteligentes.
 
+> :warning: Aviso: Material em construção.
+
 ## 6.3. Ferramentas de auditoria de contratos (ex.: MythX, Slither).
+
+> :warning: Aviso: Material em construção.
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
@@ -1226,9 +1246,15 @@ Figura 20: Exemplo de cadeia logística.
 
 ## 7.1. Aplicações em identidade digital e verificação de credenciais (SSI - Self-Sovereign Identity).
 
+> :warning: Aviso: Material em construção.
+
 ## 7.2. Blockchain no setor público (governo, saúde, votações).
 
+> :warning: Aviso: Material em construção.
+
 ## 7.3. Aplicações em logística e rastreamento de cadeias de suprimento.
+
+> :warning: Aviso: Material em construção.
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
@@ -1236,7 +1262,11 @@ Figura 20: Exemplo de cadeia logística.
 
 ## 8.1. Modelagem econômica de criptoativos.
 
+> :warning: Aviso: Material em construção.
+
 ## 8.2. Diferenças entre utility tokens, security tokens e governance tokens.
+
+> :warning: Aviso: Material em construção.
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
@@ -1244,7 +1274,11 @@ Figura 20: Exemplo de cadeia logística.
 
 ## 9.1. Usos de blockchain na validação de dados para IA.
 
+> :warning: Aviso: Material em construção.
+
 ## 9.2. Propostas de descentralização de modelos de IA (ex.: Ocean Protocol).
+
+> :warning: Aviso: Material em construção.
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
@@ -1252,7 +1286,11 @@ Figura 20: Exemplo de cadeia logística.
 
 ## 10.1. Tokens não fungíveis (NFTs) e a economia do metaverso.
 
+> :warning: Aviso: Material em construção.
+
 ## 10.2. Interação entre Web3 e mundos virtuais.
+
+> :warning: Aviso: Material em construção.
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
@@ -1260,7 +1298,11 @@ Figura 20: Exemplo de cadeia logística.
 
 ## 11.1 Arquiteturas emergentes como blockchain modular.
 
+> :warning: Aviso: Material em construção.
+
 ## 11.2. Tendências em zero-knowledge proofs (ZKPs) e privacidade.
+
+> :warning: Aviso: Material em construção.
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
@@ -1270,9 +1312,15 @@ Figura 20: Exemplo de cadeia logística.
 
 ## 12.1. Regulamentação de criptomoedas e blockchain no mundo.
 
+> :warning: Aviso: Material em construção.
+
 ## 12.2. Governança de DAOs e implicações legais.
 
+> :warning: Aviso: Material em construção.
+
 ## 12.3. Proteção ao consumidor e segurança de dados em blockchains públicas.
+
+> :warning: Aviso: Material em construção.
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
 
@@ -1291,8 +1339,6 @@ https://trends.google.com.br/trends/explore?date=2020-04-10%202024-11-04&q=%2Fg%
 > Se a página do Google Trends apresentar um erro é só recarregá-la novamente!
 
 
-
-
 ![https://raw.githubusercontent.com/monteiro74/blockchain/refs/heads/main/figuras/tendencias.png](https://raw.githubusercontent.com/monteiro74/blockchain/refs/heads/main/figuras/tendencias.png)
 
 Figura 21: Google trends, mundo, 2020-2024, todas as categorias, pesquisa na web. Captura em Novembro/2024.
@@ -1305,11 +1351,6 @@ Figura 21: Google trends, mundo, 2020-2024, todas as categorias, pesquisa na web
 
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)<br>
-
-
-
-
-
 ---
 # 5. Videos
 
