@@ -26,7 +26,7 @@ informação, programação e banco de dados.
 6. Este material visa abordar aspectos tecnológicos sobre DLT, não tem intenção de 
 abordar criptmoedas, apesar as blockchains suportarem esse tipo de desenvolvimento, 
 eventualmente poderão ser mencionadas aqui.
-7. Este material esta em construção.
+7. Este material está em construção.
 ```
 
 
