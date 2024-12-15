@@ -869,7 +869,7 @@ Exemplo de NFT são os Bored Ape Yacht Club Galeria dos [BAYC](https://boredapey
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
 
-## 1.14. Stable Coin
+## 1.14. Stable coin
 
 São um tipo de criptomoeda que possui um valor atrelado a um ativo de referência que pode ser uma commodities, bens materiais, ouro ou outra moeda física. A ideia é ter uma **relação 1:1**, no qual a criptomeda stable coin tem seu valor indexado por uma outra moeda. Desta forma seu valor tende a não ter tanda volatilidade. Esta opção é mais atrativa pois permite a conversibilidade da moeda em outros bens.
 
@@ -908,7 +908,7 @@ Video sobre Dapps [What is a dApp? Decentralized Application on the Blockchain](
 
 ## 1.17. Soluções de 2º camada x Sidechains
 
-| Critério                | Soluções de Segunda Camada                                       | Sidechains                                               |
+| Critério                | Soluções de 2a Camada                                       | Sidechains                                               |
 |-------------------------|------------------------------------------------------------------|----------------------------------------------------------|
 | **Estrutura**           | Construídas como uma camada extra sobre a blockchain principal, processando transações fora da primeira camada. | Blockchains independentes que operam em paralelo à  blockchain principal, conectadas a ela por um “peg” bidirecional.      |
 | **Exemplos**            | Lightning Network roda sobre Bitcoin, Plasma roda sobre Ethereum                 | Liquid Network roda sobre Bitcoin, Polygon roda sobre Ethereum |
@@ -927,7 +927,6 @@ Dica: [O que são sidechains e como funcionam?](https://www.bity.com.br/blog/o-q
 > :warning: Críticas: [Lightning Network has Failed](https://www.youtube.com/watch?v=5Cq0C0SpbkY).
 
 [Bitcoin Lightning Network Explained: How it Actually Works](https://www.youtube.com/watch?v=yKdK-7AtAMQ)
-
 
 [Voltar ao início](#sobre-blockchain-e-livros-razão)
 
